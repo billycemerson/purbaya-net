@@ -5,9 +5,9 @@ import os
 import time
 import re
 
-def scrape_kompas(query="purbaya yudhi sadewa", start_date="2025-09-01", end_date="2025-10-10"):
+def scrape_detik(query="purbaya", start_date="01/09/2025", end_date="10/10/2025"):
 
-    base_url = "https://search.kompas.com/search"
+    base_url = "https://www.detik.com/search/searchall"
     results = []
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -16,14 +16,16 @@ def scrape_kompas(query="purbaya yudhi sadewa", start_date="2025-09-01", end_dat
     page = 1
 
     while True:
-        print(f"Scraping Kompas page {page}...")
+        print(f"Scraping Detik page {page}...")
 
-        # Build URL with query, and pagination
+        # Build URL with query, date range, and pagination
         url = (
-            f"{base_url}?q={query.replace(' ', '+')}"
-            f"&site_id=all"
-            f"&start_date={start_date}"
-            f"&end_date={end_date}"
+            f"{base_url}?query={query.replace(' ', '%20')}"
+            f"&result_type=relevansi"
+            f"&fromdatex={start_date}"
+            f"&todatex={end_date}"
+            f"&site=all"
+            f"&sorttime=0"
             f"&page={page}"
         )
 
@@ -37,56 +39,72 @@ def scrape_kompas(query="purbaya yudhi sadewa", start_date="2025-09-01", end_dat
         soup = BeautifulSoup(r.text, "html.parser")
 
         # Check if "no results" message appears
-        no_results = soup.find("div", class_="search-result-empty")
+        no_results = soup.find("div", class_="search-not-found")
         if no_results:
             print(f"No more articles found after page {page - 1}. Ending scrape.")
             break
 
-        # Find all article links
-        article_links = soup.find_all("a", class_="article-link")
+        # Find all article containers
+        articles = soup.find_all("article", class_="list-content__item")
 
-        if not article_links:
+        if not articles:
             print(f"No articles found on page {page}. Ending scrape.")
             break
 
+        articles_found = 0
         # Extract data from each article
-        for link_tag in article_links:
-            article_url = link_tag.get("href")
-            if not article_url or "kompas.com" not in article_url:
+        for article in articles:
+            # Skip video and photo articles (they have different media classes)
+            media_div = article.find("div", class_="media")
+            if not media_div:
+                continue
+                
+            # Skip if it's video (has icon-play-bg) or photo (has icon-camera-bg)
+            media_icon = media_div.find("i", class_=re.compile(r"icon-play-bg|icon-camera-bg"))
+            if media_icon:
                 continue
 
-            wrap_div = link_tag.find("div", class_="articleItem-wrap")
-            if not wrap_div:
+            # Find the link element
+            link_tag = article.find("a", href=True)
+            if not link_tag:
+                continue
+                
+            article_url = link_tag.get("href")
+            if not article_url or "detik.com" not in article_url:
                 continue
 
             # Extract title
-            title_tag = wrap_div.find("h2", class_="articleTitle")
+            title_tag = article.find("h3", class_="media__title")
             if not title_tag:
                 continue
-            title = title_tag.get_text(strip=True)
+            title_link = title_tag.find("a")
+            if not title_link:
+                continue
+            title = title_link.get_text(strip=True)
 
             # Extract date
-            date_tag = wrap_div.find("div", class_="articlePost-date")
+            date_tag = article.find("span", attrs={"d-time": True})
             date_text = date_tag.get_text(strip=True) if date_tag else "Date not available"
 
             # Extract year using regex
             year_match = re.search(r'\b(20\d{2})\b', date_text)
             year = year_match.group(1) if year_match else None
 
-            # Extract description in <p> tag if available
-            desc = wrap_div.find("p")
-            desc = desc.get_text(strip=True) if desc else "Description not available"
+            # Get description if available
+            desc_tag = article.find("div", class_="media__desc")
+            desc = desc_tag.get_text(strip=True) if desc_tag else "Description not available"
 
             results.append({
-                "media": "kompas",
+                "media": "detik",
                 "title": title,
                 "description": desc,
                 "url": article_url,
                 "date": date_text,
                 "year": year
             })
+            articles_found += 1
 
-        print(f"Page {page}: found {len(article_links)} articles.")
+        print(f"Page {page}: found {articles_found} articles.")
 
         # Be respectful — wait between requests
         time.sleep(1)
@@ -114,16 +132,16 @@ def validate_scraped_data(df):
 
 if __name__ == "__main__":
     # Scrape with specified query
-    df = scrape_kompas(
-        query="purbaya yudhi sadewa",
-        start_date="2025-09-01",
-        end_date="2025-10-10"
+    df = scrape_detik(
+        query="purbaya",
+        start_date="01/09/2025",
+        end_date="10/10/2025"
     )
 
     df = validate_scraped_data(df)
 
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    data_path = os.path.join(base_dir, "data", "kompas.csv")
+    data_path = os.path.join(base_dir, "data", "detik.csv")
 
     os.makedirs(os.path.dirname(data_path), exist_ok=True)
 
@@ -131,4 +149,4 @@ if __name__ == "__main__":
         df.to_csv(data_path, index=False, encoding="utf-8-sig")
         print(f"Successfully saved {len(df)} articles to: {data_path}")
     else:
-        print("No articles found. Try changing the query or check Kompas HTML structure.")
+        print("No articles found. Try changing the query or check Detik HTML structure.")
