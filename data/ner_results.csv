@@ -1,3038 +1,3647 @@
 article_id,entity,label,score
-0,men,NOR,0.5440499
-0,purba,PER,0.55950963
-0,menteri perindustrian,NOR,0.9876251
-0,agus gumiwang kartasasmita,PER,0.99304205
-0,menteri keuangan,NOR,0.9605613
-0,purbaya,PER,0.7842646
-0,yudhi sadewa,PER,0.9231419
-1,purba,PER,0.75274444
-1,pertamina,ORG,0.8681981
-1,menkeu,NOR,0.70265096
-1,purbaya,PER,0.51226026
-1,yudhi sadewa,PER,0.8880952
-1,pertamina,ORG,0.92831117
-2,purba,PER,0.70166063
-3,j. b sumarlin,PER,0.9850956
-3,menteri purba,NOR,0.51375586
-3,##ya,ORG,0.3341853
-3,indonesia,GPE,0.96912056
-3,j. b sumarlin,PER,0.97133625
-4,purbaya,PER,0.6993919
-4,purba,PER,0.9341871
-4,yudhi sadewa,PER,0.90363044
-6,purbaya,PER,0.9621215
-6,kcic,ORG,0.7041498
-6,menkeu,NOR,0.72754866
-6,purbaya,PER,0.7901094
-6,yudhi sadewa,PER,0.91711366
-6,apbn,LAW,0.9507595
-6,kereta cepat,PRD,0.848906
-6,kcic,ORG,0.77813023
-7,ala friedman,PER,0.80636126
-7,purba,PER,0.68809825
-8,dedi mulyadi,PER,0.987536
-8,purba,PER,0.7131516
-8,gubernur,NOR,0.6386504
-8,dedi mulyadi,PER,0.9776394
-9,menkeu purba,NOR,0.7223197
-9,menkeu,NOR,0.86850435
-9,purba,PER,0.49002674
-9,mb,PER,0.4502882
-10,menkeu,NOR,0.64916694
-10,purba,PER,0.30253404
-10,ri,GPE,0.47629952
-10,menteri keuangan,NOR,0.9129374
-10,purbaya yudhi sadewa,PER,0.9624522
-10,indeks kepercayaan konsumen,PRD,0.8690064
-10,ikk,PRD,0.75362736
-10,september 2025,DAT,0.99337256
-11,5,ORD,0.3613397
-11,menke,NOR,0.709875
-11,##u,ORG,0.4373437
-11,purba,PER,0.29975733
-11,##ya,ORG,0.4080826
-11,satu bulan,QTY,0.8128809
-11,pertama,ORD,0.91736484
-11,rabu ( 8 / 10 / 2025 ),DAT,0.99161583
-11,satu bulan,QTY,0.8274664
-11,purbaya yudhi sadewa,PER,0.9221609
-11,menteri keuangan,NOR,0.9238906
-12,18,CRD,0.8185484
-12,menkeu purba,NOR,0.76956797
-12,##ya,ORG,0.36612284
-12,menteri keuangan,NOR,0.92633563
-12,purbaya,PER,0.7758068
-12,yudhi sadewa,PER,0.93432355
-12,jakarta,GPE,0.9983929
-12,selasa,DAT,0.9921225
-13,purba,PER,0.9747165
-13,jakarta collaboration fund,ORG,0.79376936
-13,pemprov dki,NOR,0.92116356
-13,jakarta collaboration fund,ORG,0.77445894
-13,apbd,LAW,0.922197
-14,luhut,PER,0.9551741
-14,menkeu,NOR,0.7452473
-14,purbaya,PER,0.42322838
-14,bg,ORG,0.2606262
-14,##n,PRD,0.75624096
-14,kepala dewan ekonomi nasional,NOR,0.856017
-14,den,PER,0.39249504
-14,luhut binsar pandjaitan,PER,0.8943362
-14,menteri keuangan,NOR,0.93323064
-14,purbaya yudhi sadewa,PER,0.9599502
-14,bg,ORG,0.33912313
-14,##n,PRD,0.699064
-15,purbaya,PER,0.78120327
-15,pemerintah,NOR,0.9407182
-15,bunga deposito valas,PRD,0.76116693
-15,menteri keuangan,NOR,0.92566884
-15,purbaya yudhi sadewa,PER,0.9850617
-15,pemerintah,NOR,0.9648192
-15,bank,ORG,0.5669244
-15,himbara,ORG,0.74325293
-16,wamenkeu anggito,ORG,0.7126099
-16,lps,ORG,0.7490947
-16,wamenkeu,ORG,0.6693464
-16,angg,PER,0.34451386
-16,##ito,ORG,0.48749375
-16,lps,ORG,0.8132899
-16,rapat,LOC,0.50678694
-16,dpr,NOR,0.523667
-16,parlemen,LOC,0.8321581
-16,senin ( 22 / 9 / 2025 ),DAT,0.992661
-17,purbaya,PER,0.77499425
-17,menteri keuangan,NOR,0.8322665
-17,purbaya yudhi sadewa,PER,0.9114421
-17,indonesia,GPE,0.97884685
-18,menkeu,NOR,0.6475017
-18,purbaya,PER,0.78435266
-18,menteri keuangan,NOR,0.9058932
-18,purbaya yudhi,PER,0.9819957
-18,ii,ORD,0.3942683
-18,2025,DAT,0.57808703
-19,menkeu,NOR,0.7702558
-19,purbaya,PER,0.4992419
-19,rokok,PRD,0.41693792
-19,57 persen,PRC,0.9903547
-19,menteri keuangan,NOR,0.94093734
-19,purbaya,PER,0.96788
-19,yudhi sadewa,PER,0.9326681
-19,tembakau,PRD,0.5507631
-19,rokok,PRD,0.5385493
-19,57 persen,PRC,0.9935287
-20,tut,PER,0.7560431
-20,soeharto,PER,0.6990258
-20,menkeu,NOR,0.8109822
-20,purbaya,PER,0.72537273
-20,purbaya,PER,0.8438175
-21,men,NOR,0.53575313
-21,##keu,ORG,0.5498259
-21,purba,PER,0.31660673
-21,##ya,ORG,0.4312867
-21,tiga,CRD,0.8866293
-21,menteri keuangan,NOR,0.8083426
-21,purbaya,PER,0.91519344
-21,yudhi sadewa,PER,0.8847778
-21,lps,ORG,0.80029494
-22,mbg,ORG,0.59455967
-22,menkeu,NOR,0.71790296
-22,purba,PER,0.46462128
-22,##ya,ORG,0.3359834
-22,menkeu,NOR,0.78687286
-22,purba,PER,0.57983667
-22,monev,PER,0.73455524
-22,mbg,ORG,0.7394875
-23,prabowo,PER,0.9967043
-23,purbaya,PER,0.738107
-23,sri mulyani,PER,0.9919584
-23,purbaya,PER,0.9654596
-23,sri mulyani,PER,0.9907271
-23,prabowo,PER,0.9952586
-24,purbaya,PER,0.96575046
-24,menkeu,NOR,0.5239307
-24,lps,ORG,0.78700256
-24,menteri keuangan (,NOR,0.877914
-24,menkeu,NOR,0.8186869
-24,purbaya yudhi sadewa,PER,0.9858861
-24,ketua lps,ORG,0.61144036
-25,menkeu,NOR,0.7876694
-25,purba,PER,0.6217444
-25,menteri keuangan (,NOR,0.8142864
-25,menkeu,NOR,0.84683037
-25,purbaya,PER,0.8514953
-25,yudhi sadewa,PER,0.8923611
-26,menkeu purba,NOR,0.82777643
-26,fpbi,NOR,0.7710932
-26,pemerintah indonesia,NOR,0.9760177
-27,menkeu,NOR,0.6108544
-27,purbaya,PER,0.6255193
-27,purbaya,PER,0.9093955
-28,18,CRD,0.852903
-28,menkeu purbaya,NOR,0.8228548
-28,18,CRD,0.8799906
-28,kantor menteri,LOC,0.49127543
-28,keuangan purbaya,ORG,0.45204923
-28,yudhi sadewa,PER,0.68733215
-28,jakarta,GPE,0.99716836
-28,selasa ( 7 / 10 / 2025 ),DAT,0.9958658
-29,purbaya,PER,0.94500864
-29,18,CRD,0.91537917
-29,menteri keuangan,NOR,0.9372259
-29,purbaya yudhi sadewa,PER,0.9707357
-30,satu jam,QTY,0.8583697
-30,pramono,PER,0.98327065
-30,menkeu,NOR,0.9308667
-30,purbaya,PER,0.83015156
-30,gubernur dki jakarta,NOR,0.9918954
-30,pramono anung,PER,0.98097986
-30,menteri keuangan ri,NOR,0.9948831
-30,purbaya yudhi sadewa,PER,0.9939225
-30,balai kota jakarta,LOC,0.64557785
-31,menkeu purba,NOR,0.5947727
-31,##ya,ORG,0.4734273
-31,menteri keuangan,NOR,0.917369
-31,purbaya,PER,0.88773537
-31,yudhi sadewa,PER,0.90792525
-32,menkeu,NOR,0.7707484
-32,purbaya,PER,0.5708316
-32,kepala bgn,ORG,0.8248508
-32,mbg,PRD,0.44613755
-32,menteri keuangan,NOR,0.9457091
-32,purbaya yudhi sadewa,PER,0.93763083
-32,bgn,ORG,0.8456572
-33,menkeu,NOR,0.90450114
-33,purba,PER,0.3253298
-33,rokok,PRD,0.36052063
-33,202,CRD,0.3041802
-33,##6,LAW,0.25156793
-33,menkeu purba,NOR,0.825982
-33,##ya,PER,0.37629455
-33,pemerintah,NOR,0.97290957
-34,anggito abimanyu,PER,0.95366627
-34,ketua lps,ORG,0.7187961
-34,purbaya,PER,0.9736018
-34,anggito abimanyu,PER,0.97193855
-34,dewan komisioner lembaga penjamin simpanan,ORG,0.8372776
-34,lps,ORG,0.72300667
-34,2025 – 2030,DAT,0.8977937
-35,menkeu,NOR,0.86174935
-35,purbaya,PER,0.4774807
-35,tutut soeharto,PER,0.63330555
-35,ptun,ORG,0.91936433
-35,menteri keuangan,NOR,0.9538792
-35,purbaya,PER,0.9649176
-35,yudhi sadewa,PER,0.9339144
-35,siti hardiyanti hastuti rukmana,PER,0.9917149
-35,tutut soeharto,PER,0.6847059
-36,menkeu,NOR,0.6732581
-36,purbaya,PER,0.5385723
-36,menkeu,NOR,0.8322521
-36,purbaya,PER,0.490696
-36,oktober 2025,DAT,0.9874383
-37,purbaya yudhi sadewa,PER,0.9351987
-37,sri mulyani,PER,0.9899201
-37,jokowi,PER,0.9893315
-37,presiden ke - 7 republik indonesia,NOR,0.7095526
-37,joko widodo,PER,0.9966608
-37,jokowi,PER,0.99300414
-37,prabowo subianto,PER,0.9921842
-38,men,NOR,0.7587332
-38,##keu,ORG,0.5328288
-38,purbaya,PER,0.59459424
-38,saham gorengan,PRD,0.8525594
-38,bei,ORG,0.7954285
-38,direktur utama bei,ORG,0.79953617
-38,iman rachman,PER,0.9916452
-39,prasasti,LOC,0.41213536
-39,luncheon,PRD,0.39318168
-39,talk,WOA,0.42168993
-39,men,NOR,0.6262476
-39,##keu purba,ORG,0.52584666
-39,indonesia,GPE,0.988565
-40,purba,PER,0.96287364
-40,prabowo,PER,0.9873905
-40,men,NOR,0.50320804
-40,purba,PER,0.98650265
-40,februari 2026,DAT,0.96972084
-41,misbakhun,PER,0.8773003
-41,apbn 2026,LAW,0.85833365
-41,indonesia,GPE,0.92204815
-41,as,GPE,0.9759812
-41,pemerintah as,NOR,0.7823324
-42,menkeu,NOR,0.7049652
-42,purbaya,PER,0.46697485
-42,bei,ORG,0.57626235
-42,saham,PRD,0.79028094
-42,menteri keuangan,NOR,0.9051385
-42,purbaya,PER,0.93779093
-42,yudhi sadewa,PER,0.9560848
-42,bei,ORG,0.39682162
-42,saham goreng,PRD,0.9294189
-43,menkeu,NOR,0.72031015
-43,purbaya,PER,0.38723382
-43,dollar wni,MON,0.57786804
-43,menteri keuangan,NOR,0.91950893
-43,purbaya,PER,0.9568765
-43,yudhi sadewa,PER,0.9352576
-43,dollar wni,MON,0.615413
-44,pisau,PRD,0.5575762
-44,dua,CRD,0.4095768
-45,purbaya,PER,0.9134202
-45,rayu,PER,0.7871232
-45,prabowo,PER,0.4963099
-45,purbaya yudhi sadewa,PER,0.9611481
-45,anggaran transfer ke daerah,LAW,0.8444518
-45,tkd,LAW,0.7220688
-45,anggaran pendapatan dan belanja negara ( apbn ) 2026,LAW,0.8483502
-46,tk,LAW,0.4241692
-46,202,LAW,0.26330775
-46,##6,MON,0.31537682
-46,purba,PER,0.97547287
-46,menkeu,NOR,0.8415789
-46,purbaya,PER,0.6988578
-46,pemerintah pusat,NOR,0.9680494
-46,tk,LAW,0.51196784
-46,202,LAW,0.24974628
-46,##6,MON,0.32423854
-46,pemerintah,NOR,0.9363512
-47,menkeu purba,NOR,0.6649413
-47,##ya,ORG,0.513837
-47,##n,ORG,0.44826898
-47,3,CRD,0.85863006
-47,purba,PER,0.85444015
-47,##n,ORG,0.3909266
-48,kiai,NOR,0.3868623
-48,jatim,PER,0.5327575
-48,menkeu purbaya,NOR,0.72600925
-48,gus maksum,PER,0.9853897
-49,purba,PER,0.51751673
-49,purba,PER,0.64561963
-50,purbaya,PER,0.9381142
-50,hotman paris,ORG,0.7940225
-50,menteri keuangan,NOR,0.87891316
-50,purbaya yudhi sadewa,PER,0.9601137
-50,hotman paris,ORG,0.8832459
-51,menkeu purba,NOR,0.62595576
-51,##ya,ORG,0.3989671
-51,bi,ORG,0.9567428
-51,menteri keuangan,NOR,0.9324279
-51,purbaya yudhi sadewa,PER,0.92109704
-51,pemerintah,NOR,0.889702
-51,bank indonesia,ORG,0.98447347
-51,bi,ORG,0.78792226
-52,purba,PER,0.87217945
-52,rp 60 triliun,MON,0.9972387
-52,"rp 121, 4 triliun",MON,0.99817544
-52,meter,PER,0.7136096
-52,purba,PER,0.8485047
-52,200,CRD,0.93850285
-53,menke,NOR,0.5824777
-53,##u,ORG,0.52567714
-53,purba,PER,0.3696116
-53,##ya,ORG,0.4158031
-53,asn,NOR,0.41980302
-53,menteri keuangan,NOR,0.895283
-53,purbaya,PER,0.9269949
-53,yudhi sadewa,PER,0.9503025
-53,asn,NOR,0.35212514
-53,perpres nomor 79 tahun 2025,LAW,0.94661576
-54,menkeu,NOR,0.7934815
-54,purba,PER,0.36182866
-54,##ya,ORG,0.48488703
-54,tax,LAW,0.2616073
-54,amnesty,ORG,0.41836044
-54,menteri keuangan,NOR,0.9464899
-54,purbaya,PER,0.93870807
-54,yudhi sadewa,PER,0.90192324
-54,tax amnesty,EVT,0.43781933
-55,menke,NOR,0.6654102
-55,##u,ORG,0.54301107
-55,purba,PER,0.38714886
-55,##ya,ORG,0.5266798
-55,tax amnesty jilid iii,LAW,0.56966007
-55,menteri keuangan,NOR,0.8966422
-55,purbaya,PER,0.95754063
-55,yudhi sadewa,PER,0.87324584
-55,amnes,PRD,0.5427484
-56,purba,PER,0.83646333
-56,menteri keuangan,NOR,0.9143865
-56,purbaya yudhi sadewa,PER,0.98295885
-56,plts,PRD,0.8994452
-57,purbaya,PER,0.90699553
-57,tax amnesty,LAW,0.51646924
-57,kibul,PER,0.49280334
-57,kibul,PER,0.56104624
-57,menteri keuangan,NOR,0.932006
-57,purbaya,PER,0.9656582
-57,yudhi sadewa,PER,0.94567984
-57,tax,LAW,0.354999
-57,amnes,PRD,0.4393114
-57,##ty,LAW,0.32942787
-58,purba,PER,0.56990457
-58,mb,LAW,0.47743368
-58,##g,PRD,0.6183013
-58,purba,PER,0.87424666
-58,anggaran belanja,LAW,0.62553763
-58,pemerintah,NOR,0.5738322
-58,bergi,EVT,0.44046092
-58,gratis,PRD,0.4076724
-58,##g,PRD,0.5684948
-59,tutut,NOR,0.3947425
-59,soeharto,PER,0.58288425
-59,menkeu,NOR,0.884969
-59,purbaya,PER,0.8349658
-59,purbaya yudhi sadewa,PER,0.94199514
-59,##keu,NOR,0.5300071
-60,purba,PER,0.8798982
-60,rp 71 triliun,MON,0.9965663
-60,mb,PER,0.6814674
-60,##g,ORG,0.64359444
-60,mb,PER,0.6388514
-60,##g,ORG,0.6579781
-60,purba,PER,0.65592873
-60,lampu,PRD,0.5345349
-61,prabowo,PER,0.9952361
-61,zulhas hingga,PER,0.8353543
-61,purbaya,PER,0.76400584
-61,prabowo subianto,PER,0.9790188
-61,pemerintah,NOR,0.9549678
-62,##keu,NOR,0.39314055
-62,purbaya,PER,0.7463985
-62,menteri keuangan,NOR,0.7493478
-62,prabowo subianto,PER,0.9888499
-62,purbaya yudhi sadewa,PER,0.97834724
-63,menkeu,NOR,0.7861764
-63,purbaya,PER,0.3890868
-63,menkeu,NOR,0.8993905
-63,purbaya,PER,0.73803174
-63,bp,NOR,0.34893796
-63,##js,PRD,0.4062963
-63,pemerintah,NOR,0.9628554
-64,menkeu,NOR,0.66512704
-64,menteri keuangan,NOR,0.9507804
-64,ketiga,ORD,0.90644765
-65,18,CRD,0.9179272
-65,menteri,NOR,0.45603243
-65,purbaya,PER,0.67462313
-65,18,CRD,0.92597395
-65,menkeu purbaya,NOR,0.80519867
-65,70 persen,PRC,0.9781923
-66,menkeu,NOR,0.7046635
-66,purba,PER,0.55041367
-66,tkd 2026,LAW,0.52711487
-66,pemerintah,NOR,0.93859625
-66,anggaran transfer,LAW,0.7204012
-66,daerah,LAW,0.7542484
-66,tkd,LAW,0.6873601
-66,anggaran pendapatan dan belanja negara ( apbn ) 2026,LAW,0.85936385
-67,purbaya restu,PER,0.8708377
-67,gedung,FAC,0.38263598
-67,bank jakarta,ORG,0.5912387
-67,apbn,LAW,0.94409853
-67,bank jakarta,ORG,0.9296044
-67,bank bumd dki,ORG,0.860035
-67,apbn,LAW,0.9633864
-68,men,NOR,0.7348499
-68,##keu purbaya,ORG,0.5124699
-68,puluhan,MON,0.8406761
-68,triliun,MON,0.49935138
-68,bank jakarta,ORG,0.98421043
-68,menteri keuangan,NOR,0.75756896
-68,purbaya,PER,0.9403635
-68,yudhi sadewa,PER,0.91442525
-68,rp 10 - 20 triliun,MON,0.9975745
-68,bank jakarta,ORG,0.9846766
-69,menkeu purba,NOR,0.71626014
-69,##ya,ORG,0.58563083
-69,balai kota,ORG,0.5003577
-69,pramono,PER,0.9258758
-69,menkeu purba,NOR,0.792163
-69,pramono,PER,0.9254554
-69,pemprov dki jakarta,NOR,0.9735273
-70,kemenperin,NOR,0.9263579
-70,menkeu purbaya,NOR,0.7716328
-70,rokok,PRD,0.48749605
-70,2026,CRD,0.3412104
-70,menteri keuangan,NOR,0.9716704
-70,purbaya,PER,0.9468213
-70,yudhi sadewa,PER,0.9420459
-70,rokok,PRD,0.5195344
-70,2026,CRD,0.32412788
-71,menkeu,NOR,0.8245259
-71,purba,PER,0.43045044
-71,online,PRD,0.48505786
-71,kemenkeu,NOR,0.9146781
-71,kebijakan pajak penghasilan (,LAW,0.8240806
-71,pph ) pasal 22,LAW,0.8274328
-71,"0, 5 persen",PRC,0.99125093
-71,-,PRD,0.4381748
-72,purbaya,PER,0.7645873
-72,bunga kur perumahan,PRD,0.50500435
-72,menteri keuangan (,NOR,0.82605296
-72,menkeu,NOR,0.8299864
-72,purbaya yudhi sadewa,PER,0.97819114
-72,bunga kur,PRD,0.34078184
-72,pemerintah,NOR,0.9313474
-74,##u,ORG,0.38781822
-74,ketua banggar dpr ri,NOR,0.9801909
-74,said,PER,0.98992914
-74,##ke,NOR,0.3304197
-74,##u,ORG,0.4264534
-75,anggito abimanyu,PER,0.9496774
-75,wamenkeu,ORG,0.8851277
-75,lps gantikan purba,ORG,0.7889402
-75,##ya,PER,0.4350617
-75,anggito abimanyu,PER,0.96247274
-75,dewan komisioner lembaga penjamin simpanan,ORG,0.88951087
-75,lps,ORG,0.69335055
-75,2025 - 2030,DAT,0.8211505
-76,purbaya,PER,0.9073434
-76,badan penerimaan negara,ORG,0.46430644
-76,menteri keuangan,NOR,0.91548824
-76,purbaya yudhi sadewa,PER,0.9729989
-76,bpn,ORG,0.61489767
-77,amnesty,EVT,0.37988716
-77,menkeu purba,NOR,0.84237885
-77,##ya,ORG,0.304657
-77,menteri keuangan,NOR,0.94910187
-77,purbaya,PER,0.86495495
-77,yudhi sadewa,PER,0.98380756
-77,pengampunan pajak,EVT,0.5688088
-77,tax amnesty,EVT,0.49871838
-78,menkeu,NOR,0.6999564
-78,purbaya,PER,0.37120938
-78,oktober,DAT,0.9936186
-78,menteri keuangan,NOR,0.91946685
-78,purbaya yudhi sadewa,PER,0.94706124
-78,95 persen,PRC,0.9937808
-79,menkeu purba,NOR,0.63981855
-79,##ya,ORG,0.4991694
-79,menteri keuangan,NOR,0.9228394
-79,purbaya yudhi sadewa,PER,0.9768905
-79,e - commerce,PRD,0.66294616
-79,2026,DAT,0.91438645
-80,sebulan,QTY,0.7665811
-80,menkeu,NOR,0.60010487
-80,purba,PER,0.9856365
-80,sebulan,QTY,0.62226266
-80,menkeu,NOR,0.78719884
-80,purbaya,PER,0.776418
-80,setahun,QTY,0.80690634
-81,menkeu,NOR,0.5967836
-81,purbaya,PER,0.54360384
-81,prabowo,PER,0.9962121
-81,wamenkeu,PRD,0.6841104
-81,prabowo subianto,PER,0.9893809
-81,wamenkeu,PRD,0.6809704
-81,anggito abimanyu,PER,0.88559365
-82,18,CRD,0.9420369
-82,menkeu purba,NOR,0.7506817
-82,18,CRD,0.9635115
-82,70 persen,PRC,0.95711625
-82,menkeu purba,NOR,0.6766596
-83,gubernur,NOR,0.79561675
-83,indonesia,GPE,0.5530179
-83,purbaya,PER,0.79678553
-83,tkd 2026,LAW,0.6124082
-83,app,ORG,0.4752257
-83,menteri keuangan,NOR,0.96660525
-83,purbaya yudhi sadewa,PER,0.902288
-83,gedung djuanda kemenekeu,LOC,0.83607596
-83,jakarta,GPE,0.99744296
-83,selasa ( 7 / 10 / 2025 ),DAT,0.9947288
-83,tk,LAW,0.54109246
-83,202,CRD,0.35740694
-83,##6,LAW,0.30524737
-84,menkeu,NOR,0.6532628
-84,purba,ORG,0.5498633
-84,##g,PRD,0.42090943
-84,menkeu purba,NOR,0.6851449
-84,##ya,ORG,0.38905698
-85,pramono,PER,0.94355583
-85,dbh,ORG,0.40988737
-85,jakarta,GPE,0.50502414
-85,menkeu purbaya,NOR,0.57756567
-85,gubernur dki jakarta,NOR,0.988836
-85,pramono anu,PER,0.9042973
-85,##h,ORG,0.3862098
-85,menteri keuangan,NOR,0.87145454
-85,purbaya yudhi sadewa,PER,0.88058335
-86,rokok,PRD,0.58501726
-86,purba,PER,0.76675636
-86,kemenkeu,NOR,0.92703193
-86,rokok,PRD,0.5837321
-86,indonesia,GPE,0.9946075
-87,purbaya,PER,0.92797285
-87,anggito,PER,0.910308
-87,lps,ORG,0.7131692
-87,presiden,NOR,0.64713764
-87,anggito abimanyu,PER,0.96206903
-87,dewan komisioner lembaga penjamin simpanan,ORG,0.81109905
-87,lps,ORG,0.6871135
-87,2025 - 2030,DAT,0.93721586
-88,menkeu,NOR,0.79992706
-88,purbaya,PER,0.8957888
-88,anggito abimanyu,PER,0.97355014
-88,ketua,NOR,0.6324742
-88,dewan komisioner lps,ORG,0.61343145
-88,lps,ORG,0.56879675
-88,purbaya,PER,0.90845895
-88,menke,NOR,0.6200597
-88,anggito abimanyu,PER,0.9639285
-88,purbaya,PER,0.9421648
-89,menkeu,NOR,0.7093304
-89,purbaya,PER,0.61646783
-89,coretax,PRD,0.69490856
-89,sebulan,QTY,0.5407297
-89,menteri keuangan,NOR,0.9084794
-89,purbaya,PER,0.9620509
-89,yudhi sadewa,PER,0.891661
-89,sistem coretax,PRD,0.6737908
-90,ida yulidina,PER,0.9901718
-90,menkeu,NOR,0.7063324
-90,purbaya,ORG,0.4116696
-90,ida yulidina,PER,0.992767
-90,pemenang wajah femina 1989,EVT,0.90007526
-90,menkeu,NOR,0.61539596
-90,purbaya yudhi sadewa,PER,0.85318357
-91,##u,ORG,0.3965618
-91,batik trimina,PRD,0.7527199
-91,trun,WOA,0.40406528
-91,##tum,PRD,0.677914
-91,purba,PER,0.36058858
-91,batik,PRD,0.5470265
-91,gong,PRD,0.6413431
-91,##gong,WOA,0.48429465
-91,trun,PRD,0.2926487
-92,kebijakan cukai,LAW,0.39837343
-92,rokok,PRD,0.39355177
-92,2026,LAW,0.4036761
-92,purba,PER,0.9750098
-92,menkeu,NOR,0.80458456
-92,purbaya,PER,0.9445503
-92,yudhi sadewa,PER,0.8886503
-92,cukai rokok,PRD,0.4640429
-92,2026,DAT,0.70979005
-92,rokok,PRD,0.5783356
-93,menkeu,NOR,0.73519975
-93,purba,PER,0.57787895
-93,tim akselerasi program prioritas,ORG,0.8946421
-93,prabowo,PER,0.9597452
-93,pemerintah,NOR,0.9641299
-93,tim akselerasi program,ORG,0.7870248
-93,prabowo subianto,PER,0.99157876
-94,kari,PER,0.8784389
-94,##r,PER,0.4271911
-94,purbaya,PER,0.7848456
-94,menteri keuangan,NOR,0.8496069
-94,purbaya yudhi sadewa,PER,0.9297929
-94,menteri keuangan,NOR,0.7855088
-95,purbaya,PER,0.83723265
-95,lps,ORG,0.64517397
-95,dewan komisioner lembaga penjamin simpanan,ORG,0.9223015
-95,lps,ORG,0.8796223
-96,purbaya,PER,0.8240317
-96,menteri keuangan,NOR,0.9504039
-96,lps,PRD,0.38327956
-96,menteri keuangan (,NOR,0.83297783
-96,menkeu,NOR,0.83898765
-96,purbaya yudhi sadewa,PER,0.9712345
-96,menteri keuangan,NOR,0.8632692
-97,purbaya,PER,0.9147384
-97,menteri keuangan,NOR,0.9172288
-97,gede,PER,0.9817168
-97,purbaya,PER,0.9797412
-97,yudhi sadewa,PER,0.86789834
-97,menteri keuangan,NOR,0.8761126
-98,menkeu,NOR,0.7026401
-98,purba,ORG,0.5150218
-98,##d,LAW,0.5223098
-98,202,CRD,0.36673796
-98,##6,LAW,0.428201
-98,pemerintah,NOR,0.9524715
-98,rapbn 2026,LAW,0.6961661
-99,menkeu,NOR,0.78001577
-99,purba,PER,0.3122169
-99,##ya,ORG,0.61245674
-99,sor,PER,0.68343866
-99,##oti,ORG,0.37560308
-99,lpg 3,PRD,0.64596766
-99,menteri keuangan,NOR,0.9651503
-99,purbaya yudhi sadewa sor,PER,0.8730611
-99,lpg 3 kg,PRD,0.755575
-100,menkeu,NOR,0.6540106
-100,purba,PER,0.44658166
-100,##ya,ORG,0.61516905
-100,him,PER,0.21367058
-100,##bara,ORG,0.49953932
-100,dollar as,MON,0.9899663
-100,rupiah,MON,0.9706242
-100,menteri keuangan,NOR,0.8284611
-100,purbaya,PER,0.75350034
-100,bank himbara,ORG,0.9803398
-100,rp 200 triliun,MON,0.99798703
-101,rp 200 t,MON,0.9945275
-101,5,CRD,0.47014877
-101,bank himbara,ORG,0.74603057
-101,purba,PER,0.9589999
-101,##ya,ORG,0.40759772
-101,btn,ORG,0.7089175
-101,purbaya,PER,0.72527003
-101,rp 15 triliun,MON,0.9982214
-101,btn,ORG,0.816237
-102,bank,ORG,0.82472825
-102,rp 200 t,MON,0.9956851
-102,purba,PER,0.97452116
-102,menke,NOR,0.69159967
-102,##u,ORG,0.52343196
-102,purba,PER,0.7913043
-102,##ya,ORG,0.44841784
-102,##ak,EVT,0.562086
-102,bri,ORG,0.9809747
-102,bank himbara,ORG,0.97612923
-103,seloroh purbaya,PER,0.89437306
-103,sebulan,QTY,0.82187414
-103,menkeu,NOR,0.7407567
-103,lps,ORG,0.474074
-103,menteri keuangan,NOR,0.9195417
-103,purbaya,PER,0.9291744
-103,yudhi sadewa,PER,0.90114117
-103,prabowo,PER,0.98288065
-104,menkeu purba,NOR,0.81233823
-104,##ya,ORG,0.6160784
-104,rp 150 miliar,MON,0.9967344
-104,kaltara,NOR,0.51185817
-104,menteri keuangan,NOR,0.97704196
-104,menkeu,NOR,0.9102443
-104,purbaya,PER,0.8151795
-104,rp150 miliar,MON,0.9940859
-104,kaltara,GPE,0.48653156
-105,malaysia,GPE,0.99853134
-105,kaltara,GPE,0.72791386
-105,malaysia,GPE,0.89270455
-106,purbaya,PER,0.9392824
-106,kdm,ORG,0.49656433
-106,rp 1. 000,MON,0.9973234
-106,jabar,GPE,0.9316329
-106,menkeu,NOR,0.94937664
-106,purbaya,PER,0.8837766
-106,yudhi sadewa,PER,0.97843236
-106,rp 1. 000,MON,0.99694324
-106,gubernur jawa barat,NOR,0.9745696
-106,dedi mulyadi,PER,0.98952204
-106,kdm,PER,0.781139
-107,dki,GPE,0.77110994
-107,scbd,LOC,0.64002776
-107,menkeu purba,NOR,0.7550864
-107,menkeu,NOR,0.89221936
-107,purbaya,PER,0.541432
-107,pemerintah provinsi dki jakarta,NOR,0.93555045
-107,gedung,FAC,0.4122265
-107,bank dki,ORG,0.7178299
-108,menkeu,NOR,0.8040998
-108,purbaya,PER,0.35676113
-108,jakarta,GPE,0.99300003
-108,menkeu,NOR,0.8428245
-108,purbaya,PER,0.36649483
-108,pemerintah pusat,NOR,0.9602463
-108,jakarta,GPE,0.9964307
-108,kedua,ORD,0.95367736
-108,2026,DAT,0.9263773
-109,balai kota,LOC,0.6857326
-109,pramono,PER,0.97087353
-109,menkeu,NOR,0.6423723
-109,purbaya,ORG,0.4525547
-109,3,CRD,0.9462159
-109,pramono,PER,0.9413341
-109,menkeu,NOR,0.6352124
-109,purbaya,ORG,0.5102133
-109,balai kota jakarta,LOC,0.68313915
-109,tiga,CRD,0.9731737
-110,70 persen,PRC,0.9903862
-110,pemerintah,NOR,0.9507337
-110,purba,PER,0.8820886
-110,bank mandiri,ORG,0.9854425
-110,menkeu,NOR,0.7161452
-110,purbaya,PER,0.6770368
-110,bank mandiri,ORG,0.98492384
-111,purbaya,PER,0.84234786
-111,luhut,PER,0.96175104
-111,mbg,PRD,0.6192882
-111,oktober,DAT,0.994206
-111,menkeu,NOR,0.87549996
-111,purbaya,PER,0.80402404
-111,mbg,PRD,0.6364747
-111,luhut,PER,0.94137233
-112,ketua komisi xi dpr,NOR,0.969185
-112,sentil purbaya,PER,0.8992277
-112,lpg 3 kg,PRD,0.5761573
-112,ketua komisi xi dpr,NOR,0.977012
-112,misbakhun,PER,0.9721482
-112,menkeu,NOR,0.7571721
-112,purbaya,PER,0.6356162
-113,bahlil,PER,0.73641986
-113,lpg 3 kg,PRD,0.5035895
-113,purba,PER,0.9680348
-113,menteri keuangan,NOR,0.85469556
-113,purbaya yudhi sadewa,PER,0.91311425
-113,menteri,NOR,0.66773295
-113,esdm,ORG,0.7571513
-113,bahlil,PER,0.9275937
-113,lpg,PRD,0.5355066
-113,3 kg,QTY,0.43942177
-114,men,NOR,0.78397393
-114,##keu purba,ORG,0.5560294
-114,ayam penyet sambel ijo,PRD,0.8550483
-114,menkeu,NOR,0.7559884
-114,purbaya,PER,0.45248058
-114,yudhi sadewa,PER,0.95695156
-114,warung kaki lima,LOC,0.7306501
-115,menkeu purba,NOR,0.706983
-115,rokok,PRD,0.6242303
-115,menteri koboi,NOR,0.7945182
-115,menteri keuangan,NOR,0.956674
-115,purbaya,PER,0.9003005
-115,yudhi sadewa,PER,0.9711282
-115,2026,DAT,0.9492852
-116,purbaya bantah,PER,0.8523723
-116,deposito valas,PRD,0.76860803
-116,4 persen,PRC,0.9934819
-116,menteri keuangan,NOR,0.9070943
-116,purbaya yudhi sadewa,PER,0.975375
-116,deposito valas,PRD,0.54389435
-116,4 persen,PRC,0.993249
-117,ray dalio,PER,0.98795867
-117,##to,ORG,0.35981748
-117,menteri keuangan,NOR,0.9548988
-117,purbaya,PER,0.87712675
-117,yudhi sadewa,PER,0.9838171
-117,as,GPE,0.8304704
-117,ray dalio,PER,0.9886815
-117,pemerintah,NOR,0.90966266
-118,purbaya,PER,0.87880147
-118,rokok,PRD,0.49419627
-118,menteri keuangan,NOR,0.9521072
-118,purbaya yudhi sadewa,PER,0.90463686
-119,menkeu,NOR,0.75539327
-119,purba,PER,0.5164035
-119,##ya,ORG,0.3832886
-119,sidak,PER,0.7866201
-119,kantor bni,ORG,0.6205404
-119,menteri keuangan,NOR,0.9506217
-119,purbaya yudhi sadewa,PER,0.9504518
-119,bni,ORG,0.9407569
-120,menkeu purba,NOR,0.6583607
-120,##ya,ORG,0.517728
-120,menkeu purba,NOR,0.5891461
-120,sima,PER,0.93003976
-121,4,CRD,0.8740833
-121,menkeu purba,NOR,0.45678347
-121,##ya,ORG,0.48730066
-121,2,QTY,0.8972515
-121,senin ( 8 / 9 / 2025 ),DAT,0.9934992
-121,menteri keuangan,NOR,0.90564
-121,purbaya,PER,0.8907213
-121,yudhi sadewa,PER,0.8831683
-122,200,CRD,0.81169593
-122,rp 60 triliun,MON,0.99640685
-122,200,CRD,0.76301295
-123,tax amnesty,PRD,0.5019735
-123,sri mulyani,ORG,0.31804135
-123,menkeu purba,NOR,0.7202447
-123,##ya,ORG,0.41766527
-123,menkeu,NOR,0.91150445
-123,purbaya,PER,0.5140827
-123,tax,LAW,0.45072538
-123,amnesty,PRD,0.4527369
-123,sri mulyani,PER,0.8280633
-123,tax amnesty,PRD,0.589868
-124,menkeu,NOR,0.76540464
-124,purbaya,ORG,0.38122132
-124,mb,LAW,0.30216992
-124,##g,PRD,0.6250733
-124,menkeu,NOR,0.7653238
-124,purbaya,ORG,0.41803005
-124,mbg,PRD,0.37408352
-124,10 kg,QTY,0.84900004
-125,dollar,MON,0.8962322
-125,menkeu purba,NOR,0.64405596
-125,##ya,ORG,0.5170656
-125,menteri keuangan,NOR,0.92540824
-125,purbaya yudhi sad,PER,0.8966134
-125,dollar,MON,0.87706983
-126,ida yulidina,PER,0.9844236
-126,menkeu,NOR,0.619373
-126,purbaya,PER,0.52454686
-126,wajah femina,ORG,0.47520128
-126,ida yulidina,PER,0.98731494
-126,kontes wajah femina tahun 1989,EVT,0.85476136
-127,apbn 202,LAW,0.6004701
-127,##6,MON,0.8668568
-127,"2, 68 persen",PRC,0.99539185
-127,menkeu purba,NOR,0.6488886
-127,##ya,PER,0.3354391
-127,menteri keuangan,NOR,0.9455865
-127,purbaya,PER,0.9373447
-127,yudhi sadewa,PER,0.89630204
-127,apbn 202,LAW,0.5134314
-127,##6,MON,0.8124101
-128,menkeu,NOR,0.77809376
-128,purbaya,PER,0.9220259
-128,tutut soeharto,PER,0.92576414
-128,menkeu,NOR,0.86396056
-128,purbaya,PER,0.89907837
-128,tutut soeharto,PER,0.80800635
-128,ptun,ORG,0.9638314
-129,men,NOR,0.46111202
-129,##keu,ORG,0.77461886
-129,purbaya,PER,0.74048686
-129,dirut bank himbara,ORG,0.8747343
-129,rp 200 t,MON,0.99718267
-129,purbaya,PER,0.85904586
-129,rp 200 triliun,MON,0.99803716
-129,bank himbara,ORG,0.98926955
-129,bank,ORG,0.9126765
-130,menkeu,NOR,0.766403
-130,purba,PER,0.6220472
-130,rp 200 triliun,MON,0.9976115
-130,6,CRD,0.92465246
-130,bank himbara,ORG,0.62132764
-130,kemenkeu,NOR,0.9315934
-130,pemerintah,NOR,0.9323172
-130,bank indonesia,ORG,0.8777591
-130,bi,ORG,0.9649693
-130,rp 200 triliun,MON,0.99810797
-130,enam,CRD,0.9672867
-131,menkeu,NOR,0.8973225
-131,purbaya yudhi,PER,0.93009084
-131,sri mulyani,PER,0.9635683
-131,cia,ORG,0.44158158
-131,menteri keuangan,NOR,0.9710798
-131,menkeu,NOR,0.8531576
-131,purbaya yudhi sadewa,PER,0.9822629
-131,sri mulyani,PER,0.97379684
-131,cia,ORG,0.46466097
-132,3 hari,QTY,0.94311786
-132,menteri keuangan,NOR,0.9684502
-132,purbaya yudhi sadewa,PER,0.9772307
-132,3,CRD,0.75459754
-132,tiga hari,QTY,0.8459377
-132,menkeu,NOR,0.92049503
-132,purbaya yudhi sadewa,PER,0.9636596
-132,tiga,CRD,0.8909624
-133,ri,NOR,0.4099945
-133,40 persen,PRC,0.992871
-133,pdb,MON,0.388241
-133,pemerintah,NOR,0.6126266
-133,juni 2025,DAT,0.99009275
-133,"rp 9. 138, 05 triliun",MON,0.99800426
-133,"39, 86 persen",PRC,0.9937584
-133,produk,PRD,0.7013814
-133,pdb,PRD,0.38665533
-134,purba,PER,0.75139636
-134,pph final,LAW,0.6114747
-134,"0, 5 persen",PRC,0.9739989
-134,kemenkeu,NOR,0.9564797
-134,kementerian hukum,NOR,0.93900913
-134,kemenkum,NOR,0.88259554
-135,purba,PER,0.9610864
-135,satgas blbi,ORG,0.7835346
-135,satgas blbi,ORG,0.8178635
-136,rupiah,MON,0.97253215
-136,purba,PER,0.88251495
-136,bank himbara,ORG,0.9835798
-136,dollar,MON,0.96912485
-136,rp 200 t,MON,0.99420375
-136,menkeu,NOR,0.53786546
-136,purba,PER,0.9351499
-136,bank himbara,ORG,0.9843418
-136,pemerintah,NOR,0.64527595
-136,rp 200 triliun,MON,0.9959297
-136,dollar as,MON,0.9898455
-136,rupiah,MON,0.97998387
-137,menkeu,NOR,0.6552797
-137,purbaya,PER,0.36186862
-137,menteri keuangan,NOR,0.88738114
-137,purbaya,PER,0.95801127
-137,yudhi sadewa,PER,0.9169237
-137,rp 200 triliun,MON,0.9980369
-137,bank,ORG,0.944283
-137,bank himbara,ORG,0.79076505
-138,menkeu,NOR,0.55821955
-138,purbaya,PER,0.4620703
-138,lu,PER,0.97861165
-138,menkeu,NOR,0.5989622
-138,purbaya,PER,0.48415977
-139,himbara,ORG,0.38947994
-139,men,NOR,0.52234447
-139,##keu purbaya,ORG,0.66506255
-139,pemerintah,NOR,0.62986183
-139,bank daerah,ORG,0.9451005
-139,bank himbara,ORG,0.98042756
-139,pemerintah,NOR,0.9288664
-140,menkeu,NOR,0.8661878
-140,purba,PER,0.5447872
-140,pns,NOR,0.45307827
-140,pemerintah pusat,NOR,0.93729615
-141,jakarta,GPE,0.95510155
-141,rp 15 triliun,MON,0.9982321
-141,purba,PER,0.94076407
-141,menke,NOR,0.54257756
-141,purba,PER,0.8648097
-141,jakarta,GPE,0.9544591
-141,rp 15 triliun,MON,0.9980822
-142,purba,PER,0.8639919
-142,rp 20 triliun,MON,0.9966138
-142,dollar,MON,0.9648445
-142,men,NOR,0.64598924
-142,##keu purba,ORG,0.54453015
-142,bank himbara,ORG,0.96593136
-142,rp 200 triliun,MON,0.9974866
-142,dollar as,MON,0.9884844
-142,rupiah,MON,0.9628826
-143,purbaya,PER,0.7167333
-143,menteri keuangan,NOR,0.96004725
-143,purbaya yudhi sadewa,PER,0.93800193
-144,purba,PER,0.9844439
-144,ayam penyet sambal ijo,PRD,0.8424475
-144,warung kaki lima,LOC,0.95113474
-144,purba,PER,0.9797218
-144,warung kaki lima,LOC,0.9517997
-144,kantor pusat direktorat jenderal pajak ( djp,LOC,0.8920491
-144,jalan gatot subroto,LOC,0.9795
-144,jakarta selatan,GPE,0.9917419
-145,menke,NOR,0.72480327
-145,##u purbaya,ORG,0.48934826
-145,iv,ORD,0.59931195
-145,"5, 5 persen",PRC,0.99475557
-145,menkeu,NOR,0.7904404
-145,purbaya yudhi sadewa,PER,0.79537743
-145,iv,ORD,0.5300392
-145,2025,DAT,0.94252974
-145,"5, 5 persen",PRC,0.9955092
-146,purba,PER,0.84383225
-146,bg,PER,0.3633513
-146,##n,ORG,0.6223115
-146,rp 28 triliun,MON,0.99773747
-146,bg,PER,0.740583
-146,##n,ORG,0.7075741
-146,rp 28 triliun,MON,0.99779296
-146,men,NOR,0.72140956
-146,##keu purba,ORG,0.48923293
-147,purbaya,PER,0.83437747
-147,menteri keuangan,NOR,0.9574224
-147,purbaya,PER,0.96556646
-147,yudhi sadewa,PER,0.94956404
-147,tembakau,PRD,0.44165725
-147,##t,PRD,0.59325683
-147,2026,DAT,0.8456361
-148,prabowo,PER,0.9952656
-148,apbn,LAW,0.8834892
-148,0 persen,PRC,0.9806255
-148,menkeu purba,NOR,0.7712736
-148,##ya,ORG,0.39003363
-148,menteri keuangan,NOR,0.948748
-148,purbaya,PER,0.90060365
-148,yudhi sadewa,PER,0.97350836
-148,apbn,LAW,0.85791403
-148,0 %,PRC,0.9880025
-149,purbaya,PER,0.74906564
-149,res,NOR,0.71115786
-149,kabinet,NOR,0.295627
-149,purba,PER,0.8796299
-149,yudhi sadewa,PER,0.8792591
-150,menke,NOR,0.6799431
-150,##u purba,ORG,0.6016511
-150,rp 60 triliun,MON,0.99726087
-150,200,CRD,0.8622821
-150,menkeu purba,NOR,0.7360819
-150,##ya,ORG,0.4611504
-150,200,CRD,0.7899787
-150,rp 60 triliun,MON,0.9975569
-151,purbaya,PER,0.71593535
-151,bea cukai,NOR,0.69081396
-151,menkeu,NOR,0.94913864
-151,purbaya yudhi sadewa,PER,0.9515391
-151,kemenkeu,NOR,0.9139395
-152,hotman paris,ORG,0.8758722
-152,menkeu purba,NOR,0.72768646
-152,##ya,ORG,0.44046238
-152,menteri keuangan,NOR,0.9190178
-152,purbaya,PER,0.8171483
-152,yudhi sadewa,PER,0.9929537
-152,pemerintah,NOR,0.4499225
-152,rp 200 triliun,MON,0.9954547
-153,rokok,PRD,0.5173987
-153,menkeu,NOR,0.6692171
-153,purbaya,ORG,0.38531876
-153,- commerce,PRD,0.743587
-153,menkeu,NOR,0.7356712
-153,purbaya,PER,0.5784847
-153,-,PRD,0.68702716
-154,tompi,PER,0.7971319
-154,menke,NOR,0.56361145
-154,##u purba,ORG,0.59308976
-154,rp 200 triliun,MON,0.99705154
-154,bank,ORG,0.7297574
-155,rp 200 t,MON,0.9946096
-155,him,GPE,0.27902138
-155,##bara,ORG,0.28162062
-155,purbaya,PER,0.88077176
-155,menteri keuangan,NOR,0.96103317
-155,purbaya,PER,0.9143427
-155,yudhi sadewa,PER,0.96842015
-155,rp 200 triliun,MON,0.99754906
-156,purbaya yudhi sadewa,PER,0.9756577
-156,tutut,PER,0.54979706
-156,soeharto,PER,0.62095207
-156,kedua,CRD,0.7675168
-156,menkeu,NOR,0.9315688
-156,purbaya yudhi sadewa,PER,0.95716554
-156,tutut,PER,0.6055175
-156,soeharto,PER,0.60369414
-156,menteri keuangan,NOR,0.97500736
-157,purba,PER,0.7496862
-157,dpr,NOR,0.9834013
-157,"rp 692, 9 triliun",MON,0.99829215
-157,badan anggaran dpr ri,NOR,0.97201806
-157,rp 43 triliun,MON,0.99833316
-157,rp 650 triliun,MON,0.99817395
-157,"rp 692, 99 triliun",MON,0.9982322
-158,batik menkeu purba,PRD,0.7347724
-158,ahmad dofiri,PER,0.98129624
-158,menteri keuangan ( menkeu,NOR,0.92546993
-158,baru,PER,0.64914894
-158,purbaya yudhi sadewa,PER,0.9138961
-158,kemeja batik,PRD,0.7826241
-159,menkeu,NOR,0.7850053
-159,purba,PER,0.3518083
-159,kop,ORG,0.56518525
-159,##des,PRD,0.44467595
-159,rp 16 triliun,MON,0.9980323
-159,peraturan menteri keuangan,LAW,0.96024114
-159,pmk,LAW,0.74271274
-159,koperasi desa merah putih,ORG,0.88363737
-159,kopdes,ORG,0.71001434
-159,rp 16 triliun,MON,0.99829984
-160,rp 200 triliun,MON,0.9977501
-160,himbara,ORG,0.740558
-160,men,NOR,0.74397945
-160,##keu purbaya,ORG,0.7341777
-160,menke,NOR,0.6648262
-160,##u purbaya,ORG,0.7086742
-160,rp 200 triliun,MON,0.9979169
-160,himbara,ORG,0.7685864
-161,purba,PER,0.95816696
-161,sby,PER,0.99010897
-161,jokowi,PER,0.99328184
-161,20 tahun,QTY,0.9759618
-161,menteri keuangan,NOR,0.9070952
-161,purbaya,PER,0.95482874
-161,yudhi sadewa,PER,0.9338001
-161,indonesia,GPE,0.85694516
-161,20 tahun,QTY,0.9777738
-162,ri,GPE,0.61937666
-162,8 persen,PRC,0.99442464
-162,2 - 3 tahun,QTY,0.94448423
-162,menke,NOR,0.6605397
-162,##u purba,ORG,0.42780817
-162,menkeu,NOR,0.7460868
-162,purbaya,PER,0.33533224
-162,8 persen,PRC,0.9953059
-163,menkeu,NOR,0.8663911
-163,purbaya,PER,0.7675036
-163,he,PER,0.85304534
-163,dpr,NOR,0.989369
-163,he,PER,0.8053774
-164,sri mulyani,PER,0.8038853
-164,cia,ORG,0.37472644
-164,menkeu,NOR,0.84892374
-164,purbaya yudhi,PER,0.8882972
-164,instagram,PRD,0.79487234
-164,purbaya yudhi,PER,0.75659806
-164,sri mulyani,PER,0.9661408
-164,cia,ORG,0.30214366
-164,ig,PER,0.81816274
-165,singg,PER,0.8961854
-165,sri mulyani,PER,0.8634968
-165,cia,NOR,0.41254383
-165,menteri keuangan,NOR,0.9640784
-165,purbaya,PER,0.8303563
-165,menkeu,NOR,0.9119689
-165,purbaya,PER,0.8858403
-165,yudhi sadewa,PER,0.97681874
-165,instagram,PRD,0.93874377
-165,sri mulyani,PER,0.98460555
-165,cia,NOR,0.2824286
-165,purbaya,PER,0.9595363
-166,money,PRD,0.23397729
-166,purbaya,PER,0.9244338
-166,dpr,NOR,0.9725565
-166,sri mulyani,PER,0.991101
-166,kemenkeu,NOR,0.9652462
-166,purbaya,PER,0.9416619
-166,dpr,NOR,0.9748278
-166,sri mulyani,PER,0.9895733
-166,kemenkeu,NOR,0.9057711
-166,money,PER,0.37950525
-166,rabu,DAT,0.43602446
-167,menkeu,NOR,0.75890845
-167,purba,PER,0.3165999
-167,kereta cepat jakarta,PRD,0.49357805
-167,-,LAW,0.46406958
-167,bandung,PRD,0.39526847
-167,apbn,LAW,0.969146
-167,menkeu,NOR,0.864779
-167,purbaya,PER,0.5347054
-167,kereta,PRD,0.4005332
-167,cepat,ORG,0.33369064
-167,jakarta,GPE,0.22527358
-167,bandung,GPE,0.23735917
-167,apbn,LAW,0.97658086
-168,menkeu purba,NOR,0.65201336
-168,##ya,ORG,0.7040937
-168,##bara,ORG,0.48908684
-168,rp 200 triliun,MON,0.9969956
-168,dollar as,MON,0.97252715
-168,menteri keuangan,NOR,0.94695526
-168,purbaya,PER,0.881106
-168,yudhi sadewa,PER,0.9009256
-168,him,PER,0.46258995
-168,pemerintah,NOR,0.72708625
-168,dolar as,MON,0.98756313
-168,rupiah,MON,0.95422196
-169,bank himbara,ORG,0.9901989
-169,rp 200 triliun,MON,0.9978258
-169,purba,PER,0.9750089
-169,dollar,MON,0.94591415
-169,menke,NOR,0.6175612
-169,##u,ORG,0.4673765
-169,purbaya,PER,0.67619896
-169,lima,CRD,0.6711214
-169,bank himbara,ORG,0.8562272
-169,rp 200 triliun,MON,0.99707395
-169,dollar as,MON,0.9836856
-170,kep,GPE,0.32484663
-170,##ri,ORG,0.35359332
-170,rp 534 miliar,MON,0.9970882
-170,gubernur ans,NOR,0.5502204
-170,##ar,ORG,0.5489649
-170,purba,PER,0.90165824
-170,gubernur kepri,NOR,0.84581906
-170,menkeu,NOR,0.6929528
-170,purbaya,ORG,0.5078942
-171,menkeu,NOR,0.8832424
-171,purba,PER,0.9238065
-171,ih,PER,0.43632287
-171,##sg,ORG,0.5330585
-171,menkeu,NOR,0.7137356
-171,purba,PER,0.9891902
-171,pemerintah,NOR,0.967422
-171,ih,PRD,0.29251304
-171,##g,PRD,0.42105144
-172,menke,NOR,0.7591069
-172,##u purba,ORG,0.5216473
-172,dir,NOR,0.7583185
-172,##ut bei,ORG,0.704038
-172,bei,ORG,0.6078298
-172,iman rachman,PER,0.8448496
-172,kemenkeu,NOR,0.7006416
-172,menke,NOR,0.74592525
-172,##u purba,ORG,0.48235136
-173,bank dunia,ORG,0.9787986
-173,ri,ORG,0.5508784
-173,"4, 8 persen",PRC,0.9949186
-173,menkeu,NOR,0.69220805
-173,purbaya,PER,0.6603049
-173,menteri keuangan,NOR,0.9353548
-173,purbaya yudhi sadewa,PER,0.9086016
-173,indonesia,GPE,0.9470332
-173,iv,ORD,0.42041218
-173,2025,DAT,0.42173004
-174,purbaya,PER,0.89677596
-174,menteri keuangan,NOR,0.9386786
-174,purbaya yudhi sadewa,PER,0.9744952
-174,rp 396 miliar,MON,0.9978479
-175,purba,GPE,0.4100791
-175,doli,PER,0.94252455
-175,doli,PER,0.9493319
-175,menkeu purba,NOR,0.74898374
-175,##ya,ORG,0.49576217
-176,200,CRD,0.41193312
-176,menkeu,NOR,0.7923985
-176,purba,PER,0.36351863
-176,rp 7 triliun,MON,0.99791807
-176,kemenkeu,NOR,0.93440706
-176,rp 7 triliun,MON,0.9980337
-176,200,CRD,0.8133928
-176,"rp 54, 9 triliun",MON,0.99836123
-177,menke,NOR,0.61749744
-177,##u,ORG,0.55569094
-177,purbaya,PER,0.7789477
-177,anggito cs,PER,0.8409365
-177,menteri keuangan,NOR,0.9249204
-177,purbaya,PER,0.86159575
-177,yudhi sadewa,PER,0.8592337
-177,lps,ORG,0.6499006
-177,2025,DAT,0.38610762
-177,2030,DAT,0.37968475
-178,menkeu,NOR,0.7848523
-178,purbaya,PER,0.67333126
-178,pramono,PER,0.9284352
-178,menkeu,NOR,0.906733
-178,purbaya,PER,0.76866156
-178,pemprov dki,NOR,0.96387786
-178,pemerintah pusat,NOR,0.9617276
-179,menkeu purba,NOR,0.7423324
-179,gubernur sumbar,NOR,0.9821099
-179,menkeu purba,NOR,0.70610946
-180,pramono,PER,0.96129274
-180,purbaya,PER,0.673051
-180,rp 200 triliun,MON,0.99806136
-180,bank himbara,ORG,0.97745055
-180,bumd dki,NOR,0.83225745
-180,gubernur dki jakarta,NOR,0.98487425
-180,pramono anung,PER,0.9843745
-180,menteri keuangan,NOR,0.8841011
-180,purbaya yudhi sadewa,PER,0.910309
-180,rp 200 triliun,MON,0.99794906
-180,bank himbara,ORG,0.9846217
-181,bobby nasution,PER,0.99410415
-181,kantor menkeu purbaya,LOC,0.79602844
-181,asosiasi,ORG,0.6650646
-181,pemerintah,NOR,0.56186384
-181,provinsi seluruh indonesia,ORG,0.7125795
-181,appsi,ORG,0.791669
-181,kantor menkeu purbaya,LOC,0.8835507
-181,jakarta,GPE,0.9973062
-181,selasa ( 7 / 10 / 2025 ),DAT,0.9948002
-181,bobby nasution,PER,0.98843634
-182,luhut,PER,0.86308587
-182,##g,PRD,0.5754416
-182,menkeu,NOR,0.6876672
-182,purba,ORG,0.42601043
-182,luhut,PER,0.8668157
-182,binsar pandjaitan,PER,0.6856634
-183,purba,PER,0.9650907
-183,dirjen bea cukai,NOR,0.83448124
-183,menteri keuangan,NOR,0.9658856
-183,purbaya yudhi sadewa,PER,0.953798
-184,purbaya,PER,0.7261443
-184,fl,ORG,0.5163179
-184,##pp,PRD,0.7243675
-184,menkeu,NOR,0.83817005
-184,purbaya,PER,0.885986
-184,yudhi sadewa,PER,0.9531131
-184,fl,ORG,0.4964567
-184,##pp,PRD,0.7765991
-185,purba,PER,0.9760585
-185,bbm,PRD,0.9617137
-185,el,PER,0.44393212
-185,##piji,PRD,0.636842
-185,menkeu,NOR,0.5145555
-185,purbawa,PER,0.6903132
-185,komisi xi dpr ri,NOR,0.98216885
-186,menke,NOR,0.5643201
-186,##u purbaya,ORG,0.72172326
-186,pertamina,ORG,0.94287014
-186,7 tahun,QTY,0.9308585
-186,menteri keuangan,NOR,0.92269135
-186,purbaya,PER,0.96311677
-186,yudhi sadewa,PER,0.8938831
-186,pt pertamina ( persero ),ORG,0.9755721
-187,purbaya,PER,0.7855609
-187,dirjen anggaran,NOR,0.4932601
-187,purba,PER,0.9794946
-187,tiga bulan,QTY,0.958627
-187,satu bulan,QTY,0.9553915
-188,purbaya,PER,0.74843967
-188,menteri keuangan,NOR,0.94617033
-188,purbaya,PER,0.9720612
-188,yudhi sadewa,PER,0.9008521
-189,purbaya,PER,0.9214257
-189,menteri keuangan,NOR,0.9608618
-189,purbaya yudhi sadewa,PER,0.97558814
-189,rokok,PRD,0.48062
-190,kala,PER,0.80685824
-190,purbaya,PER,0.65889066
-190,tantang rocky gerung,PER,0.8017918
-190,5 ke 6 persen,PRC,0.9758021
-190,menkeu,NOR,0.72920436
-190,purbaya,PER,0.62024033
-191,purbaya,PER,0.969321
-191,anggito,PER,0.92308307
-191,ketua dk lps,ORG,0.7358014
-191,menteri keuangan,NOR,0.8790767
-191,purbaya yudhi sadewa,PER,0.9665465
-191,anggito abimanyu,PER,0.92745084
-191,dk lps,ORG,0.8458307
-192,ketua komisi xi,NOR,0.9421714
-192,purba,PER,0.76240236
-192,##aiki coretax,ORG,0.70041263
-192,dpr,NOR,0.9808137
-192,menkeu,NOR,0.7032733
-192,purba,PER,0.38911417
-193,menke,NOR,0.70994085
-193,##u purbaya,ORG,0.6509855
-193,hotman paris,PER,0.6335847
-193,rp 200 triliun,MON,0.9969134
-193,hot,PER,0.56747293
-193,##man paris,ORG,0.5611112
-193,menke,NOR,0.6871923
-193,##u purbaya,ORG,0.6015746
-193,pemerintah,NOR,0.6697676
-193,rp 200 triliun,MON,0.9963128
-194,anggito,PER,0.9233265
-194,wamenkeu,ORG,0.81287813
-194,lps,ORG,0.88286716
-194,menkeu,NOR,0.57462776
-194,purbaya,PER,0.7401463
-194,anggito abimanyu,PER,0.96084756
-194,ketua lps,ORG,0.7191396
-194,wamenkeu,ORG,0.86858606
-195,dpr,NOR,0.992702
-195,bansos pangan,PRD,0.50813055
-195,minyak goreng,PRD,0.9760321
-195,2 liter,QTY,0.8975487
-195,##r,NOR,0.49988404
-195,dpr ri,NOR,0.9309391
-195,pemerintah,NOR,0.98351556
-195,dua liter,QTY,0.97185373
-195,minyak goreng,PRD,0.96879864
-195,##sos,PRD,0.45112282
-195,10 kilogram,QTY,0.91920686
-196,purbaya,PER,0.8709078
-196,dpr,NOR,0.98220795
-196,2026,DAT,0.64364004
-196,badan anggaran ( banggar ) dpr ri,NOR,0.81424165
-196,pemerintah,NOR,0.92305607
-196,anggaran,LAW,0.5120782
-196,##d,LAW,0.5893373
-196,apbn 2026,LAW,0.8211419
-197,bangga,NOR,0.62422764
-197,dpr,NOR,0.94641596
-197,rp 200 triliun,MON,0.9851776
-197,menkeu,NOR,0.9373734
-197,no,LAW,0.47189227
-197,dpr,NOR,0.98637515
-197,kemenkeu,NOR,0.9405367
-197,rp 200 triliun,MON,0.99667984
-197,bank negara,ORG,0.82013524
-198,4,CRD,0.57356703
-198,menkeu,NOR,0.5280508
-198,purba,PER,0.6827035
-198,##ya,ORG,0.4132402
-198,rp 200 triliun,MON,0.99772793
-198,purbaya,PER,0.7356143
-198,pemerintah,NOR,0.78717285
-198,rp 200 triliun,MON,0.9978587
-199,batik menkeu purba,PRD,0.65564597
-199,guru besar uns,ORG,0.62328714
-199,menteri keuangan,NOR,0.89839965
-199,purbaya,PER,0.67180085
-199,yudhi sadewa,PER,0.9631733
-199,kemeja batik,PRD,0.67384315
-199,batik purba,PRD,0.687479
-200,rp 200 t,MON,0.9919429
-200,menkeu,NOR,0.7090578
-200,purba,PER,0.50799394
-200,rp 200 triliun,MON,0.99695617
-200,4 bulan,QTY,0.9797077
-200,menteri keuangan,NOR,0.9599776
-201,rp 200 t,MON,0.9891324
-201,bank himbara,ORG,0.9577723
-201,tyler robinson,PER,0.95404226
-201,sabtu ( 13 / 9 / 2025 ),DAT,0.99509764
-202,5,CRD,0.8307183
-202,bumn,ORG,0.66568816
-202,menke,NOR,0.65246147
-202,##u,ORG,0.52350825
-202,purba,PER,0.7365706
-202,##ya,ORG,0.42327273
-202,rp 200 triliun,MON,0.9943058
-202,purbaya,PER,0.86149406
-202,lima,CRD,0.95818067
-202,rp 200 triliun,MON,0.9969756
-203,menke,NOR,0.46569884
-203,##u,ORG,0.44271216
-203,purba,PER,0.5348239
-203,##ya,ORG,0.33379236
-203,menteri keuangan,NOR,0.9539007
-203,purbaya,PER,0.9220339
-203,yudhi sadewa,PER,0.9580476
-204,men,NOR,0.6776946
-204,##keu purbaya,ORG,0.7804406
-204,rp 200 triliun,MON,0.99752635
-204,5,CRD,0.91798866
-204,bank himbara,ORG,0.80204993
-204,men,NOR,0.7673356
-204,##keu purbaya,ORG,0.7312405
-204,rp 200 triliun,MON,0.99812317
-204,5,CRD,0.92743653
-204,bank himbara,ORG,0.83504105
-205,menkeu,NOR,0.8042157
-205,purbaya,PER,0.6947075
-205,kementerian,NOR,0.8622946
-205,lembaga,NOR,0.61296993
-205,apbn,LAW,0.88162714
-205,menteri keuangan,NOR,0.9477496
-205,purbaya,PER,0.9765798
-205,yudhi sadewa,PER,0.8968518
-206,indonesia,GPE,0.88924676
-206,menkeu,NOR,0.8063596
-206,sri mulyani,PER,0.9932626
-206,purbaya,PER,0.9007311
-206,indonesia,GPE,0.85227865
-206,men,NOR,0.5271551
-207,rp 116 triliun,MON,0.9942996
-207,kereta cepat,PRD,0.93295133
-207,purbaya,PER,0.8647784
-207,apbn,LAW,0.9532106
-207,menteri keuangan,NOR,0.9375676
-207,purbaya yudhi sadewa,PER,0.96243566
-207,uang,LAW,0.41303512
-207,apbn,LAW,0.9072085
-207,kereta cepat,PRD,0.89945567
-208,menkeu,NOR,0.8484869
-208,purbaya,PER,0.5587511
-208,kereta cepat,PRD,0.65551287
-208,pemerintah,NOR,0.9788987
-208,menteri keuangan,NOR,0.95991343
-208,purbaya,PER,0.9605181
-208,yudhi sadewa,PER,0.8905131
-208,pemerintah,NOR,0.96786547
-208,kereta cepat,PRD,0.341546
-208,jakarta,GPE,0.29848745
-208,bandung,GPE,0.6876913
-208,kc,LAW,0.34939322
-208,##jb,PRD,0.47028854
-209,e - commerce,PRD,0.73658115
-209,2026,DAT,0.71787965
-209,menkeu purba,NOR,0.604655
-209,##ya,ORG,0.5253751
-209,6 persen,PRC,0.99252915
-209,menteri keuangan,NOR,0.94291717
-209,purbaya yudhi sadewa,PER,0.9195797
-209,- commerce,PRD,0.70541716
-209,2026,DAT,0.84726405
-210,bahlil,PER,0.9622987
-210,bahlil lahadalia,PER,0.9879818
-210,kantor pusat ditjen pajak,LOC,0.82083505
-211,misbakhun sent,PER,0.93034065
-211,menkeu purba,NOR,0.7710407
-211,pemerintah,NOR,0.9746576
-212,muzakir manaf,PER,0.97210455
-212,menteri,NOR,0.600137
-212,purba,PER,0.5902078
-212,gubernur aceh,NOR,0.9885496
-212,muzakir manaf,PER,0.98371035
-212,mualem,PER,0.8417072
-212,jakarta,GPE,0.9982913
-213,ses,NOR,0.40631434
-213,teddy,PER,0.94365436
-213,dasco,PER,0.9709846
-213,purbaya,PER,0.9219266
-213,mend,NOR,0.9708458
-213,##agri,NOR,0.94848394
-213,dpr,NOR,0.9919225
-213,dasco,PER,0.961091
-213,pemerintah,NOR,0.5498356
-213,2025,DAT,0.7192324
-214,pramono,PER,0.9641077
-214,menkeu purba,NOR,0.7560264
-214,pramono anung,PER,0.95858103
-214,undang,LAW,0.92956185
-214,apbn,LAW,0.5609285
-214,dpr,NOR,0.97121584
-215,anggito abimanyu,PER,0.9696538
-215,purbaya,PER,0.9631179
-215,ketua dewan komisioner lps,ORG,0.7895996
-215,anggito abimanyu,PER,0.95359135
-215,wamenkeu,ORG,0.66269296
-215,ketua dewan komisioner lps,ORG,0.75097686
-215,purbaya yudhi sadewa,PER,0.98256564
-216,menkeu purba,NOR,0.599795
-216,##ya,ORG,0.3918904
-216,ahok,PER,0.9385235
-216,##ucer digital,PRD,0.53327256
-216,menteri keuangan,NOR,0.92238927
-216,purbaya,PER,0.91023827
-216,yudhi sadewa,PER,0.97536445
-216,ahok,PER,0.95869464
-217,purbaya,PER,0.7148026
-217,triliun,MON,0.4994266
-217,bank jakarta,ORG,0.9842829
-217,bank jakarta,ORG,0.9626069
-217,menke,NOR,0.6805178
-217,##u purbaya,ORG,0.456616
-217,rp10 – 20 triliun,MON,0.9917215
-218,gubernur sumbar,NOR,0.9827363
-218,menkeu purba,NOR,0.7895782
-218,gubernur sumbar,NOR,0.98557806
-218,mahyeldi,PER,0.98926216
-218,pemerintah pusat,NOR,0.9561284
-218,menkeu,NOR,0.8880606
-218,purbaya,PER,0.5325063
-218,apbn,LAW,0.89271796
-218,3 persen,PRC,0.9904497
-219,dirjen,NOR,0.5566167
-219,pajak,ORG,0.61035633
-219,purbaya,PER,0.83984625
-219,purbaya,PER,0.8593688
-219,dirjen,NOR,0.65077984
-219,pajak,ORG,0.5308988
-219,djp,ORG,0.5603834
-220,coretax,PRD,0.5701206
-220,purba,PER,0.71314067
-220,kemenkeu,NOR,0.94249797
-220,purba,PER,0.9719315
-220,kementerian keuangan,NOR,0.9729325
-220,kemenkeu,NOR,0.96204144
-221,18,CRD,0.9190693
-221,menkeu,NOR,0.89390945
-221,purba,PER,0.3275471
-221,jateng,GPE,0.7259128
-221,diy,GPE,0.95429957
-221,18,CRD,0.9258028
-221,kemenkeu,NOR,0.8646683
-222,menkeu purba,NOR,0.69160247
-222,##ya,ORG,0.3808691
-222,menkeu purba,NOR,0.8220928
-222,##ya,PER,0.35471278
-222,indonesia,GPE,0.99281126
-223,menkeu,NOR,0.8310971
-223,purbaya,PER,0.60592264
-223,dedi mulyadi,PER,0.9811589
-223,rp 1. 000,MON,0.9966845
-223,pemda,NOR,0.9000015
-223,purbaya,PER,0.9312443
-223,pemerintah daerah,NOR,0.9139044
-223,pemda,NOR,0.7675115
-224,purbaya,PER,0.91657984
-224,db,FAC,0.37157992
-224,##h,PRD,0.20108832
-224,dki,GPE,0.5178292
-224,menteri keuangan ri,NOR,0.9912186
-224,purbaya yudhi sadewa,PER,0.9824395
-224,##h,PRD,0.32888407
-224,jakarta,GPE,0.9714921
-225,pns,NOR,0.74856234
-225,bkn,NOR,0.8524834
-225,menkeu,NOR,0.81680703
-225,purba,ORG,0.39221537
-225,kepala bkn,NOR,0.92692876
-225,zudan arif fakrulloh,PER,0.98024154
-225,aparatur sipil negara,NOR,0.9351699
-225,asn,NOR,0.8512546
-226,menkeu purba,NOR,0.725067
-226,##ya,ORG,0.37166107
-226,kepala,NOR,0.5985747
-226,indonesia,GPE,0.58428335
-226,menkeu,NOR,0.8993638
-226,purbaya,PER,0.5592169
-226,yudhi sadewa,PER,0.9193514
-226,indonesia,GPE,0.7922216
-227,luhut,PER,0.93407
-227,mbg,PRD,0.46568385
-227,purbaya,PER,0.82271683
-227,menkeu,NOR,0.8351144
-227,purbaya,PER,0.81906664
-227,ketua dewan,NOR,0.6253963
-227,ekonomi,ORG,0.50031424
-227,nasional,NOR,0.5360224
-227,den,ORG,0.39130244
-227,luhut binsar pandjaitan,PER,0.9358888
-228,bahlil,PER,0.91312623
-228,purbaya,PER,0.71059847
-228,lpg 3 kg,PRD,0.79942656
-228,menteri esdm,NOR,0.8640016
-228,bahlil lahadalia,PER,0.98574907
-228,menteri keuangan,NOR,0.9300915
-228,purbaya yudhi sadewa,PER,0.96190506
-228,lpg 3 kg,PRD,0.68466973
-229,misbakhun,PER,0.96119756
-229,menkeu,NOR,0.71545106
-229,purbaya,ORG,0.56939346
-229,misbakhun,PER,0.95965385
-229,menkeu,NOR,0.6921703
-229,purbaya,ORG,0.40840283
-230,purbaya,PER,0.7920276
-230,ketua komisi xi,NOR,0.93956566
-230,ketua komisi xi dpr ri,NOR,0.9898219
-230,muhammad misbakhun,PER,0.9924063
-230,purba,PER,0.76231426
-230,"0, 5 persen",PRC,0.99140126
-231,pertamina,ORG,0.9677793
-231,kilang,PRD,0.5860064
-231,purba,PER,0.9177153
-231,purba,PER,0.9854334
-231,pertamina,ORG,0.95066047
-232,purbaya,PER,0.8809483
-232,rupiah,MON,0.8534655
-232,menke,NOR,0.49371803
-232,##u,ORG,0.32720214
-232,purba,PER,0.79188627
-232,rupiah,MON,0.91533065
-233,rp 200 triliun,MON,0.996214
-233,menkeu,NOR,0.886874
-233,purbaya,PER,0.47483718
-233,kpk,NOR,0.8420493
-233,bank himbara,ORG,0.90563995
-233,kpk,NOR,0.9859869
-233,warni,PER,0.7082376
-233,rp 200 triliun,MON,0.99754435
-233,bank himbara,ORG,0.9380531
-233,menkeu,NOR,0.69225866
-234,menkeu purba,NOR,0.6950253
-234,##ya,ORG,0.6191213
-234,menteri keuangan,NOR,0.9231541
-234,purbaya,PER,0.84126556
-234,yudhi sadewa,PER,0.9567183
-235,rp 200 triliun,MON,0.9980255
-235,himbara,ORG,0.60151684
-235,purbaya,PER,0.8955134
-235,menkeu,NOR,0.8361872
-235,purbaya,PER,0.8616568
-235,yudhi sadewa,PER,0.91446257
-235,rp 200 triliun,MON,0.99833566
-235,him,PER,0.7473733
-235,##bara,ORG,0.37250924
-236,apbn 202,LAW,0.65670836
-236,##6,MON,0.4683472
-236,purba,PER,0.87427837
-236,menteri keuangan,NOR,0.953573
-236,purbaya yudhi sadewa,PER,0.9292347
-236,anggaran pendapatan dan belanja negara ( apbn ) 2026,LAW,0.9073062
-237,money,PRD,0.63511866
-237,menkeu,NOR,0.7579035
-237,purba,PER,0.6898281
-237,tutut soeharto,PER,0.8476283
-237,menkeu,NOR,0.7942938
-237,menkeu,NOR,0.7228131
-237,purbaya,PER,0.4725669
-237,tutut soeharto,PER,0.7629833
-238,kemeja batik purba,PRD,0.82698417
-238,purba,PER,0.91264665
-238,kemeja batik,PRD,0.94159406
-238,kain batik,PRD,0.78030133
-239,menkeu,NOR,0.62153625
-239,purbaya,ORG,0.5009307
-239,menkeu,NOR,0.67835575
-239,purbaya,PER,0.59292024
-240,lulusan itb,ORG,0.69575316
-240,rp 200 t,MON,0.9896408
-240,menke,NOR,0.4780989
-240,##u,ORG,0.4344986
-240,purba,PER,0.34395772
-240,indonesia,GPE,0.5748703
-240,itb,ORG,0.836034
-240,rp 200 triliun,MON,0.9977004
-240,men,NOR,0.8476612
-240,##keu,ORG,0.4761427
-240,purba,PER,0.47655776
-240,indonesia,GPE,0.91073895
-241,purba,PER,0.95898026
-241,rp 7 t,MON,0.9949735
-241,rp 200 t,MON,0.99581313
-241,menteri keuangan,NOR,0.8686859
-241,purbaya,PER,0.89957774
-241,bank pelat merah,ORG,0.95311123
-241,rp 7 triliun,MON,0.9981044
-241,rp 200 triliun,MON,0.99709016
-242,menkeu purba,NOR,0.7487809
-242,menkeu,NOR,0.9140194
-242,purbaya,PER,0.5738133
-242,yudhi sadewa,PER,0.9436107
-242,rokok,LAW,0.34411767
-242,202,DAT,0.3666466
-242,##6,LAW,0.6025771
-243,rp 200 triliun,MON,0.99376637
-243,menke,NOR,0.67764616
-243,##u,ORG,0.5223989
-243,purba,PER,0.4060511
-243,2 persen,PRC,0.9893197
-243,menkeu,NOR,0.7995898
-243,purbaya,PER,0.5330286
-243,pemerintah,NOR,0.8072633
-243,merah putih,PRD,0.5399887
-244,menkeu purba,NOR,0.51439136
-244,guru besar ilmu komunikasi universitas sumatera utara,ORG,0.7848782
-244,prof iskandar zulkarnain,PER,0.99396485
-244,purba,PER,0.6545557
-245,sri mulyani,PER,0.98455256
-245,men,NOR,0.72950053
-245,##keu purbaya,ORG,0.5704204
-245,rp 200 t,MON,0.99513596
-245,bank himbara,ORG,0.9331588
-245,men,NOR,0.76748055
-245,##keu purba,ORG,0.6674061
-245,rp 200 t,MON,0.9940675
-245,sri mulyani,PER,0.9852739
-246,menkeu purba,NOR,0.7483911
-246,wagub kalteng,NOR,0.8816063
-246,menkeu purba,NOR,0.8249933
-246,##ya,ORG,0.45173067
-246,rapbn 2026,LAW,0.77693635
-246,wagub kalteng,NOR,0.950053
-246,edy pratowo sambut,PER,0.8918335
-247,pr,NOR,0.6682055
-247,menkeu,ORG,0.5917525
-247,purba,PER,0.50359064
-247,purba,PER,0.8784349
-248,men,NOR,0.44983092
-248,##keu,ORG,0.47194147
-248,purbaya,PER,0.6258943
-248,instagram,PRD,0.9454859
-248,instagram,PRD,0.95859563
-248,purbaya,PER,0.93065834
-249,menkeu purba,NOR,0.75614846
-249,##ya,ORG,0.7152461
-249,bupati lumajang,NOR,0.9686323
-249,bupati lumajang,NOR,0.9615747
-249,indah amperawati,PER,0.9963909
-249,menkeu purba,NOR,0.792059
-249,##ya,ORG,0.39634293
-249,yudhi sadewa,PER,0.9439422
-250,men,NOR,0.44727597
-250,##keu purba,ORG,0.743479
-250,rp 200 triliun,MON,0.9981037
-250,bi,ORG,0.97674245
-250,menke,NOR,0.6489699
-250,##u purba,ORG,0.5688292
-250,rp 200 triliun,MON,0.9979744
-250,bank indonesia,ORG,0.98832655
-251,cia,NOR,0.42331517
-251,menkeu,NOR,0.577756
-251,purba,PER,0.50933814
-251,alh,REG,0.4813492
-251,##am,PER,0.5050086
-251,##dulil,REG,0.45600572
-251,agen cia amerika,NOR,0.68798
-251,##keu,NOR,0.5714191
-251,purba,PER,0.6751354
-251,instagram story,PRD,0.8016891
-252,purbaya,PER,0.78997296
-252,bei,ORG,0.89581186
-252,ojk,ORG,0.8921616
-252,saham gorengan,PRD,0.7171758
-252,purba,PER,0.9916715
-252,saham goreng,PRD,0.8059751
-253,purba,PER,0.92035484
-253,pon,LOC,0.27176464
-253,##pes al khoziny,ORG,0.45074043
-253,apbn,LAW,0.9359909
-253,purbaya,PER,0.76045567
-253,gedung,FAC,0.3274692
-253,ponpes al khoziny,LOC,0.5236619
-253,sidoarjo,ORG,0.2589653
-253,apbn,LAW,0.91995066
-254,ditjen,NOR,0.51355314
-254,pajak,ORG,0.7338716
-254,bea,NOR,0.3261214
-254,cukai,ORG,0.44340265
-254,dj,NOR,0.52606183
-254,##p,ORG,0.49064168
-254,26,CRD,0.9457955
-254,13,CRD,0.9507728
-254,ditjen,NOR,0.6251719
-254,pajak,ORG,0.77290094
-255,btn,ORG,0.8806442
-255,pemerintah,NOR,0.9586344
-255,menkeu purba,NOR,0.64637566
-255,##ya,ORG,0.54132926
-255,purba,PER,0.89905137
-255,pemerintah,NOR,0.9603315
-255,btn,ORG,0.81487453
-256,purbaya,PER,0.8041203
-256,bank himbara,ORG,0.9830596
-256,rp 200 triliun,MON,0.9974777
-256,dollar,MON,0.93588704
-256,menkeu,NOR,0.61963767
-256,purbaya,PER,0.5279542
-256,5,CRD,0.6944842
-256,bank himbara,ORG,0.8994219
-256,rp 200 triliun,MON,0.9970332
-256,dollar,MON,0.94931823
-257,bank bjb,ORG,0.9641611
-257,him,PER,0.44193435
-257,kemenkeu,NOR,0.7519636
-257,bank pembangunan daerah,ORG,0.96068794
-257,bpd,ORG,0.85935295
-257,pemerintah,NOR,0.84256184
-258,seskab teddy,ORG,0.7646132
-258,ses,NOR,0.5916016
-258,##kab,ORG,0.64654624
-258,teddy indra wijaya,PER,0.7521505
-259,menkeu,NOR,0.68905395
-259,purbaya,PER,0.6901064
-259,lp,ORG,0.34374154
-259,##s,PRD,0.45139703
-259,menteri keuangan,NOR,0.9615381
-259,purbaya yudhi sadewa,PER,0.90109056
-259,lps,ORG,0.47753042
-260,menkeu,NOR,0.55938727
-260,purbaya,PER,0.61437345
-260,indonesia,GPE,0.99312866
-260,september 2025,DAT,0.9927317
-261,anggito abimanyu,PER,0.974183
-261,ketua lps,ORG,0.5803043
-261,purbaya,PER,0.7392649
-261,anggito abimanyu,PER,0.9507837
-261,ketua,NOR,0.4033749
-261,lps,ORG,0.6029889
-261,##eu,NOR,0.31782344
-261,lima tahun,QTY,0.68920445
-262,purbaya,PER,0.96475166
-262,anggito abimanyu,PER,0.9406493
-262,lps,ORG,0.7236575
-262,kemenkeu,NOR,0.7511038
-262,menteri keuangan,NOR,0.9341157
-262,purbaya yudhi sadewa,PER,0.9401699
-262,anggito abimanyu,PER,0.93428344
-262,kepala lps,ORG,0.62749946
-263,pemda,NOR,0.95658296
-263,202,CRD,0.42689875
-263,##6,LAW,0.310496
-263,menkeu,NOR,0.8697298
-263,purba,PER,0.6378847
-263,purba,PER,0.98290116
-263,pemerintah daerah,NOR,0.95476884
-263,pemda,NOR,0.8857732
-263,202,DAT,0.32726592
-263,##6,LAW,0.33375728
-264,menkeu,NOR,0.75423336
-264,purbaya,PER,0.39795464
-264,mbg,PRD,0.6245638
-264,oktober,DAT,0.99394846
-264,menteri keuangan,NOR,0.95417845
-264,purbaya,PER,0.93635356
-264,yudhi sadewa,PER,0.9541694
-264,mbg,PRD,0.5443222
-265,purbaya,PER,0.6628492
-265,pramono,PER,0.9263181
-265,jakarta,GPE,0.99426234
-265,purbaya,PER,0.7084876
-265,pramono,PER,0.88406247
-265,balai kota,LOC,0.5670808
-265,jakarta,GPE,0.9887849
-266,menkeu,NOR,0.79597354
-266,purbaya,PER,0.3910995
-266,pemerintah,NOR,0.5806302
-266,rp 20 triliun,MON,0.99541456
-266,bank jakarta,ORG,0.8928873
-266,kementerian keuangan,NOR,0.97563136
-266,kemenkeu,NOR,0.94946116
-266,pemerintah,NOR,0.5264136
-267,menkeu,NOR,0.88705105
-267,purbaya,PER,0.43777412
-267,temui pramono,PER,0.834188
-267,balai,LOC,0.53328174
-267,kota,ORG,0.32202545
-267,menkeu purba,NOR,0.82345134
-267,##ya,ORG,0.37416583
-267,temui,PER,0.5101259
-267,pramono anung,PER,0.7385234
-267,balai,LOC,0.27799463
-267,pemprov dki,NOR,0.9335663
-267,jakarta,GPE,0.9929998
-268,purbaya sidak,PER,0.804143
-268,bank mandiri,ORG,0.9938005
-268,rp 200 triliun,MON,0.9980795
-268,purbaya,PER,0.9252944
-268,senin ( 6 / 10 / 2025 ),DAT,0.99454117
-268,gedung mandiri club,LOC,0.8951085
-268,jakarta selatan,GPE,0.9949213
-268,bank mandiri,ORG,0.7678624
-269,menkeu,NOR,0.60387176
-269,cukai rokok,LAW,0.523484
-269,202,CRD,0.2610757
-269,##6,LAW,0.4086186
-269,tembakau,ORG,0.6526541
-269,ih,PRD,0.36754072
-269,##t,ORG,0.63052815
-270,mbg,PRD,0.30091822
-270,purba,PER,0.980355
-270,menteri keuangan,NOR,0.968831
-270,purbaya yudhi sadewa,PER,0.90313125
-271,jawab,ORG,0.44247985
-271,bahlil,PER,0.53822404
-271,menteri koboi purbaya,NOR,0.64717066
-271,lpg 3 kg,PRD,0.81484103
-271,menteri keuangan,NOR,0.94037616
-271,purbaya,PER,0.55490756
-271,menteri esdm,NOR,0.9030721
-271,bahlil,PER,0.89904785
-271,lpg 3 kg,PRD,0.7295539
-272,bahlil,PER,0.97335887
-272,purba,PER,0.9336383
-272,lpg 3 kg,PRD,0.79614055
-272,bahlil lahadalia,PER,0.97902536
-272,menteri keuangan (,NOR,0.84835833
-272,menkeu,NOR,0.8203767
-272,purbaya yudhi sadewa,PER,0.98318166
-272,lpg,PRD,0.8320779
-272,3 kilogram,QTY,0.70210737
-273,purbaya,PER,0.975494
-273,airlangga,PER,0.9790122
-273,kantor danantara,ORG,0.85697067
-273,menteri keuangan,NOR,0.94579196
-273,purbaya yudhi sadewa,PER,0.9796562
-273,menteri koordinator bidang perekonomian,NOR,0.68665934
-273,airlangga hartarto,PER,0.97779226
-273,kantor bpi danantara,ORG,0.8522608
-273,rabu ( 1 / 10 / 2025 ),DAT,0.9868767
-274,purbaya,PER,0.80787206
-274,2024,DAT,0.99132675
-274,bumn,NOR,0.5403073
-274,menteri keuangan,NOR,0.90761197
-274,purbaya yudhi sadewa,PER,0.9097511
-274,2024,DAT,0.9666637
-275,rokok,PRD,0.47956502
-275,menkeu purba,NOR,0.7765017
-275,papan,PRD,0.60091144
-275,rokok,PRD,0.49674958
-275,2026,EVT,0.23809657
-276,pemda,NOR,0.68439806
-276,rp 233 triliun,MON,0.99662036
-276,pemda,NOR,0.85784954
-277,dpr,NOR,0.9875843
-277,anggito abimanyu,PER,0.95015454
-277,ketua,NOR,0.6496463
-277,dewan komisioner lps,ORG,0.6163293
-277,purbaya,PER,0.9346758
-277,dpr ri,NOR,0.9759859
-277,anggito abimanyu,PER,0.9414992
-277,ketua,NOR,0.41120088
-277,dk lps,ORG,0.704794
-277,2025 - 2030,DAT,0.913177
-277,purbaya yudhi sadewa,PER,0.9802516
-277,menteri keuangan,NOR,0.88001394
-278,2025,DAT,0.9483098
-278,menkeu,NOR,0.839647
-278,purba,PER,0.5430884
-278,aparatur sipil negara,NOR,0.89038867
-278,asn,NOR,0.90242594
-278,tni,NOR,0.9876315
-278,polri,NOR,0.872072
-278,2025,DAT,0.9901966
-279,rokok,PRD,0.5851695
-279,purba,PER,0.9565593
-279,purba,PER,0.9818376
-279,tembakau,PRD,0.4790436
-279,rokok,PRD,0.5784789
-280,rp 692 triliun,MON,0.99825335
-280,menkeu purba,NOR,0.7738471
-280,##ya,ORG,0.44981948
-280,menteri keuangan,NOR,0.947093
-280,purbaya,PER,0.76206523
-280,yudhi sadewa,PER,0.94282883
-280,rp 43 triliun,MON,0.99795693
-281,bos,ORG,0.76719034
-281,bi,ORG,0.57409817
-281,men,NOR,0.49427202
-281,##keu,ORG,0.60576725
-281,purbaya,PER,0.6447947
-281,him,PER,0.5579566
-281,rp 200 triliun,MON,0.9913013
-281,bank indonesia,ORG,0.9890375
-281,rp 200 triliun,MON,0.9976925
-282,menke,NOR,0.644284
-282,##u,ORG,0.48184305
-282,purbaya,PER,0.45326585
-282,rp 200 t,MON,0.9939564
-282,purbaya,PER,0.7485883
-283,purbaya,PER,0.748026
-283,bank,ORG,0.570541
-283,rp 200 triliun,MON,0.99775314
-283,menteri keuangan,NOR,0.9399302
-283,purbaya yudhi sadewa,PER,0.92508155
-283,rp 200 triliun,MON,0.9979349
-283,pemerintah,NOR,0.9748896
-284,zulhas,PER,0.9772256
-284,purbaya,PER,0.8979691
-284,rp 200 triliun,MON,0.99706286
-284,kopdes merah putih,ORG,0.7180181
-284,rp 200 triliun,MON,0.99783474
-284,him,GPE,0.5362003
-284,##bara,LOC,0.34702688
-284,bs,LOC,0.344143
-284,##i,ORG,0.3973494
-285,aceh,GPE,0.99615663
-285,bsi,ORG,0.95768857
-285,rp 200 triliun,MON,0.9964048
-285,menkeu,NOR,0.7037589
-285,purbaya,ORG,0.55586046
-285,bsi,ORG,0.97413826
-285,aceh,GPE,0.9973694
-285,qanun lembaga keuangan syariah,LAW,0.71360844
-285,2021,DAT,0.9949302
-286,men,NOR,0.7211629
-286,##keu purbaya,ORG,0.59325844
-286,rp 200 triliun,MON,0.9981677
-286,bank himbara,ORG,0.98770434
-286,men,NOR,0.7088687
-286,##keu,ORG,0.65755796
-286,purba,PER,0.582386
-286,rp 200 triliun,MON,0.9980177
-286,bank himbara,ORG,0.9882619
-287,jokowi,PER,0.9957449
-287,pak purbaya mahzabn,PER,0.7571988
-287,sri mulyani,PER,0.9895678
-287,jokowi,PER,0.9937505
-287,purba,PER,0.95845544
-287,sri mulyani,PER,0.9903342
-287,mah,PER,0.7955419
-287,prabowo,PER,0.99646133
-288,menkeu,NOR,0.5101654
-288,purba,PER,0.28699368
-288,##ya,ORG,0.32054943
-288,ri,PER,0.48755947
-288,middle income trap,PRD,0.43845397
-288,menkeu purba,NOR,0.6592674
-288,indonesia,GPE,0.95151794
-288,menengah,PRD,0.4059911
-288,middle income trap,PRD,0.44643253
-289,menkeu,NOR,0.7974357
-289,purba,PER,0.46574906
-289,pemerintah,NOR,0.9655546
-289,2026,CRD,0.4023315
-289,dpr,NOR,0.98687613
-290,menkeu purba,NOR,0.6262475
-290,##ya,ORG,0.3923059
-290,nepal,EVT,0.82657164
-290,tren,ORG,0.5281659
-290,rabu ( 10 / 9 / 2025 ),DAT,0.9909227
-290,sima,PER,0.5724178
-291,purbaya,PER,0.78575724
-291,rokok,PRD,0.4275852
-291,menteri keuangan,NOR,0.9602651
-291,purbaya yudhi sadewa,PER,0.9737335
-291,rokok,ORG,0.4518869
-292,men,NOR,0.82126915
-292,##keu purbaya,ORG,0.6651901
-292,gen z,ORG,0.5797069
-292,men,NOR,0.8917511
-292,##ke,ORG,0.4995501
-292,##u,NOR,0.51760846
-292,purbaya,ORG,0.601457
-292,yudhi sadewa,PER,0.9832498
-292,of the day,EVT,0.36533037
-292,jumat ( 19 / 9 / 2025 ),DAT,0.99462163
-293,men,NOR,0.59333265
-293,##keu purba,ORG,0.57225144
-293,singapura,GPE,0.9982174
-293,malaysia,GPE,0.9979122
-293,men,NOR,0.7177138
-293,##keu purba,ORG,0.575231
-293,indonesia,GPE,0.9944695
-294,men,NOR,0.7006106
-294,##keu,ORG,0.5311297
-294,purbaya,PER,0.38751322
-294,rokok,PRD,0.5067693
-294,menkeu,NOR,0.72401476
-294,purba,ORG,0.40915078
-294,##ya,PER,0.5991635
-294,yudhi sadewa,PER,0.97624093
-294,rokok,PRD,0.44870144
-294,57 persen,PRC,0.98613775
-295,men,NOR,0.6261166
-295,##keu,ORG,0.6376977
-295,purba,PER,0.37419087
-295,rupiah,MON,0.9441863
-295,men,NOR,0.75812536
-295,##keu purbaya,ORG,0.60664594
-295,rupiah,MON,0.8904673
-296,malaysia,GPE,0.9977303
-296,menkeu purba,NOR,0.7526848
-296,##ya,ORG,0.46475664
-296,rp 150 miliar,MON,0.99824667
-296,kaltara,GPE,0.84052503
-296,menkeu purba,NOR,0.78023183
-296,##ya,ORG,0.5102315
-296,rp150 miliar,MON,0.9955585
-296,kalimantan utara,GPE,0.98963535
-296,malaysia,GPE,0.9986651
-297,rp 200 triliun,MON,0.9970765
-297,menkeu,NOR,0.8392404
-297,purbaya,PER,0.43335187
-297,yudhi sadewa,PER,0.90655446
-297,menkeu,NOR,0.8736896
-297,purbaya,PER,0.5706298
-297,yudhi sadewa,PER,0.9464655
-297,rp 200 triliun,MON,0.99778676
-298,rp 200 triliun,MON,0.9972961
-298,bank bumn,ORG,0.91371775
-298,menke,NOR,0.6869744
-298,##u,ORG,0.57965946
-298,purba,PER,0.34410128
-298,menteri keuangan,NOR,0.86843187
-298,purbaya yudhi sadewa,PER,0.9435418
-298,rp 200 triliun,MON,0.9978964
-299,menkeu,NOR,0.7151468
-299,purba,PER,0.5998456
-299,##ya,ORG,0.44294283
-299,rp 150 miliar,MON,0.9963207
-299,kaltara,GPE,0.45214418
-299,malaysia,GPE,0.9987286
-299,menteri keuangan,NOR,0.96320593
-299,purbaya yudhi sadewa,PER,0.9804938
-299,pemerintah pusat,NOR,0.95411646
-299,jembatan,FAC,0.5644746
-299,kaltara,GPE,0.7736431
-300,rp 200 triliun,MON,0.9967069
-300,bank,ORG,0.6889145
-300,menke,NOR,0.6307776
-300,##u purbaya,ORG,0.54144114
-300,menteri keuangan,NOR,0.8516513
-300,purbaya yudhi sadewa,PER,0.96484
-300,rp 200 triliun,MON,0.99770325
-301,menkeu,NOR,0.8571562
-301,purbaya,PER,0.6597078
-301,sidak bank bumn,ORG,0.6898151
-301,menteri keuangan (,NOR,0.87286764
-301,menkeu,NOR,0.7970896
-301,purbaya yudhi sadewa,PER,0.9507113
-301,kantor,ORG,0.5167945
-301,pusat,LOC,0.510345
-301,pt bank negara indonesia ( persero ) tbk,ORG,0.81395
-301,bni,ORG,0.98079634
-301,senin ( 29 / 9 / 2025 ),DAT,0.9930923
-302,mb,LAW,0.3382991
-302,##g,PRD,0.7475181
-302,pemerintah,NOR,0.9366048
-302,makan,PRD,0.3655996
-302,bergizi,EVT,0.58154875
-302,gratis,PRD,0.36719796
-302,mbg,PRD,0.6690115
-303,menkeu,NOR,0.7632265
-303,mb,ORG,0.17448886
-303,##g,PRD,0.5957623
-303,menkeu,NOR,0.780772
-303,purba,PER,0.3328456
-303,mb,ORG,0.23519611
-303,##g,PRD,0.6119721
-304,menkeu purba,NOR,0.5467876
-304,jokowi,PER,0.9967378
-304,sri mulyani,PER,0.9930981
-304,joko widodo,PER,0.9881166
-304,menkeu purba,NOR,0.6228245
-304,##ya,ORG,0.3720411
-304,yudhi sadewa,PER,0.9893832
-305,menkeu,NOR,0.71000403
-305,purba,PER,0.88384014
-305,dpr,NOR,0.9808201
-305,purba,PER,0.90100527
-305,dpr,NOR,0.9904186
-306,ekonom ui,ORG,0.819957
-306,purba,PER,0.76951826
-306,ekonom,ORG,0.50215477
-306,lpem feb ui,ORG,0.86697936
-306,teuku riefky,PER,0.99318755
-307,men,NOR,0.61704683
-307,pemerintah,NOR,0.9575926
-308,purbaya,PER,0.7601065
-308,dirjen pajak,NOR,0.8263316
-308,purba,PER,0.9835877
-309,purba,PER,0.90299815
-309,200,CRD,0.8796358
-309,rp 60 t,MON,0.995199
-309,menkeu,NOR,0.79419774
-309,purbaya,PER,0.784125
-309,yudhi sadewa,PER,0.98773336
-309,200,CRD,0.8957451
-309,rp 60 triliun,MON,0.99774426
-310,purbaya,PER,0.86794436
-310,##ta,ORG,0.2919955
-310,##x,EVT,0.36283255
-310,1 bulan,QTY,0.9251874
-310,menkeu,NOR,0.6249744
-310,purbaya,PER,0.814837
-310,yudhi sadewa,PER,0.85948133
-311,dirjen kemenkeu,NOR,0.7691447
-311,purbaya,PER,0.93817437
-311,menkeu,NOR,0.9243045
-311,purbaya,PER,0.9737012
-311,yudhi sadewa,PER,0.9847732
-311,kemenkeu,NOR,0.8440282
-312,tutut soeharto,PER,0.8386443
-312,menkeu,NOR,0.6711483
-312,purbaya,PER,0.5537013
-312,tutut soeharto,PER,0.84800315
-312,ptun,ORG,0.97153735
-312,men,NOR,0.88900864
-312,##keu,ORG,0.5073354
-313,purbaya,PER,0.8799145
-313,lps,ORG,0.6337082
-313,menteri keuangan,NOR,0.93940175
-314,purbaya,PER,0.940342
-314,gu,PER,0.5079245
-314,mikirin,PER,0.70505846
-314,menteri keuangan ( menkeu,NOR,0.84258676
-314,purbaya yudhi sadewa,PER,0.9801993
-314,pemilihan umum ( pemilu,EVT,0.90570897
-315,purbaya,PER,0.91247445
-315,ihsg,PRD,0.8742234
-315,menteri keuangan,NOR,0.9151449
-315,purbaya,PER,0.9743835
-315,yudhi sadewa,PER,0.89372635
-315,indeks harga saham gabungan,PRD,0.9619062
-315,ihsg,PRD,0.9320232
-316,purbaya,PER,0.9332629
-316,bei,ORG,0.86920327
-316,menteri keuangan,NOR,0.8443229
-316,purbaya yudhi sadewa,PER,0.98254365
-316,bursa efek indonesia,ORG,0.93038446
-316,bei,ORG,0.83129954
-316,direksi bei,ORG,0.70786
-317,menkeu,NOR,0.6504937
-317,purbaya,ORG,0.5861326
-317,menteri keuangan,NOR,0.90710366
-317,purbaya,PER,0.9061779
-317,yudhi sadewa,PER,0.95341605
-317,bursa efek indonesia,ORG,0.8785746
-317,jakarta,GPE,0.9966318
-317,kamis ( 9 / 10 / 2025 ),DAT,0.990783
-318,mahfud md puji purbaya,PER,0.9693108
-318,bl,PER,0.39645752
-318,##bi,ORG,0.48237914
-318,mahfud md tantang purbaya,PER,0.94113064
-318,bl,PER,0.34568876
-318,##bi,ORG,0.46743947
-319,pramono,PER,0.6723264
-319,purbaya,PER,0.7264622
-319,pramono anung,PER,0.8276816
-319,purbaya,PER,0.8250478
-319,gedung,FAC,0.4750196
-319,bank jakarta,LOC,0.3898424
-320,purba,PER,0.5094858
-320,bos,ORG,0.5438441
-320,bi,ORG,0.48431405
-320,diplomasi bebek goreng,PRD,0.7094104
-320,men,NOR,0.46312356
-320,##keu,ORG,0.5722842
-320,purba,PER,0.4502938
-320,gubernur,NOR,0.6696858
-320,bi,ORG,0.7190996
-320,bebek,EVT,0.79010737
-321,menkeu,NOR,0.7398402
-321,purbaya,PER,0.5684444
-321,kepala bgn,ORG,0.8740476
-321,mbg,PRD,0.60254955
-321,menteri keuangan,NOR,0.9318813
-321,purbaya yudhi sadewa,PER,0.9424922
-321,kantor bgn,ORG,0.73009235
-321,mbg,PRD,0.5413113
-321,jumat ( 26 / 9 / 2025 ),DAT,0.9946298
-322,menkeu purba,NOR,0.70560235
-322,pemerintah,NOR,0.9759647
-322,menteri keuangan,NOR,0.89555836
-322,purbaya yudhi sad,PER,0.9167841
-322,pemerintah,NOR,0.965683
-322,apbn 202,LAW,0.8620003
-322,##6,MON,0.6032891
-323,menkeu,NOR,0.7477109
-323,purbaya,PER,0.5648262
-323,indonesia,GPE,0.9678917
-323,sumitronomics,ORG,0.5906249
-323,menteri keuangan,NOR,0.9703686
-323,purbaya,PER,0.94306064
-323,yudhi sadewa,PER,0.9480039
-323,rapat paripurna dpr ri,EVT,0.91700315
-323,ruu apbn 2026,LAW,0.91203856
-323,selasa ( 23 / 9 / 2025 ),DAT,0.991699
-324,8,CRD,0.90602714
-324,4,CRD,0.8897237
-324,5,CRD,0.85638297
-324,duet,PER,0.55825907
-324,purbaya,PER,0.4666382
-324,airlangga,PER,0.81051904
-324,dongkrak ekonomi,ORG,0.5136771
-324,airlangga,PER,0.6624515
-324,purbaya,PER,0.7651176
-324,8,CRD,0.91958624
-324,4,CRD,0.9182272
-324,5,CRD,0.8965943
-325,purbaya,PER,0.8807098
-325,purbaya,PER,0.8341818
-325,gubernur,NOR,0.49546063
-325,singg,PER,0.54826075
-325,purbaya,PER,0.8954636
-326,dpr,NOR,0.99004
-326,menkeu,NOR,0.8965035
-326,purbaya,PER,0.76825726
-326,purbaya,PER,0.89254665
-327,hotman paris,ORG,0.91738945
-327,purba,PER,0.9267716
-327,amnes,PRD,0.31136397
-327,hotman paris,ORG,0.776756
-327,menkeu,NOR,0.8508776
-327,purbaya yudhi sadewa,PER,0.9046228
-328,indonesia,GPE,0.9767085
-329,anggito abimanyu,PER,0.9750678
-329,lps,ORG,0.8910727
-329,purbaya,PER,0.9480262
-329,anggito abimanyu,PER,0.95409536
-329,ketua lps 20252030,ORG,0.5429384
-329,purbaya yudhi sadewa,PER,0.975637
-329,2025 - 2030,DAT,0.83051044
-330,menke,NOR,0.6784173
-330,##u,ORG,0.5337209
-330,purba,PER,0.46034953
-330,satgas blbi,ORG,0.85625917
-330,menkeu,NOR,0.70729446
-330,purba,PER,0.43803114
-330,satgas blbi,ORG,0.84600145
-331,menkeu,NOR,0.6389821
-331,purbaya,PER,0.58073246
-331,prabowo,PER,0.9915217
-331,menkeu,NOR,0.71675277
-331,purba,PER,0.564919
-332,men,NOR,0.41886067
-332,purba,PER,0.86837864
-332,sby,PER,0.99432313
-332,jokowi,PER,0.99361175
-332,purba,PER,0.9186367
-332,sby,PER,0.99241203
-332,jokowi,PER,0.99516714
-332,20 tahun,QTY,0.829304
-333,menkeu,NOR,0.6516482
-333,purbaya,PER,0.57660186
-333,agustus,DAT,0.9812983
-333,menteri keuangan,NOR,0.8746697
-333,purbaya,PER,0.9589962
-333,yudhi sadewa,PER,0.9819987
-333,agustus,DAT,0.9854344
-334,kereta cepat whoosh,PRD,0.9679642
-334,purbaya,PER,0.8897606
-334,danan,ORG,0.47555566
-334,kereta cepat whoosh,PRD,0.9790489
-334,menke,NOR,0.49362746
-334,##u,ORG,0.44448432
-334,purbaya,PER,0.76772577
-334,kereta cepat whoosh,PRD,0.959384
-334,dana,ORG,0.5075251
-335,purba,PER,0.86336195
-335,menkeu,NOR,0.66397077
-335,purba,PER,0.44076544
-335,202,CRD,0.19247714
-335,##6,LAW,0.21958023
-336,menkeu purba,NOR,0.68455994
-336,##ya,ORG,0.34873208
-336,ahok,PER,0.9723779
-336,voucher digital,PRD,0.6647203
-336,menteri keuangan,NOR,0.9316319
-336,purbaya,PER,0.93685216
-336,yudhi sadewa,PER,0.9535103
-336,basuki tjahja purnama,PER,0.97973067
-336,ahok,PER,0.9349064
-336,vo,PRD,0.4920983
-337,meteor,PER,0.5073784
-337,luhut,PER,0.9147239
-337,lima,CRD,0.93222666
-337,6 oktober 2025,DAT,0.98823124
-338,prabowo sapa dedi mulyadi,PER,0.8550911
-338,bahasa,PRD,0.16409129
-338,sunda,LAN,0.28065506
-338,menkeu purba,NOR,0.724772
-338,prabowo sapa dedi mulyadi,PER,0.84289193
-338,bahasa,PRD,0.15213096
-338,sunda,LAN,0.27696982
-338,menkeu purba,NOR,0.6672879
-339,hotman paris,ORG,0.8661658
-339,bunga deposito,PRD,0.58927196
-339,menkeu,NOR,0.59895134
-339,purbaya,ORG,0.45352298
-339,hot,PER,0.48285183
-339,##man paris,ORG,0.6992942
-339,bunga deposito,PRD,0.7790685
-339,rp 200 t,MON,0.99583274
-339,him,ORG,0.3550748
-340,hot,PER,0.5862427
-340,##man paris,ORG,0.5796292
-340,purbaya,PER,0.92446065
-340,menkeu,NOR,0.83228534
-340,purbaya,PER,0.9314575
-340,yudhi sadewa,PER,0.98960435
-340,hot,PER,0.53211427
-340,##man paris,ORG,0.82602835
-341,tax,LAW,0.24221814
-341,amnesty,PRD,0.41820213
-341,purba,PER,0.9526291
-341,purba,PER,0.95757663
-341,tax,LAW,0.2999808
-341,amnesty,PRD,0.6065312
-342,purbaya,PER,0.6849632
-342,bg,ORG,0.341558
-342,##n,PRD,0.6239847
-342,mbg,ORG,0.36840102
-342,menkeu,NOR,0.7272406
-342,purbaya,PER,0.8040379
-342,yudhi sadewa,PER,0.9163193
-342,mb,ORG,0.33600482
-342,##g,PRD,0.45526236
-342,badan gizi nasional,ORG,0.8201204
-343,qodari,PER,0.9598587
-343,purba,PER,0.67071927
-343,kepala staf kepresidenan,NOR,0.8671157
-343,m. qodari,PER,0.9886516
-343,menteri keuangan,NOR,0.7463464
-343,purbaya yudhi sadewa,PER,0.970009
-344,purbaya,PER,0.8549308
-344,dirut bank,ORG,0.87282187
-344,sabtu - minggu,DAT,0.7627707
-344,menteri keuangan,NOR,0.897058
-344,purbaya,PER,0.9820518
-344,yudhi sadewa,PER,0.92744744
-344,pemerintah,NOR,0.5640435
-344,rp 200 triliun,MON,0.99700826
-345,men,NOR,0.65724206
-345,##keu,ORG,0.56973636
-345,purba,PER,0.3294429
-345,##ya,ORG,0.43568492
-345,direktur ekonomi digital celios,ORG,0.8640789
-345,nailul huda,PER,0.986896
-345,menteri keuangan,NOR,0.66497993
-345,purbaya yudhi sadewa,PER,0.9175632
-346,purbaya,PER,0.9035568
-346,danantara,ORG,0.6778442
-346,menteri keuangan,NOR,0.9512293
-346,purbaya yudhi sadewa,PER,0.92814845
-346,danantara,ORG,0.56361455
-346,pemerintah,NOR,0.52192754
-346,danantara,ORG,0.6633947
-347,purbaya,PER,0.72919446
-347,jakarta,GPE,0.99076086
-347,rp 15 t,MON,0.9921629
-347,pramono,PER,0.94602984
-347,gubernur jakarta,NOR,0.92513037
-347,pramono anung,PER,0.98108244
-347,jakarta,GPE,0.9951755
-347,menteri keuangan,NOR,0.9548615
-347,purbaya yudhi sadewa,PER,0.9785618
-348,purba,PER,0.97007275
-348,gubernur,NOR,0.6031012
-348,indonesia,GPE,0.55374455
-348,tkd 2026,LAW,0.41462368
-348,menkeu,NOR,0.75495297
-348,purba,PER,0.93573326
-348,gubernur,NOR,0.8406644
-348,indonesia,GPE,0.5817461
-348,##d 2026,LAW,0.3950623
-349,menke,NOR,0.66042924
-349,##u,ORG,0.44871566
-349,purba,PER,0.5630325
-349,jakarta,GPE,0.97366434
-349,jakarta,GPE,0.98478115
-349,purba,PER,0.9444492
-350,bank jakarta,ORG,0.97993684
-350,rp 20 triliun,MON,0.9955945
-350,menkeu,NOR,0.5821485
-350,purbaya,PER,0.7337934
-350,purbaya,PER,0.7575159
-350,bank jakarta,ORG,0.9823251
-350,bank jakarta,ORG,0.98755145
-351,menkeu purba,NOR,0.7023573
-351,##ya,ORG,0.5873633
-351,ayam penyet,PRD,0.72458243
-351,warung kaki lima,LOC,0.7655396
-351,menteri keuangan,NOR,0.95893204
-351,purbaya yudhi sadewa,PER,0.9606061
-351,warung kaki lima,LOC,0.75643826
-351,kantor pusat direktorat jenderal pajak,LOC,0.6957966
-351,djp,ORG,0.5628139
-351,rapat koordinasi terbatas ( rakortas ) stimulus ekonomi,EVT,0.8787959
-351,wisma danantara,LOC,0.75254077
-352,200,CRD,0.9065561
-352,rp 60 triliun,MON,0.9971871
-352,kemenkeu,NOR,0.9137719
-352,200,CRD,0.8835907
-352,rp 60 triliun,MON,0.99632686
-352,"5, 1 persen",PRC,0.99296504
-352,agustus 2025,DAT,0.98623836
-352,kemenkeu,NOR,0.8795817
-353,rupiah,MON,0.88336134
-353,menkeu purba,NOR,0.6251472
-353,##ya,ORG,0.59494805
-353,agustus,DAT,0.9953629
-353,menkeu purba,NOR,0.73987
-353,##ya,ORG,0.39036524
-353,yudhi sadewa,PER,0.97740954
-353,indonesia,GPE,0.97224784
-354,rap,NOR,0.43535417
-354,##bn,ORG,0.3271892
-354,2026,LAW,0.36251563
-354,menkeu purba,NOR,0.7704041
-354,##ya,PER,0.44638497
-354,dpr,NOR,0.94958615
-354,rp 3. 842 triliun,MON,0.99668956
-354,menkeu purba,NOR,0.7914748
-354,##ya,PER,0.3263006
-354,bangga,NOR,0.62381214
-354,dpr,NOR,0.7663377
-354,rap,LAW,0.70833176
-354,##bn 202,ORG,0.26293933
-354,##6,LAW,0.32600263
-355,menkeu,NOR,0.8656168
-355,purbaya,PER,0.7549083
-355,dirut bank,ORG,0.9563384
-355,rp 200 triliun,MON,0.99729276
-355,menteri keuangan ( menkeu,NOR,0.8515761
-355,purbaya yudhi sadewa,PER,0.96896476
-355,direktur utama,ORG,0.7668665
-355,dirut,ORG,0.6892228
-355,perbankan,ORG,0.59500855
-355,pemerintah,NOR,0.745895
-355,rp 200 triliun,MON,0.9971847
-356,setop,PER,0.7098043
-356,lalu bergumam,PER,0.8202115
-356,men,NOR,0.42434546
-356,##keu purba,ORG,0.7669441
-356,"5, 2 persen",PRC,0.995302
-356,2025,DAT,0.98182654
-356,setop,PER,0.7184938
-356,lalu bergumam,PER,0.78469276
-356,##keu,ORG,0.56669295
-356,purba,PER,0.28358364
-356,"5, 2 persen",PRC,0.9949745
-356,2025,DAT,0.96421057
-357,men,NOR,0.65596116
-357,##keu purbaya,ORG,0.6559824
-357,rp 200 t,MON,0.99320835
-357,6,CRD,0.9372544
-357,celios,PER,0.9562949
-357,direktur ekonomi digital cel,ORG,0.9082819
-357,##ios,PER,0.627225
-357,nailul huda,PER,0.9881224
-357,menteri keuangan,NOR,0.80967116
-357,purbaya yudhi sadewa,PER,0.9169851
-357,200 triliun,MON,0.9888599
-357,enam,CRD,0.9546346
-357,himpunan bank milik negara,ORG,0.98798007
-357,himbara,ORG,0.89713705
-358,men,NOR,0.7178234
-358,##keu purbaya,ORG,0.6587615
-358,rp 200 triliun,MON,0.99622345
-358,enam,CRD,0.9595311
-358,pemerintah,NOR,0.4644621
-358,menke,NOR,0.66682196
-358,##u purbaya,ORG,0.7019939
-358,rp 200 triliun,MON,0.99700457
-358,enam,CRD,0.9649376
-358,pemerintah,NOR,0.6066492
-359,purbaya,PER,0.8677476
-359,kereta cepat,PRD,0.888322
-359,rp 116 t,MON,0.97069615
-359,apbn,LAW,0.9261694
-359,menkeu,NOR,0.767632
-359,purba,PER,0.6070709
-359,apbn,LAW,0.9447685
-359,kereta cepat indonesia,PRD,0.44263873
-359,china,GPE,0.35715166
-359,rp 116 triliun,MON,0.99627954
-360,menkeu,NOR,0.8347189
-360,purbaya,PER,0.70863783
-360,kemenkes,NOR,0.85797846
-360,menteri keuangan,NOR,0.9786239
-360,purbaya yudhi sadewa,PER,0.91012424
-360,kementerian kesehatan,NOR,0.97772753
-361,men,NOR,0.6807001
-361,##keu,ORG,0.60175717
-361,purbaya,PER,0.5372144
-361,anggito,PER,0.7985927
-361,cs,ORG,0.5580369
-361,aw,PER,0.8729224
-361,menke,NOR,0.681766
-361,##u,ORG,0.53386074
-361,purbaya,PER,0.5509174
-361,anggito cs,PER,0.7171015
-361,aw,PER,0.74776375
-362,purbaya,PER,0.87578195
-362,rp 7 triliun,MON,0.99746466
-362,rp 60 t,MON,0.9971207
-362,menteri keuangan,NOR,0.9252104
-362,purbaya,PER,0.9762284
-362,yudhi sadewa,PER,0.9342907
-362,rp 7 triliun,MON,0.99747914
-362,indonesia,GPE,0.9338508
-363,luhut,PER,0.86206526
-363,mbg,PRD,0.43902332
-363,menkeu,NOR,0.6601127
-363,purba,PER,0.50825477
-363,purba,PER,0.92556435
-363,luhut,PER,0.81092465
-363,mb,PRD,0.40723327
-363,##g,ORG,0.42543745
-364,basuki,PER,0.99702245
-364,menkeu purba,NOR,0.71713614
-364,##ya,ORG,0.6614219
-364,3,CRD,0.9105957
-364,##n,ORG,0.41867608
-364,menkeu purba,NOR,0.79039466
-364,##ya,ORG,0.49429923
-364,yudhi sadewa,PER,0.9831603
-364,tiga,CRD,0.9527467
-364,##n,ORG,0.54605263
-365,rocky gerung,PER,0.917315
-365,men,NOR,0.48523188
-365,##keu,ORG,0.46196812
-365,kasi,PER,0.7178557
-365,purbaya,PER,0.9305955
-365,purbaya,PER,0.91475487
-365,rocky gerung,PER,0.937408
-365,men,NOR,0.4225859
-365,##keu,ORG,0.42240667
-366,purbaya,PER,0.8696058
-366,rp 200t,MON,0.99146605
-366,6,CRD,0.9298295
-366,rp 200t,MON,0.98891854
-366,menkeu,NOR,0.8539247
-366,purbaya yudhi sadewa,PER,0.8605041
-367,full,PER,0.92577976
-367,] qodari,PER,0.72376645
-367,men,NOR,0.6830102
-367,##keu,ORG,0.66017663
-367,purba,PER,0.4440114
-367,##ya,ORG,0.4597091
-367,sri mulyani,PER,0.98468834
-367,rem,PER,0.74445224
-367,ks,PER,0.8688852
-367,##p,ORG,0.43767542
-367,m qodari,PER,0.8445295
-367,men,NOR,0.36880133
-367,##keu,ORG,0.57412827
-367,purba,PER,0.5210903
-368,menkeu purba,NOR,0.6758628
-368,##ya,PER,0.46760055
-368,direksi,NOR,0.39308435
-368,bank bumn,ORG,0.8025221
-368,sabtu - minggu,DAT,0.77520293
-368,rp 200 triliun,MON,0.9977712
-368,menkeu,NOR,0.8175163
-368,purbaya yudhi sadewa,PER,0.83420354
-369,prabowo,PER,0.9974922
-369,menkeu,NOR,0.8502334
-369,purba,PER,0.52108884
-369,##ya,ORG,0.34186012
-369,kementerian,NOR,0.6208875
-369,purba,PER,0.9621656
-369,kementerian,NOR,0.6119794
-370,menke,NOR,0.67554736
-370,##u purbaya,ORG,0.60907596
-370,6 persen,PRC,0.9937639
-370,menkeu,NOR,0.82096356
-370,purbaya,PER,0.67038465
-370,yudhi sadewa,PER,0.9345447
-370,6 persen,PRC,0.9934447
-371,bank jakarta - jatim,ORG,0.907184
-371,purbaya,PER,0.9124224
-371,rp 275 triliun,MON,0.99820584
-371,menteri keuangan,NOR,0.92711836
-371,purbaya,PER,0.9648465
-371,yudhi sadewa,PER,0.88885283
-371,kemenkeu,NOR,0.6743989
-371,rp 275 triliun,MON,0.99827266
-371,bank jawa timur,ORG,0.9693931
-371,bank jakarta,ORG,0.97202647
-372,menkeu,NOR,0.7167422
-372,purbaya,PER,0.40326545
-372,pramono,PER,0.95637083
-372,bank himbara,ORG,0.92953396
-372,bum,NOR,0.45650852
-372,##d jakarta,ORG,0.5632498
-372,menkeu,NOR,0.83100337
-372,purbaya,PER,0.77055335
-372,pramono,PER,0.9427681
-372,bank himbara,ORG,0.92333275
-372,bum,NOR,0.5393309
-372,##d jakarta,ORG,0.6166909
-372,selasa ( 7 / 10 / 2025 ),DAT,0.9922982
-373,purbaya sidak,PER,0.6753255
-373,bank mandiri,ORG,0.9918454
-373,rp 200 triliun,MON,0.99796635
-373,purba,PER,0.9629185
-373,##ya,ORG,0.46490523
-373,sidak,PER,0.5142731
-373,bank mandiri,ORG,0.9895747
-373,rp 200 triliun,MON,0.9980692
-374,##u,ORG,0.34572086
-374,purba,PER,0.37316674
-374,warung kaki lima,LOC,0.85189724
-374,purba,PER,0.584295
-374,warung kaki lima,LOC,0.8869336
-374,dana,EVT,0.64275
-375,purba,PER,0.96182704
-375,rokok,PRD,0.45555857
-375,menteri keuangan,NOR,0.94526434
-375,purbaya yudhi sadewa,PER,0.96165746
-376,purba,PER,0.8575265
-376,sidak bank,ORG,0.8514158
-376,rp 200 t,MON,0.99671096
-376,dollar,MON,0.95422757
-376,menke,NOR,0.585014
-376,purba,PER,0.8759309
-376,rp 200 t,MON,0.9958779
-376,dollar,MON,0.9517804
-377,purba,PER,0.9661598
-377,rokok,PRD,0.56229275
-377,menkeu,NOR,0.7737296
-377,purbaya,PER,0.52109176
-377,rokok,PRD,0.5506895
-377,2026,DAT,0.8378572
-378,menkeu,NOR,0.77415246
-378,dollar,MON,0.9139711
-378,pemerintah,NOR,0.97106385
-378,dolar,MON,0.89949465
-378,dolar,MON,0.8844311
-378,dolar wni,MON,0.8102929
-379,purbaya,PER,0.9353186
-379,telepon kring pajak,PRD,0.8780662
-379,core,PRD,0.8608122
-379,##x,PRD,0.6053476
-379,menkeu,NOR,0.6808109
-379,purbaya,PER,0.8992739
-379,yudhi sadewa,PER,0.9808309
-379,kring pajak,PRD,0.79609996
-379,core,PRD,0.7410072
-379,purbaya,PER,0.913926
-380,rocky gerung,PER,0.8990399
-380,purbaya,PER,0.9123491
-380,jokowi,PER,0.98480487
-380,menteri keuangan ri,NOR,0.9902997
-380,yudhi purbaya sadewa,PER,0.91078115
-380,rocky gerung,PER,0.73838323
-380,joko widodo,PER,0.9900421
-381,purba,PER,0.8977038
-381,sby,PER,0.9918515
-381,jokowi,PER,0.9935455
-381,20 tahun,QTY,0.9767092
-381,menteri keuangan,NOR,0.92198396
-381,indonesia,GPE,0.9226448
-381,20 tahun,QTY,0.9860487
-381,sby,PER,0.9896561
-381,pemerintah,NOR,0.9555304
-381,jokowi,PER,0.993644
-381,pemerintah,NOR,0.72666603
-381,bi,ORG,0.93933964
-381,purba,PER,0.9926071
-381,pemerintah,NOR,0.52018905
-381,bi,ORG,0.9423453
-382,purba,PER,0.8458743
-382,komisi xi dpr,NOR,0.9804428
-382,kepala daerah,NOR,0.8700839
-382,wakil ketua komisi xi dpr ri,NOR,0.98443335
-382,fauzi amro,PER,0.99086165
-382,kepala,NOR,0.6739236
-382,pemerintah,NOR,0.9382984
-383,purba,PER,0.6816581
-383,##ya,ORG,0.48945177
-383,bank himbara,ORG,0.97916317
-383,rp 200 t,MON,0.9973318
-383,dollar as,MON,0.9642017
-383,purba,PER,0.9617461
-383,bank himbara,ORG,0.9722552
-383,rp 200 t,MON,0.9968529
-384,purbaya,PER,0.93985295
-384,lo,PER,0.69827765
-384,menteri keuangan,NOR,0.96334344
-384,purbaya,PER,0.95159733
-384,yudhi sadewa,PER,0.8878999
-384,purbaya,PER,0.97815895
-384,kontestasi,EVT,0.62446284
-384,pilpres,EVT,0.7676536
-385,ahok,PER,0.89513755
-385,ahok,PER,0.9513408
-386,dirjen,NOR,0.4879709
-386,pajak,ORG,0.55000174
-386,purbaya,PER,0.8798841
-386,menteri keuangan,NOR,0.9338914
-386,purbaya yudhi sadewa,PER,0.9111826
-386,direktur jenderal pajak,ORG,0.72955275
-386,bimo wijayanto,PER,0.99262494
-386,26,CRD,0.9491274
-387,jakarta,GPE,0.9985524
-387,purba,PER,0.20615588
-387,##bara,MON,0.49984193
-387,rp 200 t,MON,0.9568878
-387,jakarta,GPE,0.99275064
-387,purba,PER,0.4078302
-387,rp 200 t,MON,0.982197
-388,gubernur,NOR,0.52718693
-388,kantor purbaya,LOC,0.6315332
-388,delapan belas,CRD,0.8228935
-388,asosiasi pemerintah provinsi seluruh indonesia,ORG,0.86191434
-388,appsi,ORG,0.9001261
-388,kementerian keuangan,NOR,0.8761262
-388,jakarta,GPE,0.9954372
-388,selasa ( 7 / 10 / 2025 ),DAT,0.9955615
-388,2026,DAT,0.7909211
-389,bangun bank jakarta,ORG,0.9817881
-389,scbd,ORG,0.83687294
-389,purbaya,PER,0.85894644
-389,kemenkeu,NOR,0.78412795
-389,menkeu,NOR,0.8477971
-389,purbaya,PER,0.8589411
-389,gedung,FAC,0.49718314
-389,bank jakarta,ORG,0.67562795
-389,scbd,ORG,0.5507176
-389,kemenkeu,NOR,0.87745005
-390,bahlil,PER,0.83696824
-390,##g 3 kg,PRD,0.6345968
-390,purbaya,PER,0.76384586
-390,menteri keuangan,NOR,0.9201814
-390,purbaya,PER,0.9642991
-390,yudhi sadewa,PER,0.9407793
-390,menteri es,NOR,0.68835646
-390,##dm,ORG,0.5314726
-390,bahlil lahadalia,PER,0.9785453
-390,lpg,PRD,0.8043765
-390,3 kilogram,QTY,0.58794373
-390,purbaya,PER,0.9478508
-390,lpg 3,PRD,0.7139453
-390,kg,QTY,0.4799831
-391,900,CRD,0.6058056
-391,sea games,EVT,0.9824985
-391,erick thohir,PER,0.99419355
-391,menke,NOR,0.65142536
-391,##u purba,ORG,0.65063
-391,menpora,NOR,0.9209943
-391,erick thohir,PER,0.992348
-391,men,NOR,0.7494758
-391,##keu purba,ORG,0.56536835
-391,sea games 2025,EVT,0.96787506
-392,men,NOR,0.77629983
-392,##keu purba,ORG,0.619189
-392,sum,PRD,0.49494633
-392,##itronomics,ORG,0.8249453
-392,prabowo,PER,0.92068815
-392,8 persen,PRC,0.9923775
-392,menke,NOR,0.6801212
-392,##u purba,ORG,0.5016684
-392,sum,PRD,0.62231994
-392,##itronomics,ORG,0.58489776
-392,prabowo,PER,0.92478323
-392,indonesia,GPE,0.88371706
-392,8 persen,PRC,0.99241936
-393,rp 200 t,MON,0.99377114
-393,menkeu purba,NOR,0.6470659
-393,##ya,PER,0.45610845
-393,himbara,PER,0.81823874
-393,menkeu,NOR,0.86523753
-393,purbaya yudhi sad,PER,0.73457485
-394,prabowo,PER,0.99659204
-394,menkeu purba,NOR,0.74691415
-394,##ya,PER,0.2605617
-394,kementerian,NOR,0.60348576
-394,prabowo subianto,PER,0.980459
-394,menkeu,NOR,0.8683092
-394,purbaya,PER,0.6758341
-394,yudhi sadewa,PER,0.9506695
-395,purbaya,PER,0.8869206
-395,rp 200 t,MON,0.9955582
-395,enam,CRD,0.8034114
-395,bank himbara,ORG,0.8918355
-395,menkeu,NOR,0.7971578
-395,purbaya,PER,0.7808352
-395,singg,PER,0.77473426
-395,menkeu,NOR,0.76586026
-395,sri mulyani,PER,0.98712796
-396,menkeu,NOR,0.8032573
-396,purbaya,PER,0.3212214
-396,prabowo,PER,0.99531734
-396,apbn,LAW,0.8405368
-396,dpr,NOR,0.96666056
-396,menkeu,NOR,0.8576212
-396,purbaya,PER,0.3950653
-396,prabowo,PER,0.99615544
-396,istana merdeka,LOC,0.9048654
-396,rabu ( 10 / 9 / 2025 ),DAT,0.9944738
-397,menkeu purba,NOR,0.6554676
-397,cia,ORG,0.39393142
-397,menkeu,NOR,0.8354082
-397,purba,PER,0.4595805
-397,cia,ORG,0.2660452
-398,purbaya,PER,0.9141055
-398,februari 2026,DAT,0.9778566
-398,menteri keuangan,NOR,0.8603809
-398,purbaya yudhi sadewa,PER,0.95532006
-398,februari 2026,DAT,0.9822307
-399,dedi mulyadi,PER,0.987688
-399,rp 1. 000,MON,0.99734664
-399,purba,PER,0.95039004
-399,menkeu purba,NOR,0.7583676
-399,gubernur jawa barat,NOR,0.953412
-399,dedi mulyadi,PER,0.9806567
-400,purbaya,PER,0.8171215
-400,apbd jakarta,LAW,0.7137387
-400,rp 20 triliun,MON,0.9726167
-400,pramono,PER,0.8927581
-400,kemenkeu,NOR,0.9284957
-400,db,LAW,0.1837489
-400,##h,PRD,0.25835347
-400,jakarta,GPE,0.74794596
-400,rp 20 triliun,MON,0.99244887
-400,menkeu,NOR,0.76261955
-400,purbaya,PER,0.5402564
-400,pramono,PER,0.81901884
-401,bah,PER,0.6702728
-401,##g 3 kg,PRD,0.5023072
-401,purba,PER,0.59713197
-401,bah,PER,0.77598476
-401,lpg 3,PRD,0.53636205
-401,kg,QTY,0.44209638
-401,purba,PER,0.5496276
-402,ray dalio,PER,0.96313804
-402,purbaya,PER,0.8760122
-402,menkeu,NOR,0.78071135
-402,purbaya,PER,0.61205333
-402,ray dalio,PER,0.955837
-403,dpr,NOR,0.9873176
-403,menkeu purba,NOR,0.82332027
-403,pertamina,ORG,0.82985103
-403,minyak,PRD,0.6344588
-403,dpr,NOR,0.9865089
-403,menkeu purba,NOR,0.7689525
-403,pertamina,ORG,0.82115716
-403,minyak,PRD,0.7369869
-404,menkeu purba,NOR,0.78351855
-404,papan bunga,PRD,0.85693634
-404,indonesian youth council for tactical changes,ORG,0.8301103
-404,iyctc,ORG,0.86216617
-404,indonesia,GPE,0.71799964
-404,papan bunga,PRD,0.8504113
-404,kementerian keuangan,NOR,0.96677476
-405,menkeu,NOR,0.8255879
-405,purba,PER,0.40975866
-405,ketua banggar dpr,NOR,0.9098815
-405,said abdullah,PER,0.93805313
-405,apbn 2026,LAW,0.61079484
-405,menkeu purba,NOR,0.823331
-405,ketua bangagr dpr,NOR,0.944279
-405,said abdullah,PER,0.9154003
-406,purbaya,PER,0.81845856
-406,tax,LAW,0.75451374
-406,amnesty,PRD,0.3986839
-406,menkeu,NOR,0.9172208
-406,purbaya,PER,0.8574831
-406,yudhi sadewa,PER,0.9690384
-406,tax amnes,LAW,0.47708723
-407,purbaya,PER,0.8805193
-407,dirut bank,ORG,0.82071567
-407,rp 200 triliun,MON,0.9976346
-407,menkeu,NOR,0.7123897
-407,purbaya,PER,0.62512696
-407,dir,NOR,0.36989176
-407,##ut bank,ORG,0.74238837
-407,pemerintah,NOR,0.961205
-407,rp 200 triliun,MON,0.99747616
-407,pemerintah,NOR,0.9693803
-408,menkeu,NOR,0.822021
-408,purbaya,PER,0.7813221
-408,sri mulyani,PER,0.99439436
-408,ri,NOR,0.57244265
-408,menteri keuangan,NOR,0.97688603
-408,purbaya yudhi sadewa,PER,0.9059701
-408,komisi xi,NOR,0.73376054
-408,dpr ri,NOR,0.7480964
-408,kementerian keuangan,NOR,0.94799757
-408,kemenkeu,NOR,0.9352226
+0,menteri keuangan,NOR,0.9488228
+0,purbaya yudhi sadewa,PER,0.9624123
+1,menteri keuangan,NOR,0.95213556
+1,purbaya yudhi sadewa,PER,0.96617365
+1,3,CRD,0.98605806
+2,sri mulyani,PER,0.99401075
+2,purbaya yudhi sadewa,PER,0.9795649
+3,purbaya yudhi sad,PER,0.93368846
+3,sri mulyani,PER,0.9924946
+3,menteri keuangan,NOR,0.934439
+4,menteri keuangan,NOR,0.9632086
+4,baru,PER,0.9349586
+4,purbaya yudhi sadewa,PER,0.9390831
+4,mobil,PRD,0.9775823
+4,motor,PRD,0.47158825
+5,purbaya yudhi sadewa,PER,0.95297956
+5,sri mulyani,PER,0.98858047
+5,jokowi,PER,0.9940103
+6,pendidikan,ORG,0.63653207
+6,purba,PER,0.783358
+6,##ya,ORG,0.46891123
+6,yudhi sadewa,PER,0.8645823
+6,menkeu,NOR,0.63195944
+6,sri mulyani,PER,0.99447364
+7,purbaya yudhi sadewa,PER,0.9596932
+7,menteri keuangan,NOR,0.959736
+8,purbaya yudhi sadewa,PER,0.95298594
+8,sri mulyani,PER,0.9946761
+9,purbaya yudhi sadewa,PER,0.95311975
+9,menteri keuangan,NOR,0.94915116
+9,sri mulyani,PER,0.9956092
+10,purbaya yudhi sadewa,PER,0.8919656
+10,menteri keuangan,NOR,0.7713934
+10,prabowo,PER,0.99723405
+11,purbaya yudhi sadewa,PER,0.95311975
+11,menteri keuangan,NOR,0.94915116
+11,sri mulyani,PER,0.9956092
+12,prabowo,PER,0.9910052
+12,sri mulyani,PER,0.9913567
+12,purbaya yudhi sadewa,PER,0.9770684
+13,yudhi sadewa,PER,0.9554976
+13,sri mulyani,PER,0.9954214
+14,3 hari,QTY,0.9199661
+14,menteri keuangan,NOR,0.9407836
+14,purbaya yudhi sadewa,PER,0.9796582
+14,3,CRD,0.8681243
+15,men,NOR,0.42371765
+15,##keu,ORG,0.53075397
+15,purbaya yudhi sadewa,PER,0.86329824
+15,lps,ORG,0.9116049
+15,sri mulyani,PER,0.9947724
+16,purbaya yudhi sadewa,PER,0.9793188
+16,menteri keuangan,NOR,0.87540406
+16,sri mulyani,PER,0.9956315
+17,purbaya yudhi sadewa,PER,0.98399
+17,soeharto,PER,0.68237823
+17,kedua,CRD,0.76748854
+18,sri mulyani,PER,0.9885092
+18,purbaya yudhi sadewa,PER,0.9703376
+18,menteri keuangan,NOR,0.8540535
+19,sri mulyani,PER,0.99092525
+19,purbaya yudhi sadewa,PER,0.96391225
+19,17,CRD,0.9549211
+19,8,CRD,0.63661224
+20,purbaya yudhi sadewa,PER,0.97665054
+21,menkeu,NOR,0.8334313
+21,purbaya yudhi sadewa,PER,0.91075945
+21,17,CRD,0.9645759
+21,8,CRD,0.95951843
+22,jum,PER,0.6770659
+22,menteri keuangan,NOR,0.9477768
+22,purba,PER,0.9928115
+22,##ya yudhi sadewa,PER,0.8588206
+23,dua hari,QTY,0.87975657
+23,purba,PER,0.7614026
+23,yudhi sadewa,PER,0.94111335
+24,purbaya yudhi sadewa,PER,0.9028315
+24,sby,PER,0.96707225
+24,menke,NOR,0.64755
+25,purba,PER,0.9519471
+25,yudhi sadewa,PER,0.9252266
+26,yudhi sadewa,PER,0.96321696
+26,sri mulyani,PER,0.9944978
+27,purbaya yudhi sadewa,PER,0.9728331
+27,sri mulyani,PER,0.9886084
+27,##keu,NOR,0.5179421
+28,purbaya,PER,0.877126
+28,yudhi sadewa,PER,0.9051913
+28,menteri keuangan,NOR,0.9529401
+28,sri mulyani,PER,0.9933799
+28,"rp 39, 21 miliar",MON,0.998092
+29,menteri keuangan,NOR,0.8627982
+29,purbaya yudhi sadewa,PER,0.97656584
+29,"rp 39, 2 miliar",MON,0.9980566
+30,purbaya yudhi sadewa,PER,0.94755316
+30,menteri keuangan,NOR,0.95803905
+30,prabowo,PER,0.9967354
+31,rp 200 triliun,MON,0.99581045
+31,menkeu,NOR,0.8683379
+31,purbaya,PER,0.63914764
+31,yudhi sadewa,PER,0.90421367
+32,menteri keuangan,NOR,0.9632086
+32,baru,PER,0.9349586
+32,purbaya yudhi sadewa,PER,0.9390831
+32,mobil,PRD,0.9775823
+32,motor,PRD,0.47158825
+33,purba,PER,0.71781385
+33,yudhi sadewa,PER,0.8509817
+33,singg,PER,0.5145518
+33,mb,PER,0.3374719
+34,indonesia,GPE,0.9830976
+34,purbaya yudhi,PER,0.9805645
+35,purbaya sadewa,PER,0.9581574
+35,sri mulyani,PER,0.992532
+36,purbaya yudhi sadewo,PER,0.9881303
+37,purbaya sadewa men,PER,0.8546465
+37,##ke,NOR,0.44888285
+37,##u baru,PER,0.41409117
+37,menteri pkp,NOR,0.89702743
+38,menkeu,NOR,0.63974917
+38,purba,PER,0.7609181
+38,sadewa,PER,0.9032474
+38,kadin,ORG,0.6517917
+39,purbaya yudhi,PER,0.9743567
+39,sri mulyani,PER,0.9814859
+40,menkeu,NOR,0.8189799
+40,purbaya yudhi,PER,0.9321519
+40,sri mulyani,PER,0.98001647
+40,cia,NOR,0.33263516
+41,prabowo,PER,0.9895997
+41,menkeu,NOR,0.76360434
+41,purba,PER,0.7661254
+41,##ya sadewa,PER,0.74399304
+41,sri mulyani,PER,0.9915685
+41,13 tahun,QTY,0.91598576
+41,ali wardhana,PER,0.98855907
+42,menteri keuangan,NOR,0.80381185
+42,purbaya sadewa,PER,0.98792315
+42,lps,ORG,0.817646
+43,sri mulyani,PER,0.980906
+43,cia,NOR,0.48142356
+43,menkeu,NOR,0.8937004
+43,purbaya,PER,0.819342
+43,yudhi larang,PER,0.7059226
+43,instagram,PRD,0.69117266
+44,purba,PER,0.9774046
+44,yudhi,PER,0.9050796
+44,##ke,NOR,0.54801095
+44,baru,NOR,0.43505785
+44,ri,NOR,0.44146803
+45,menkeu,NOR,0.79866576
+45,purbaya yudhi,PER,0.9690393
+46,purbaya yudhi,PER,0.8961413
+46,ri,NOR,0.49349165
+47,pertamina malas,ORG,0.5559979
+47,bangun,PRD,0.21481276
+48,purba,PER,0.58583874
+51,j. b sumarlin,PER,0.9759245
+51,menteri,NOR,0.58672875
+51,purbaya,PER,0.8588458
+52,narasi,PRD,0.5579266
+53,friedman,PER,0.9563562
+54,menkeu,NOR,0.5690951
+54,purba,PER,0.30358362
+55,18,CRD,0.84599364
+55,menkeu purba,NOR,0.8553382
+55,##ya,ORG,0.39457387
+56,purbaya,PER,0.7682917
+56,18,CRD,0.9333265
+57,satu jam,QTY,0.81375635
+57,pramono,PER,0.9710903
+57,menkeu,NOR,0.74169683
+57,purbaya,PER,0.79860103
+58,menke,NOR,0.5236825
+59,menkeu,NOR,0.60648054
+59,purba,PER,0.5082493
+59,kepala bgn,ORG,0.8804948
+59,mb,LAW,0.21119328
+59,##g,PRD,0.42514667
+60,menkeu,NOR,0.63137555
+60,purba,PER,0.6225429
+60,2026,CRD,0.4197113
+61,anggito abimanyu,PER,0.94657844
+61,ketua lps,ORG,0.80105954
+61,purbaya,PER,0.94409394
+62,menkeu,NOR,0.8060257
+62,purbaya,PER,0.61330277
+62,tutut,PER,0.56275386
+62,soeharto,PER,0.5168722
+62,ptun,ORG,0.9031625
+63,menkeu,NOR,0.6645108
+63,purba,PER,0.6120227
+64,5,CRD,0.6215361
+64,dpr,NOR,0.7263728
+64,menkeu,NOR,0.7960084
+64,purba,PER,0.45881644
+64,##ya,ORG,0.27979368
+65,sri mulyani,PER,0.9919162
+65,menkeu purba,NOR,0.7352983
+66,prabowo,PER,0.9924563
+66,purbaya,PER,0.74934113
+67,pimpinan dpr,NOR,0.76605785
+67,menkeu,NOR,0.8212212
+67,purba,PER,0.57032055
+68,menke,NOR,0.6285625
+68,##u,ORG,0.4370412
+68,purba,PER,0.45861346
+68,17,CRD,0.95176214
+68,8,CRD,0.97011113
+68,empat,CRD,0.9714372
+70,"rp 30, 5 miliar",MON,0.9983274
+70,purbaya,PER,0.938375
+70,menteri keuangan,NOR,0.9649147
+71,17,CRD,0.96409845
+71,8,CRD,0.8321323
+71,menkeu,NOR,0.5986238
+71,purba,PER,0.4708789
+72,menke,NOR,0.71105754
+72,##u,ORG,0.49255577
+72,purba,PER,0.6110908
+73,men,NOR,0.6060156
+73,##u,ORG,0.466767
+74,18,CRD,0.86450595
+74,purbaya,PER,0.74998367
+75,menkeu,NOR,0.6243287
+75,purba,PER,0.52692866
+75,202,CRD,0.32035336
+75,##6,CRD,0.3978466
+76,purbaya restu,PER,0.8083398
+76,gedung,FAC,0.31285903
+76,bank jakarta,ORG,0.60035056
+76,apbn,LAW,0.8859133
+77,menke,NOR,0.6357807
+77,##u,ORG,0.39051294
+77,purba,PER,0.71782506
+77,triliun,MON,0.4342757
+77,bank jakarta,ORG,0.9812602
+78,menke,NOR,0.5234624
+78,##u purbaya samba,ORG,0.44144195
+78,balai kota,ORG,0.5310569
+78,pramono,PER,0.90764844
+79,kemenperin,NOR,0.91678077
+79,menkeu purba,NOR,0.8497317
+79,2026,CRD,0.40493113
+80,menkeu purba,NOR,0.554599
+80,##ya,ORG,0.5984281
+81,purba,PER,0.85305107
+84,anggito abimanyu,PER,0.92442185
+84,wamenkeu,ORG,0.9241312
+84,lps,ORG,0.95607495
+84,ganti,PER,0.6310721
+84,##kan,ORG,0.47035235
+84,purba,PER,0.54638356
+85,purbaya,PER,0.7451669
+85,badan penerimaan negara,ORG,0.6087454
+86,tax amnesty,EVT,0.6082991
+86,menkeu purba,NOR,0.7439288
+87,menkeu,NOR,0.66261786
+87,rapbn 2026,LAW,0.891262
+88,menkeu,NOR,0.66165
+88,purbaya,PER,0.67921275
+89,dpr,NOR,0.99239653
+89,menkeu,NOR,0.6822074
+89,purba,PER,0.5724585
+90,purbaya,PER,0.9109307
+90,##keu,NOR,0.54467726
+90,luhut,PER,0.9249083
+92,menkeu,NOR,0.7199888
+92,purba,PER,0.4933738
+92,3 bulan,QTY,0.96403706
+93,menkeu purba,NOR,0.68374157
+94,ri,GPE,0.7980416
+95,5,CRD,0.5609733
+95,men,NOR,0.45966372
+95,##u,ORG,0.30899686
+95,purba,PER,0.38691846
+95,satu bulan,QTY,0.74619734
+95,pertama,ORD,0.8906424
+96,18,CRD,0.815043
+96,menkeu,NOR,0.7267087
+96,purba,PER,0.41784722
+97,purbaya,PER,0.8433679
+97,jakarta collaboration fund,ORG,0.53320664
+98,luhut,PER,0.96273255
+98,menkeu,NOR,0.6766289
+98,purba,PER,0.34502125
+98,bg,ORG,0.29434058
+98,##n,PRD,0.62013406
+99,purba,PER,0.55397904
+99,pemerintah,NOR,0.94467765
+99,bunga deposito valas,PRD,0.8780648
+100,wamenkeu,ORG,0.68703294
+100,anggito,PER,0.771531
+100,lps,ORG,0.86298347
+102,menkeu,NOR,0.6891139
+102,purba,PER,0.6668354
+103,menkeu,NOR,0.7315733
+103,purba,PER,0.44714537
+103,rokok,PRD,0.36141592
+103,57 persen,PRC,0.9894432
+104,tut,PER,0.6671368
+104,soeharto,PER,0.7312947
+104,menkeu,NOR,0.871927
+104,purbaya,PER,0.6045024
+105,menke,NOR,0.49739504
+105,##u purba,ORG,0.5199424
+105,tiga,CRD,0.9153626
+106,mbg,PRD,0.6662185
+106,menke,NOR,0.647115
+106,##u,ORG,0.5043277
+106,purba,PER,0.6974921
+107,prabowo,PER,0.99585706
+107,purba,PER,0.6795941
+107,sri mulyani,PER,0.99084145
+108,purbaya,PER,0.90674454
+108,lps,ORG,0.7096064
+109,men,NOR,0.70868117
+109,##keu purba,ORG,0.59452915
+110,menkeu purba,NOR,0.7993201
+111,menkeu,NOR,0.60008836
+111,purba,PER,0.69688284
+112,##keu,NOR,0.49327993
+113,badan penerimaan negara,ORG,0.65140796
+113,menkeu,NOR,0.78599674
+113,purba,PER,0.25842053
+114,menkeu,NOR,0.64467263
+114,purbaya,PER,0.4682783
+114,saham gorengan,PRD,0.9034648
+114,bei,ORG,0.6594058
+115,prasasti luncheon talk,PRD,0.5432957
+116,purba,PER,0.8792602
+116,prabowo,PER,0.98773605
+117,misbakhun,PER,0.920644
+117,apbn 2026,LAW,0.7954266
+118,menkeu,NOR,0.73086387
+118,purbaya,PER,0.44871575
+118,bei,PER,0.50573415
+118,saham,PRD,0.69701415
+119,menkeu,NOR,0.7009792
+119,purba,PER,0.42275104
+119,dollar,MON,0.8650196
+121,purba,PER,0.9523587
+121,ray,PER,0.73930794
+121,prabowo,PER,0.9335139
+122,202,LAW,0.29158437
+122,##6,MON,0.35082343
+122,purba,PER,0.50390387
+123,menkeu,NOR,0.78980017
+123,purba,PER,0.48781368
+123,3,CRD,0.815829
+124,kiai jatim,PER,0.7329637
+124,menkeu purba,NOR,0.7380967
+126,purbaya,PER,0.71508074
+126,hotman paris,ORG,0.5135111
+127,menkeu purba,NOR,0.53982043
+127,bi,ORG,0.9032093
+128,rp 60 triliun,MON,0.9966356
+129,men,NOR,0.5198342
+129,##u,ORG,0.5182905
+129,purba,PER,0.634247
+130,menkeu,NOR,0.8253667
+130,purba,PER,0.6655039
+131,menke,NOR,0.64575064
+131,##u,ORG,0.48959276
+131,tax amnesty jilid iii,LAW,0.5472046
+133,purba,PER,0.7645524
+133,amnesty,LAW,0.3973804
+134,purba,PER,0.6062483
+134,##g,PRD,0.55369484
+135,tutut,PER,0.6463823
+135,soeharto,PER,0.6878992
+135,menkeu,NOR,0.70917755
+135,purbaya,PER,0.52672404
+136,rp 71 triliun,MON,0.99782175
+136,mb,PER,0.64496756
+137,prabowo,PER,0.99051696
+137,zulhas,PER,0.977705
+137,purbaya,PER,0.61781526
+138,menkeu,NOR,0.38703296
+138,purbaya,PER,0.50556874
+139,menkeu purba,NOR,0.6989257
+139,10 bulan,QTY,0.8086173
+139,pemerintahan,NOR,0.7090636
+139,prabowo,PER,0.98781
+140,menkeu,NOR,0.615823
+140,purbaya,PER,0.7175389
+141,menkeu,NOR,0.71236724
+141,purba,PER,0.819924
+141,kode,PER,0.8439033
+141,prabowo,PER,0.7781716
+142,menkeu,NOR,0.66520727
+142,purba,PER,0.39840963
+142,oktober,DAT,0.9852208
+143,menkeu,NOR,0.59079844
+144,sebulan,QTY,0.4252191
+144,purba,PER,0.9160339
+145,menke,NOR,0.5670426
+145,##u,ORG,0.49700734
+145,purba,PER,0.6424112
+145,prabowo,PER,0.99678975
+145,wam,PRD,0.53089327
+146,18,CRD,0.92277575
+146,menkeu,NOR,0.73063916
+146,purba,PER,0.46732453
+147,gubernur,NOR,0.77026874
+147,indonesia,GPE,0.67919016
+147,purba,PER,0.96247715
+147,2026,LAW,0.5213297
+148,menkeu,NOR,0.70741755
+148,purba,PER,0.41569307
+148,##g,PRD,0.37245166
+149,pramono,PER,0.9483497
+149,db,LOC,0.30356538
+149,jakarta,GPE,0.89525133
+149,men,PER,0.364192
+149,##keu,NOR,0.31003863
+149,purba,PER,0.5297259
+151,purbaya,PER,0.9053923
+151,anggito,PER,0.8731002
+151,ketua lps,ORG,0.6132502
+151,presiden,NOR,0.6175271
+152,menkeu,NOR,0.7274878
+152,purbaya,PER,0.48680806
+152,anggito abimanyu,PER,0.9728295
+152,ketua,NOR,0.48045084
+152,dewan komisioner lps,ORG,0.73538154
+153,menkeu,NOR,0.7272765
+153,purbaya,PER,0.45421213
+153,sebulan,QTY,0.37963745
+154,ida yulidina,PER,0.9916694
+154,menkeu,NOR,0.7813263
+154,purba,PER,0.6369387
+155,##keu,NOR,0.35377353
+155,batik trimina,PRD,0.77798986
+155,truntum,PRD,0.39574307
+156,kebijakan cukai,LAW,0.29453287
+156,rokok,PRD,0.3372408
+156,202,EVT,0.29157138
+156,##6,LAW,0.33151695
+156,purba,PER,0.5536285
+157,menke,NOR,0.57176346
+157,##u,ORG,0.54101706
+157,purba,PER,0.52539647
+157,tim akselerasi program prioritas,ORG,0.888929
+157,prabowo,PER,0.9828242
+158,karir purbaya,PER,0.7134346
+158,menteri keuangan,NOR,0.82888913
+159,purbaya,PER,0.8865051
+159,lps,ORG,0.70074296
+160,purba,PER,0.9706405
+160,menteri keuangan,NOR,0.94532406
+160,lps,PRD,0.60489476
+161,purba,PER,0.977183
+161,menteri keuangan,NOR,0.9143133
+161,gede,PER,0.9785074
+162,menke,NOR,0.7030313
+162,##u purba,ORG,0.5525925
+162,202,CRD,0.4461055
+162,##6,MON,0.26893297
+163,pertama,ORD,0.94018185
+163,menkeu,NOR,0.62489396
+163,purbaya,ORG,0.3983559
+164,luhut,PER,0.96508694
+164,menkeu purba,NOR,0.50133556
+164,prabowo,PER,0.9952402
+165,pr,NOR,0.6266223
+165,men,ORG,0.2405459
+165,##keu,NOR,0.5927168
+165,purba,PER,0.5664433
+165,apindo,PER,0.75124806
+166,menteri keuangan,NOR,0.9262794
+166,purba,PER,0.72813964
+167,purba,PER,0.70550954
+167,menteri keuangan,NOR,0.7387352
+167,indef,PER,0.8787178
+168,menkeu,NOR,0.59801507
+168,purba,ORG,0.4059958
+168,15 tahun,QTY,0.93977773
+169,rupiah,MON,0.96410197
+169,purba,PER,0.6450587
+169,bank himbara,ORG,0.96355253
+169,dollar,MON,0.96055585
+169,rp 200 t,MON,0.99500394
+170,menkeu,NOR,0.6270104
+170,purba,PER,0.4721321
+171,menkeu,NOR,0.70968133
+171,purba,PER,0.52518326
+171,lu,PER,0.994501
+172,himbara,PER,0.5698609
+172,menke,NOR,0.5777915
+172,##u purbaya,ORG,0.65026766
+172,pemerintah,NOR,0.7259504
+172,bank daerah,ORG,0.85536504
+173,menkeu,NOR,0.7949123
+173,purba,PER,0.6653323
+173,pns,NOR,0.5606909
+174,jakarta,GPE,0.9735044
+174,rp 15 triliun,MON,0.99808556
+174,purba,PER,0.9241479
+175,purba,PER,0.9443986
+175,rp 20 triliun,MON,0.99719936
+175,dollar,MON,0.9548151
+177,purba,PER,0.5815721
+177,ayam penyet sambal ijo,PRD,0.81831676
+177,warung kaki lima,LOC,0.92955637
+178,menkeu,NOR,0.6575859
+178,purbaya rama,PER,0.6809835
+178,iv,ORD,0.6513988
+178,"5, 5 persen",PRC,0.9937409
+179,purba,PER,0.57602125
+179,bgn,ORG,0.37985134
+179,rp 28 triliun,MON,0.9977648
+180,rokok,PRD,0.32781637
+180,purba,PER,0.8800467
+181,prabowo,PER,0.99657756
+181,apbn,LAW,0.81586087
+181,0 persen,PRC,0.9738703
+181,menkeu purba,NOR,0.7288588
+182,##u,ORG,0.5045062
+182,purba,PER,0.49765778
+183,men,NOR,0.72975844
+183,##keu purba,ORG,0.6168553
+183,rp 60 triliun,MON,0.99703455
+183,200,CRD,0.82922673
+184,purba,PER,0.871315
+184,bea cukai,NOR,0.58475864
+185,hotman paris,ORG,0.64483905
+185,menkeu,NOR,0.656344
+185,purba,PER,0.3250858
+186,rokok,PRD,0.5577177
+186,menke,NOR,0.56085265
+186,##u purba,ORG,0.44172868
+187,tompi,PER,0.71160424
+187,men,NOR,0.5755524
+187,##keu purba,ORG,0.58486444
+187,rp 200 triliun,MON,0.9975923
+187,bank,ORG,0.58377147
+188,rp 200 t,MON,0.9916258
+188,himbara,PER,0.26979664
+188,purba,PER,0.98240894
+189,purba,PER,0.82042646
+189,dpr,NOR,0.98583084
+189,"rp 692, 9 triliun",MON,0.9981334
+190,batik menkeu purba,PRD,0.75523
+190,ahmad dofiri,PER,0.9695202
+191,menke,NOR,0.66045946
+191,##u,ORG,0.534209
+191,purba,PER,0.36143956
+191,kop,ORG,0.41073924
+191,rp 16 triliun,MON,0.997905
+192,rp 200 triliun,MON,0.99758
+192,him,PER,0.5833791
+192,##bara,ORG,0.45260152
+192,men,NOR,0.6972963
+192,##keu purba,ORG,0.6807812
+193,sby,PER,0.99181926
+193,jokowi,PER,0.9939855
+193,20 tahun,QTY,0.9408531
+194,ri,GPE,0.5855095
+194,8 persen,PRC,0.9929186
+194,2 - 3 tahun,QTY,0.9431528
+194,menke,NOR,0.6164795
+194,##u,ORG,0.4975459
+194,purba,PER,0.44817927
+195,menkeu,NOR,0.616939
+195,purbaya,ORG,0.39412594
+195,he,PER,0.9109221
+196,singgung sri mulyani,PER,0.8828756
+196,cia,NOR,0.5011544
+196,menteri keuangan,NOR,0.9743922
+196,purbaya,PER,0.73107684
+197,money,ORG,0.28389394
+197,purba,PER,0.8594251
+197,dpr,NOR,0.967525
+197,sri mulyani,PER,0.99249345
+197,kemenkeu,NOR,0.949394
+198,pertama,ORD,0.96564364
+198,dpr,NOR,0.97659636
+198,menteri keuangan,NOR,0.9478532
+198,purbaya,PER,0.91726303
+199,menkeu,NOR,0.80577785
+199,purbaya,PER,0.49200034
+199,17,CRD,0.95372343
+199,8,CRD,0.97296983
+200,17,CRD,0.8530964
+200,8,CRD,0.9622576
+200,menkeu,NOR,0.71683234
+200,purba,ORG,0.32956707
+201,menkeu purba,NOR,0.615307
+201,17,CRD,0.96582484
+201,8,CRD,0.9606227
+202,ihsg,ORG,0.48208705
+202,menke,NOR,0.6427007
+202,##u purba,ORG,0.47124898
+202,15 tahun,QTY,0.9709145
+203,rp 116 triliun,MON,0.99718267
+203,kereta cepat,PRD,0.87926173
+203,purba,PER,0.6725707
+203,apbn,LAW,0.9548043
+204,menkeu,NOR,0.72655654
+204,purbaya,PER,0.5057428
+204,kereta cepat,PRD,0.6488262
+204,pemerintah,NOR,0.9612715
+205,- commerce,PRD,0.82012093
+205,202,DAT,0.6909111
+205,##6,CRD,0.29473624
+205,menke,NOR,0.56275034
+205,##u purba,ORG,0.51064634
+205,6 persen,PRC,0.9925003
+206,bahlil,REG,0.49555147
+207,misbakhun,PER,0.9882505
+207,menkeu purba,NOR,0.73699915
+208,muzakir manaf,PER,0.968183
+208,menteri,NOR,0.6458202
+208,purba,PER,0.57371104
+209,teddy,PER,0.98611337
+209,dasco,PER,0.95568347
+209,purbaya,PER,0.90798235
+209,mend,NOR,0.95061684
+209,##agri,NOR,0.72899795
+209,dpr,NOR,0.988364
+210,pramono,PER,0.9655248
+210,menkeu,NOR,0.6511779
+210,purba,ORG,0.47804153
+211,anggito abimanyu,PER,0.92144793
+211,purbaya,PER,0.7138121
+211,ketua dewan komisioner lps,ORG,0.73514545
+212,menkeu,NOR,0.6273114
+212,purba,PER,0.3462798
+212,ahok,PER,0.9511642
+212,##ucer,PRD,0.4281129
+213,purbaya,PER,0.8540567
+213,triliun,MON,0.6112662
+213,bank jakarta,ORG,0.9782826
+214,gubernur sumbar,NOR,0.9817393
+214,menkeu,NOR,0.87194115
+214,purba,PER,0.3164128
+215,dirjen pajak,NOR,0.6671648
+215,purba,PER,0.93166614
+216,kemenkeu,NOR,0.825213
+217,18,CRD,0.92402077
+217,menkeu purba,NOR,0.718456
+217,jateng,GPE,0.796403
+217,diy,GPE,0.95466435
+218,menkeu purba,NOR,0.5907911
+219,menkeu purba,NOR,0.69575024
+219,dedi mulyadi,PER,0.9800413
+219,rp 1. 000,MON,0.99718654
+219,pemda,NOR,0.8857495
+220,purba,PER,0.9701073
+220,db,NOR,0.23519026
+220,##h,ORG,0.20603183
+220,dki,GPE,0.45343503
+221,pns,NOR,0.77457345
+221,bkn,NOR,0.8040002
+221,menkeu,NOR,0.6657641
+221,purba,ORG,0.60323805
+221,##ry,PRD,0.47342232
+222,menkeu,NOR,0.6121202
+222,purbaya,PER,0.3651638
+222,indonesia,GPE,0.64479476
+223,luhut,PER,0.7916931
+223,mbg,PRD,0.6494104
+223,purba,PER,0.91858137
+224,bahlil,REG,0.46860325
+224,lpg 3 kg,PRD,0.6687095
+225,misbakhun,PER,0.9884472
+225,menkeu purba,NOR,0.65847576
+225,##ya,ORG,0.3460452
+226,purba,PER,0.6260078
+226,ketua komisi xi,NOR,0.93525213
+227,pertamina,ORG,0.9500543
+228,purbaya,PER,0.93970275
+228,rupiah,MON,0.81895274
+229,rp 200 triliun,MON,0.9966224
+229,menkeu purba,NOR,0.80697906
+229,##ya,ORG,0.42665178
+229,kpk,NOR,0.89378095
+229,bank himbara,ORG,0.9023604
+230,men,NOR,0.64667964
+230,##keu purba,ORG,0.5900257
+231,rp 200 triliun,MON,0.998096
+231,him,PER,0.63462806
+231,##bara,ORG,0.39510992
+231,purbaya,PER,0.7279822
+232,apbn 202,LAW,0.6224172
+232,##6,MON,0.74054426
+233,money,PRD,0.5224144
+233,menkeu,NOR,0.7368169
+233,purba,PER,0.7832854
+233,tutut soeharto,PER,0.79073
+233,menkeu,NOR,0.858449
+234,kemeja batik,PRD,0.8014764
+235,menke,NOR,0.60088634
+235,##u,ORG,0.52557254
+235,purba,PER,0.33483404
+236,itb,ORG,0.6321573
+236,rp 200 t,MON,0.97953343
+236,menkeu purba,NOR,0.4446118
+236,indonesia,GPE,0.6074089
+237,bank,ORG,0.36057034
+237,rp 7 t,MON,0.98738223
+237,rp 200 t,MON,0.9860174
+238,menke,NOR,0.65051246
+239,bank,ORG,0.5425416
+239,rp 200 triliun,MON,0.99358493
+239,##des,PRD,0.45280394
+239,men,NOR,0.702407
+239,##keu,ORG,0.54099303
+239,purba,PER,0.45363894
+239,2 persen,PRC,0.9922162
+240,menkeu purba,NOR,0.5927596
+241,sri mulyani,PER,0.9917741
+241,menkeu,NOR,0.6234807
+241,purba,ORG,0.4552046
+241,rp 200 t,MON,0.995177
+241,bank himbara,ORG,0.9664714
+242,menkeu,NOR,0.84617275
+242,purba,PER,0.4653628
+242,wagub kalteng,NOR,0.8832731
+243,pr,NOR,0.6880842
+243,men,ORG,0.4710823
+243,##ke,NOR,0.31938127
+244,men,NOR,0.58987635
+244,##keu,ORG,0.60000694
+244,purba,PER,0.42952612
+244,instagram,PRD,0.88060325
+245,menke,NOR,0.59246755
+245,##u purbaya,ORG,0.5366411
+245,bupati lumajang,NOR,0.9566957
+246,rp 200 triliun,MON,0.9977813
+246,bi,ORG,0.9622536
+247,cia,NOR,0.39939392
+247,menkeu,NOR,0.5322074
+247,purba,PER,0.5510582
+248,menke,NOR,0.57724607
+248,##u,ORG,0.5819955
+248,pemerintah,NOR,0.89725447
+248,rp 200 triliun,MON,0.9962527
+248,bi,ORG,0.9283915
+249,mahasiswa ui,ORG,0.9461312
+249,menkeu purba,NOR,0.5941177
+249,17,CRD,0.8923884
+249,8,CRD,0.5695525
+250,sri mulyani,PER,0.9929053
+250,purba,PER,0.94545317
+251,reshuffle kabinet,NOR,0.7170367
+251,prabowo,PER,0.99611413
+251,purbaya,PER,0.8479918
+251,sri mulyani,PER,0.99191827
+251,ferry juliantono,PER,0.98526335
+251,budi arie,PER,0.9842366
+252,menkeu,NOR,0.6885691
+252,purbaya,ORG,0.46132872
+252,sor,PER,0.4539265
+252,##oti,ORG,0.39386287
+252,lp,ORG,0.3618775
+252,##g 3,PRD,0.5654313
+253,menkeu purba,NOR,0.60408306
+253,##ya,ORG,0.5786601
+253,dollar as,MON,0.98677063
+253,rupiah,MON,0.9398132
+254,rp 200 t,MON,0.99091166
+254,5,CRD,0.6075989
+254,bank himbara,ORG,0.7083674
+254,purba,PER,0.96366984
+254,bt,PER,0.4949143
+254,##n,ORG,0.3873218
+255,bank,ORG,0.8265363
+255,rp 200 t,MON,0.9957717
+255,purba,PER,0.92432135
+256,seloroh purba,PER,0.957751
+256,sebulan,QTY,0.86170715
+256,menkeu,NOR,0.59945244
+256,lp,LOC,0.34163278
+256,##s,ORG,0.43225235
+257,menke,NOR,0.6694982
+257,##u purbaya,ORG,0.6588972
+257,rp 150 miliar,MON,0.99663585
+258,malaysia,GPE,0.9982564
+259,purbaya,PER,0.8949145
+259,kdm,ORG,0.4627024
+259,rp 1. 000,MON,0.9964377
+259,jabar,GPE,0.9570314
+260,dki,GPE,0.8645211
+260,scbd,LOC,0.5966383
+260,menkeu purba,NOR,0.72994924
+261,menkeu,NOR,0.77291447
+261,purba,PER,0.71439046
+261,jakarta,GPE,0.9924696
+262,balai kota,LOC,0.6733546
+262,pramono,PER,0.95594466
+262,menkeu,NOR,0.736981
+262,purbaya,PER,0.6097232
+262,3,CRD,0.93143296
+263,70 persen,PRC,0.99035865
+263,pemerintah,NOR,0.9471045
+263,purba,PER,0.7622961
+263,bank mandiri,ORG,0.97339606
+264,purba,PER,0.8808478
+264,luhut,PER,0.9080775
+264,mbg,PRD,0.38190877
+264,oktober,DAT,0.99190134
+265,ketua komisi xi dpr,NOR,0.9717263
+265,sentil purbaya,PER,0.82984304
+265,lpg 3 kg,PRD,0.62275
+266,bahlil,PER,0.41086316
+266,##g 3,PRD,0.42566657
+266,kg,QTY,0.39703062
+267,ayam penyet sambel ijo,PRD,0.87082523
+268,menkeu,NOR,0.76862353
+268,rokok,PRD,0.50110483
+268,menteri koboi,NOR,0.8035571
+269,purbaya bantah,PER,0.8560121
+269,bank,ORG,0.5199197
+269,deposito valas,PRD,0.61776495
+269,4 persen,PRC,0.99092054
+270,ray dalio,PER,0.9778841
+270,tikto,LOC,0.44043788
+271,purba,PER,0.9635058
+271,rokok,PRD,0.51644427
+272,menkeu,NOR,0.7068055
+272,purbaya sidak,PER,0.90964854
+272,kantor,LOC,0.50656134
+272,bni,ORG,0.5349464
+273,menkeu purba,NOR,0.72081745
+273,##ya,ORG,0.31321567
+274,4,CRD,0.8577401
+274,menkeu,NOR,0.55819726
+274,purba,PER,0.29193377
+274,2 pekan,QTY,0.8064852
+275,purba,PER,0.48687342
+275,200,CRD,0.8092437
+275,rp 60 triliun,MON,0.9972356
+276,amnes,PRD,0.3064949
+276,sri,PER,0.24517381
+276,mulya,EVT,0.42204112
+276,##ni,ORG,0.24019767
+276,menkeu,NOR,0.8162463
+276,purba,PER,0.5891921
+277,menke,NOR,0.676044
+277,##u purbaya,ORG,0.42928353
+277,mb,LAW,0.33846304
+277,##g,PRD,0.4054091
+278,dollar,MON,0.8850107
+278,menke,NOR,0.61254823
+278,##u purba,ORG,0.56162226
+279,ida yulidina,PER,0.9864721
+279,menkeu,NOR,0.63042647
+279,purbaya,PER,0.5523457
+280,apbn,LAW,0.83884215
+280,2026,MON,0.61461335
+280,"2, 68 persen",PRC,0.9954102
+280,menke,NOR,0.69406426
+280,##u,ORG,0.59185916
+280,purba,PER,0.44320455
+281,men,NOR,0.4994087
+281,purbaya,PER,0.7816052
+281,tutut soeharto,PER,0.83071876
+282,men,NOR,0.45908123
+282,##keu,ORG,0.7787044
+282,purba,PER,0.55233085
+282,dirut bank himbara,ORG,0.927571
+282,rp 200 t,MON,0.9962888
+283,men,NOR,0.6925531
+283,##keu purba,ORG,0.5523445
+283,rp 200 triliun,MON,0.9968479
+283,6,CRD,0.8521328
+283,bank himbara,ORG,0.758956
+284,luhut,PER,0.96500534
+284,purba,PER,0.9397551
+285,17,CRD,0.9462527
+285,8,CRD,0.9467082
+285,menkeu,NOR,0.74588996
+285,purba,ORG,0.314642
+286,menteri keuangan,NOR,0.94262916
+286,purbaya,PER,0.8035083
+286,sri mulyani,PER,0.9938545
+286,indonesia,GPE,0.94405335
+287,menkeu,NOR,0.6372641
+287,purba,PER,0.47026628
+287,kereta cepat jakarta,PRD,0.6817525
+287,bandung,GPE,0.48982444
+287,apbn,LAW,0.9364613
+288,menke,NOR,0.704391
+288,##u purbaya,ORG,0.56653607
+288,rp 200 triliun,MON,0.9971819
+288,dollar as,MON,0.9613945
+289,bank himbara,ORG,0.9844336
+289,rp 200 triliun,MON,0.9978566
+289,purba,PER,0.93673706
+289,dollar,MON,0.94469464
+290,kep,NOR,0.2872479
+290,rp 534 miliar,MON,0.99752325
+290,gubernur ansar,ORG,0.61006916
+290,purba,PER,0.84495467
+291,menke,NOR,0.5585611
+291,##u,ORG,0.4237884
+291,the moon,WOA,0.43255383
+292,menke,NOR,0.63400334
+292,##u,ORG,0.5144825
+292,purba,NOR,0.3750878
+292,dir,NOR,0.74236155
+292,##ut bei,ORG,0.73562676
+293,bank dunia,ORG,0.98369324
+293,ri,ORG,0.5070945
+293,"4, 8 persen",PRC,0.9938865
+293,men,NOR,0.47982848
+293,##ke,ORG,0.34102002
+294,purbaya,PER,0.74553084
+295,doli,PER,0.8086183
+296,200,CRD,0.6381636
+296,menkeu,NOR,0.6986115
+296,purba,ORG,0.5444467
+296,rp 7 triliun,MON,0.9975795
+297,men,NOR,0.4605519
+297,##keu,ORG,0.5091344
+297,purbaya,PER,0.7014601
+297,anggito cs,PER,0.7645101
+298,##ke,NOR,0.47676468
+298,##u,ORG,0.35705572
+298,purbaya,PER,0.59575933
+298,pramono,PER,0.8718828
+299,menkeu,NOR,0.8310016
+299,purba,PER,0.64163285
+299,gubernur sumbar,NOR,0.9836616
+300,pramono,PER,0.9300814
+300,rp 200 triliun,MON,0.9977049
+300,bank himbara,ORG,0.9807405
+300,bum,NOR,0.7569589
+300,##d dki,ORG,0.4853598
+301,bobby nasution,PER,0.9940069
+301,kantor menkeu purba,LOC,0.77062243
+302,luhut,PER,0.85226655
+302,##g,PRD,0.5223003
+302,menke,NOR,0.66228765
+302,##u purba,ORG,0.49815792
+303,purba,PER,0.77151275
+303,dirjen bea cukai,NOR,0.75237006
+304,purba,PER,0.47128347
+304,fl,ORG,0.54562527
+304,##pp,PRD,0.7751426
+305,purba,PER,0.98063666
+305,bbm,PRD,0.9684175
+305,el,PER,0.53535575
+305,##piji,PRD,0.54289794
+306,menke,NOR,0.4846778
+306,##u purba,ORG,0.5240751
+306,pertamina,ORG,0.94837874
+306,7 tahun,QTY,0.8983513
+307,purba,PER,0.92963195
+307,dirjen anggaran,NOR,0.64525765
+308,purba,PER,0.727037
+309,purbaya,PER,0.82317674
+310,purba,PER,0.6242213
+310,tantang rocky gerung,PER,0.70380056
+310,5 ke 6 persen,PRC,0.952876
+311,purbaya,PER,0.72122115
+311,anggito,PER,0.8796387
+311,ketua dk lps,ORG,0.7378907
+312,ketua komisi xi,NOR,0.90707093
+312,purba,PER,0.64139223
+312,perb,PER,0.276798
+312,##aiki coretax,ORG,0.5999058
+313,menke,NOR,0.6553937
+313,##u purbaya,ORG,0.6441831
+313,hotman paris,PER,0.77752304
+313,rp 200 triliun,MON,0.9969735
+314,anggito,PER,0.855499
+314,wamenkeu,ORG,0.52249044
+314,lps,ORG,0.7809639
+314,menkeu,NOR,0.61573875
+314,purba,PER,0.66527873
+315,dpr,NOR,0.9897856
+315,bansos pangan,PRD,0.55268824
+315,minyak goreng,PRD,0.9783325
+315,2 liter,QTY,0.6980443
+316,purbaya,PER,0.89365774
+316,dpr,NOR,0.9702581
+316,2026,DAT,0.764161
+317,bangga,NOR,0.76030856
+317,dpr,NOR,0.9031807
+317,rp 200 triliun,MON,0.9876943
+317,menkeu,NOR,0.8700952
+317,purba,PER,0.6222561
+318,4,CRD,0.6508098
+318,menkeu,NOR,0.55208874
+318,purba,PER,0.5840542
+318,rp 200 triliun,MON,0.997618
+319,batik menkeu,PRD,0.5253801
+319,guru besar uns,ORG,0.6759004
+320,rp 200 t,MON,0.9911594
+320,menke,NOR,0.5112071
+320,##u,ORG,0.34879792
+320,purba,PER,0.576508
+321,rp 200 t,MON,0.99049354
+321,bank himbara,ORG,0.9519107
+321,tyler robinson,PER,0.9531895
+322,5,CRD,0.852803
+322,bumn,ORG,0.676266
+322,menke,NOR,0.66762507
+322,##u,ORG,0.5264871
+322,purba,PER,0.55077976
+322,rp 200 triliun,MON,0.9968181
+324,men,NOR,0.6677609
+324,##keu purbaya,ORG,0.5079237
+324,rp 200 triliun,MON,0.9965453
+324,5,CRD,0.8627391
+324,bank himbara,ORG,0.7571952
+325,menkeu,NOR,0.71281266
+325,purbaya,PER,0.5017948
+325,kementerian,NOR,0.7871917
+325,apbn,LAW,0.85870576
+326,indonesia,GPE,0.9459941
+326,menkeu,NOR,0.82448936
+326,sri mulyani,PER,0.9929459
+326,purba,PER,0.98010683
+327,menteri keuangan,NOR,0.8845063
+327,purbaya puji sri mulyani,PER,0.9845272
+328,purba,PER,0.71721405
+328,sri mulyani,PER,0.9758506
+329,purbaya,PER,0.8933486
+329,sri mulyani,PER,0.9889319
+330,btn,ORG,0.8442745
+330,pemerintah,NOR,0.9525206
+330,menkeu,NOR,0.7760294
+330,purbaya,ORG,0.47639203
+331,purbaya,PER,0.88064134
+331,bank himbara,ORG,0.9727203
+331,rp 200 triliun,MON,0.9977326
+331,dollar,MON,0.9676283
+332,bank bjb,ORG,0.95839924
+332,purba,PER,0.5215511
+332,himbara,PER,0.5409814
+332,kemenkeu,NOR,0.68859214
+333,seskab teddy,ORG,0.66067076
+334,menke,NOR,0.60473526
+334,##u,ORG,0.46947917
+334,purbaya,PER,0.58012354
+334,lps,ORG,0.5413119
+335,menke,NOR,0.53532624
+335,##u,ORG,0.429102
+335,purba,PER,0.6128281
+336,anggito abimanyu,PER,0.96289235
+336,ketua lps,ORG,0.70297575
+336,purbaya,PER,0.7595025
+337,purbaya,PER,0.9475415
+337,anggito abimanyu,PER,0.90744805
+337,lps,ORG,0.70342976
+337,kemenkeu,NOR,0.8279571
+338,pemda,NOR,0.95759547
+338,202,CRD,0.6050119
+338,##6,CRD,0.23588754
+338,menkeu purba,NOR,0.71265775
+339,menkeu,NOR,0.66602135
+339,purba,PER,0.35377198
+339,mbg,PRD,0.44262743
+339,oktober,DAT,0.99070096
+340,pramono,PER,0.84100574
+340,jakarta,GPE,0.98458046
+341,menke,NOR,0.71862686
+341,##u purbaya,ORG,0.5294909
+341,pemerintah,NOR,0.78210783
+341,rp 20 triliun,MON,0.99590874
+341,bank jakarta,ORG,0.93954897
+342,menkeu,NOR,0.70220023
+342,purba,PER,0.66965026
+342,temui,PER,0.6929125
+342,pramono,PER,0.83638775
+342,balai,LOC,0.5491131
+343,purbaya sidak,PER,0.69057333
+343,bank mandiri,ORG,0.9899977
+343,rp 200 triliun,MON,0.99791473
+344,menkeu,NOR,0.7051141
+344,rokok,PRD,0.28977987
+344,202,CRD,0.53399
+344,##6,CRD,0.2356475
+345,mbg,PRD,0.38690668
+345,purba,PER,0.68380165
+346,bah,PER,0.4746783
+346,##lil,ORG,0.29591796
+346,menteri koboi,NOR,0.79509264
+346,purba,PER,0.43114206
+346,lpg 3 kg,PRD,0.8112401
+347,bahlil,PER,0.90809715
+347,lpg 3 kg,PRD,0.8040612
+348,purbaya,PER,0.9746916
+348,airlangga,PER,0.9886974
+348,kantor danantara,ORG,0.9156713
+349,purbaya,PER,0.69452727
+349,2024,DAT,0.99412495
+350,menkeu purba,NOR,0.76888716
+350,papan,PRD,0.67761844
+351,pemda,NOR,0.6242039
+351,rp 233 triliun,MON,0.99670863
+352,dpr,NOR,0.9862899
+352,anggito abimanyu,PER,0.94434386
+352,ketua,NOR,0.6218434
+352,dewan komisioner lps,ORG,0.6596668
+352,purba,PER,0.92624444
+353,asn,EVT,0.16183794
+353,2025,DAT,0.7728017
+353,menkeu,NOR,0.71262056
+353,purba,PER,0.5130509
+354,purba,PER,0.8457386
+355,rp 692 triliun,MON,0.9976401
+355,menkeu,NOR,0.6836608
+355,purba,ORG,0.51249343
+356,bos bi sambut,ORG,0.58853203
+356,men,NOR,0.5717664
+356,##keu,ORG,0.5524285
+356,purba,PER,0.54177564
+356,##ya,ORG,0.43808815
+356,him,PER,0.61275345
+356,rp 200 triliun,MON,0.98705554
+357,menkeu purba,NOR,0.5831517
+357,##ya,ORG,0.49483383
+357,rp 200 t,MON,0.99474114
+358,purba,PER,0.85303247
+358,dirut bank,ORG,0.72886515
+358,rp 200 triliun,MON,0.9971175
+359,zulhas,PER,0.9749325
+359,purbaya,PER,0.708679
+359,rp 200 triliun,MON,0.9974366
+359,kop,ORG,0.26194376
+359,##des merah putih,PRD,0.57695943
+360,aceh,GPE,0.9880023
+360,bsi,ORG,0.8625573
+360,rp 200 triliun,MON,0.997009
+360,menkeu,NOR,0.66662806
+360,purba,ORG,0.5968696
+361,plus,PER,0.48483503
+361,minus,PER,0.7227949
+361,menke,NOR,0.60458434
+361,##u,ORG,0.54724383
+361,purbaya,PER,0.3861343
+361,rp 200 triliun,MON,0.99820566
+361,bank himbara,ORG,0.9825924
+362,jokowi,PER,0.99516934
+362,pak purbaya mahzabn,PER,0.8164751
+362,sri mulyani,PER,0.9917097
+363,menke,NOR,0.39135867
+363,##u,ORG,0.43962732
+363,purba,PER,0.43888852
+363,ri,PER,0.4042868
+363,middle income,LOC,0.44410753
+364,menkeu,NOR,0.62858343
+364,purba,PER,0.29745346
+365,menke,NOR,0.711672
+365,##u purbaya,ORG,0.47359407
+365,demonstrasi nepal,EVT,0.65407455
+366,menteri keuangan,NOR,0.88322735
+366,purbaya,PER,0.5192137
+367,china,GPE,0.7948935
+367,res,NOR,0.7419704
+367,##ffle kabinet,NOR,0.635113
+367,prabowo,PER,0.96614563
+367,singgung sri mulyani,PER,0.9131565
+367,purba,PER,0.9676449
+368,5,CRD,0.4320867
+368,menkeu,NOR,0.46201482
+368,purba,PER,0.3807284
+368,grey econom,PRD,0.56450516
+369,sri mulyani,PER,0.99340206
+369,menkeu,NOR,0.69957227
+369,purba,PER,0.9232297
+369,presiden,PER,0.43131387
+370,rp 200 triliun,MON,0.99670964
+370,bank bumn,ORG,0.89236236
+370,menke,NOR,0.63300586
+370,##u purba,ORG,0.52644134
+371,purba,PER,0.88791084
+371,rokok,PRD,0.44093543
+372,men,NOR,0.66776353
+372,##keu purba,ORG,0.55055285
+372,gen z,PRD,0.5276746
+373,malaysia,GPE,0.99738246
+373,menkeu purba,NOR,0.66865045
+373,rp 150 miliar,MON,0.9982572
+373,kaltara,GPE,0.73637867
+374,men,NOR,0.6279556
+374,##keu purbaya,ORG,0.6518832
+374,rp 150 miliar,MON,0.99664897
+374,malaysia,GPE,0.99862826
+375,rp 200 triliun,MON,0.99584883
+375,bank,ORG,0.7556026
+375,men,NOR,0.50408584
+375,##keu purba,ORG,0.7061644
+376,men,NOR,0.5464417
+376,##u,ORG,0.4915086
+376,purba,PER,0.65372854
+376,rupiah,MON,0.9689755
+377,menke,NOR,0.46466333
+377,##u,ORG,0.45590916
+377,singapura,GPE,0.9947436
+377,malaysia,GPE,0.997584
+378,menke,NOR,0.48185158
+378,##u,ORG,0.47085533
+378,purba,PER,0.6001169
+379,menkeu,NOR,0.64971626
+379,purba,PER,0.7970088
+379,sidak bank bumn,ORG,0.5650648
+380,purba,PER,0.6062483
+380,##g,PRD,0.55369484
+381,menkeu,NOR,0.62626487
+381,mb,LAW,0.18640749
+381,##g,PRD,0.6077958
+382,menkeu,NOR,0.5175051
+382,jokowi,PER,0.9960127
+382,sri mulyani,PER,0.9929156
+383,menkeu,NOR,0.61166686
+383,purba,PER,0.7950416
+383,dpr,NOR,0.9873338
+384,purba,PER,0.803939
+384,men,NOR,0.4867144
+384,sri mulyani,PER,0.9952111
+386,menkeu,NOR,0.6742006
+386,purba,PER,0.4312061
+386,ahok,PER,0.9356609
+386,vo,PRD,0.5654231
+387,meteor,PER,0.4196058
+387,luhut,PER,0.8621795
+388,prabowo,PER,0.99567956
+388,sapa dedi mulyadi,PER,0.8070458
+388,bahasa sunda,LAN,0.25049248
+388,menkeu purba,NOR,0.7723588
+389,hotman paris,ORG,0.86408836
+389,bunga deposito,PRD,0.6804785
+389,men,NOR,0.60753447
+389,##keu purba,ORG,0.55775833
+390,hotman paris,PER,0.6312538
+390,purba,PER,0.9405451
+391,amnesty,PRD,0.39509076
+392,bg,ORG,0.33498496
+392,##n,PRD,0.60486025
+392,mb,PRD,0.33630645
+393,qodari,PER,0.9599988
+393,purba,PER,0.7054491
+394,purba,PER,0.9258373
+394,dirut bank,ORG,0.8440337
+394,sabtu - minggu,DAT,0.7850027
+394,golf,PRD,0.33327755
+395,men,NOR,0.5566318
+395,##keu purba,ORG,0.4671599
+397,15 tahun,QTY,0.98396075
+398,purba,PER,0.9538747
+399,dpr,NOR,0.9883096
+399,menkeu,NOR,0.90459853
+399,purba,PER,0.6437271
+400,hotman paris,ORG,0.9354462
+400,amnes,PRD,0.33263186
+402,anggito abimanyu,PER,0.9638786
+402,lps,ORG,0.8933187
+402,purbaya,PER,0.81970716
+403,menkeu,NOR,0.7162073
+403,purba,PER,0.5761095
+403,satgas blbi,ORG,0.69823647
+404,menkeu,NOR,0.60970813
+404,purba,PER,0.6832895
+404,prabowo,PER,0.9957676
+405,men,NOR,0.5218048
+405,sby,PER,0.99509144
+405,jokowi,PER,0.994477
+406,menkeu,NOR,0.59325415
+406,purba,PER,0.530815
+406,agustus,DAT,0.99071294
+407,ekonom ui,ORG,0.8775531
+407,purba,PER,0.92302203
+408,men,NOR,0.521103
+408,##u,ORG,0.35995165
+409,purba,PER,0.93786293
+409,dirjen pajak,NOR,0.9202554
+410,purba,PER,0.6708657
+410,200,CRD,0.82598865
+410,rp 60 t,MON,0.99352616
+411,purbaya,PER,0.87843555
+411,coreta,ORG,0.301719
+411,##x,EVT,0.32924363
+411,1 bulan,QTY,0.91654825
+412,dirjen kemenkeu,NOR,0.8909863
+412,purbaya,PER,0.8313259
+413,tut,NOR,0.4232194
+413,soeharto,PER,0.8073613
+413,menkeu,NOR,0.7361097
+413,purba,PER,0.5462407
+414,purbaya,PER,0.8974209
+414,lps,ORG,0.60614395
+415,purba,PER,0.9443975
+415,ri,GPE,0.6393851
+415,indef,PER,0.7836866
+416,purbaya,PER,0.9450283
+416,menke,NOR,0.4803893
+416,##u,ORG,0.39019263
+417,sri mulyani,PER,0.9957848
+417,menkeu,NOR,0.7095626
+417,menteri,NOR,0.73185116
+417,purba,PER,0.6410107
+418,purba,PER,0.9343607
+418,gu,PER,0.7926763
+418,miki,PER,0.6205441
+419,purba,PER,0.9586598
+419,ih,PRD,0.52520245
+419,##sg,ORG,0.5460955
+419,the moon,EVT,0.30700943
+420,purbaya,PER,0.7778013
+420,bei,ORG,0.8589576
+422,mahfud md puji purbaya,PER,0.96625596
+422,bl,PRD,0.32908466
+423,full,PER,0.37984517
+423,],PRD,0.375868
+423,pramono,PER,0.4377041
+423,purba,PER,0.83149284
+424,bi,ORG,0.4000107
+424,diplomasi bebek goreng,PRD,0.94644356
+425,menkeu,NOR,0.6386171
+425,purba,PER,0.51075286
+425,kepala bgn,ORG,0.8709758
+425,mb,LAW,0.24514231
+425,##g,PRD,0.3786944
+426,menkeu,NOR,0.6974273
+426,pemerintah,NOR,0.9811164
+427,menkeu,NOR,0.5318089
+427,purba,PER,0.6111326
+427,indonesia,GPE,0.9901826
+427,sumitronomics,ORG,0.76193523
+428,8,CRD,0.79018897
+428,4,CRD,0.7794934
+428,5,CRD,0.7120589
+428,duet,PER,0.69855946
+428,purbaya,PER,0.6251972
+428,airlangga,PER,0.97896284
+429,apbn,LAW,0.92764896
+430,purba,PER,0.5193118
+430,dana,ORG,0.44369328
+431,jakarta,GPE,0.98977906
+431,rp 15 t,MON,0.992863
+431,pramono,PER,0.8939657
+432,purba,PER,0.71905845
+432,gubernur,NOR,0.58627164
+432,indonesia,GPE,0.5942006
+432,202,CRD,0.58024025
+432,##6,CRD,0.3155172
+433,menkeu,NOR,0.63147396
+433,purba,ORG,0.33710426
+433,jakarta,GPE,0.9819162
+434,bank jakarta,ORG,0.9567238
+434,rp 20 triliun,MON,0.993773
+434,men,NOR,0.64829963
+434,##keu purba,ORG,0.5916376
+435,men,NOR,0.5355241
+435,##keu purba,ORG,0.54251856
+435,ayam penyet,PRD,0.7284704
+435,warung kaki lima,LOC,0.82242304
+436,purba,PER,0.8210416
+436,200,CRD,0.91951084
+436,rp 60 triliun,MON,0.9966674
+437,rupiah,MON,0.8880483
+437,menke,NOR,0.6548132
+437,##u purba,ORG,0.48710042
+437,agustus,DAT,0.99462515
+438,rap,LAW,0.5179332
+438,##bn 202,ORG,0.3227759
+438,##6,LAW,0.5399568
+438,menkeu,NOR,0.87318844
+438,purbaya,PER,0.47372264
+438,dpr,NOR,0.9660031
+438,rp 3. 842 triliun,MON,0.99769074
+439,men,NOR,0.7525143
+439,##keu purbaya,ORG,0.46875247
+439,dirut bank pusing,ORG,0.8202116
+439,rp 200 triliun,MON,0.99721867
+440,seto,PER,0.8026962
+440,lalu berguma,PER,0.78040105
+440,##keu,ORG,0.48372215
+440,purba,PER,0.3702023
+440,"5, 2 persen",PRC,0.99479795
+440,2025,DAT,0.98348016
+441,men,NOR,0.61978734
+441,##keu purba,ORG,0.6674139
+441,rp 200 t,MON,0.9952658
+441,6,CRD,0.9573006
+441,celios,PER,0.9146071
+442,menke,NOR,0.65849507
+442,##u,ORG,0.49926543
+442,purba,PER,0.41365543
+442,rp 200 triliun,MON,0.9963135
+442,enam,CRD,0.9473035
+442,pemerintah,NOR,0.47582725
+443,17,CRD,0.89106756
+443,8,CRD,0.9455393
+443,menkeu,NOR,0.7235389
+443,purba,PER,0.27913052
+444,purbaya,PER,0.72577417
+444,februari 2026,DAT,0.97812814
+445,dedi mulyadi,PER,0.98910123
+445,rp 1. 000,MON,0.99694
+445,purba,PER,0.9651398
+446,purbaya,PER,0.6818063
+446,apbd jakarta,LAW,0.69041324
+446,rp 20 triliun,MON,0.96437484
+446,pramono,PER,0.8437418
+447,bah,PER,0.4777158
+447,##g 3,PRD,0.43810475
+447,kg,QTY,0.38209578
+448,ray dalio,PER,0.7856226
+448,purba,PER,0.9301917
+449,dpr,NOR,0.9869669
+449,menkeu purba,NOR,0.80604345
+449,pertamina,ORG,0.87590957
+450,menkeu purba,NOR,0.76888716
+450,papan,PRD,0.67761844
+451,##keu,NOR,0.5133997
+451,ketua banggar dpr,NOR,0.90072
+451,said abdullah,PER,0.98369414
+451,apbn 2026,LAW,0.63219035
+452,purba,PER,0.7970135
+452,tax amnesty,LAW,0.5129241
+453,purbaya,PER,0.78873694
+453,dirut bank pusing,ORG,0.73921615
+453,rp 200 triliun,MON,0.9977288
+454,full,PER,0.4840723
+454,menkeu,NOR,0.6369172
+454,purbaya,PER,0.71106684
+454,sri mulyani,PER,0.99465793
+454,ri,GPE,0.44216147
+455,perdana,EVT,0.770199
+455,dpr,NOR,0.82686245
+455,menkeu purba,NOR,0.7433004
+456,menkeu,NOR,0.7414811
+456,purbaya,PER,0.5773913
+456,anggota,NOR,0.53432643
+456,dpr,NOR,0.7530972
+457,17,CRD,0.7072969
+457,8,CRD,0.8599578
+457,menkeu purba,NOR,0.6395834
+458,menkeu,NOR,0.7475732
+458,purbaya,PER,0.6889168
+458,prabowo,PER,0.9882776
+458,sri mulyani,PER,0.99168706
+459,purba,PER,0.5543908
+459,bank himbara,ORG,0.9821487
+459,rp 200 t,MON,0.9970774
+459,dollar as,MON,0.95594287
+460,purba,PER,0.90600014
+460,lo,PER,0.91442317
+461,ahok,PER,0.73504597
+462,dirjen pajak,NOR,0.6671648
+462,purba,PER,0.93166614
+463,jakarta,GPE,0.9981785
+463,rp 200 t,MON,0.95954514
+464,gubernur,NOR,0.6267411
+464,kantor purbaya,LOC,0.78788596
+465,bangun bank jakarta,ORG,0.9868991
+465,scbd,ORG,0.85540706
+465,purbaya,PER,0.7242462
+465,kemenkeu,NOR,0.5491224
+466,bahlil,PER,0.41086316
+466,##g 3,PRD,0.42566657
+466,kg,QTY,0.39703062
+467,900,CRD,0.7013011
+467,sea games,EVT,0.9773351
+467,erick thohir,PER,0.99482185
+467,men,NOR,0.6397649
+467,##keu purba,ORG,0.6111195
+468,menke,NOR,0.51249045
+468,##u,ORG,0.45663133
+468,sumitronomics,ORG,0.7309452
+468,prabowo,PER,0.9882003
+468,8 persen,PRC,0.99154204
+469,rp 200 t,MON,0.9935085
+469,menkeu,NOR,0.84102964
+469,purbaya,PER,0.3495974
+469,himbara,PER,0.88363254
+470,prabowo,PER,0.9968957
+470,menkeu purba,NOR,0.70290464
+470,kementerian,NOR,0.6433792
+471,purba,PER,0.9737654
+471,singg,PER,0.8572626
+471,menke,PER,0.43358916
+471,rp 200 t,MON,0.9960472
+471,enam,CRD,0.87438196
+471,bank himbara,ORG,0.9082239
+472,menkeu,NOR,0.8063778
+472,purba,PER,0.75774044
+472,prabowo,PER,0.99305856
+472,apbn,LAW,0.8318785
+472,dpr,NOR,0.9668363
+473,menke,NOR,0.663404
+474,menke,NOR,0.47883016
+474,##u,ORG,0.42804366
+474,purba,PER,0.62547064
+475,menkeu,NOR,0.5665464
+475,purba,PER,0.854731
+475,sby,PER,0.98006976
+475,6 persen,PRC,0.9922906
+475,jokowi,PER,0.9943364
+475,5 persen,PRC,0.98603666
+476,menkeu purba,NOR,0.70922697
+476,##ya,ORG,0.50620383
+476,17,CRD,0.57070076
+476,8,TIM,0.4772041
+477,menke,NOR,0.58428645
+477,##u,ORG,0.4642264
+477,purba,PER,0.5560057
+477,prabowo,PER,0.9922122
+477,8 persen,PRC,0.9940965
+478,menkeu,NOR,0.7613676
+478,purba,PER,0.677023
+478,kemenkes,NOR,0.8317065
+479,men,NOR,0.5102401
+479,##keu,ORG,0.58296585
+479,purbaya,PER,0.6399838
+479,anggito cs,PER,0.6974642
+480,purba,PER,0.86297756
+480,rp 7 triliun,MON,0.99710673
+480,rp 60 t,MON,0.9964033
+481,luhut,PER,0.93685466
+481,mb,PRD,0.48452067
+481,##g,ORG,0.3869654
+481,menkeu,NOR,0.7036178
+481,purba,PER,0.39550456
+482,basuki,PER,0.9968081
+482,menkeu purba,NOR,0.7485923
+482,##ya,ORG,0.5872071
+482,3,CRD,0.93257684
+483,rocky ger,PER,0.85350597
+483,kasi,PER,0.39349753
+483,purba,PER,0.89093924
+484,purba,PER,0.8861007
+484,rp 200t,MON,0.9914934
+484,6,CRD,0.95958525
+485,full,PER,0.6695528
+485,],PER,0.26150265
+485,qodari,PER,0.90161103
+485,men,NOR,0.6806574
+485,##keu,ORG,0.4984549
+485,purbaya,PER,0.6061317
+485,sri mulyani,PER,0.9824119
+485,rem,PRD,0.5762532
+486,menkeu,NOR,0.7000851
+486,purbaya,PER,0.74902314
+486,direksi,NOR,0.33032182
+486,bank bumn,ORG,0.79862964
+486,golf,ORG,0.5176343
+486,sabtu - minggu,DAT,0.8322002
+486,rp 200 triliun,MON,0.99791694
+487,prabowo,PER,0.99719465
+487,menkeu purba,NOR,0.7366502
+487,kementerian,NOR,0.57936335
+488,pertama,ORD,0.96564364
+488,dpr,NOR,0.97659636
+488,menteri keuangan,NOR,0.9478532
+488,purbaya,PER,0.91726303
+489,men,NOR,0.7002119
+489,##keu,ORG,0.6362635
+489,purbaya,PER,0.63117564
+489,17,CRD,0.9605841
+489,8,CRD,0.85371274
+489,bem ui,ORG,0.9448041
+490,puji sri mulyani,PER,0.9820999
+490,menkeu,NOR,0.8695938
+490,purbaya,PER,0.80349946
+490,kemenkeu,NOR,0.8654087
+490,indonesia,GPE,0.8059595
+491,17,CRD,0.74163836
+491,8,CRD,0.8725795
+491,menkeu,NOR,0.7023522
+491,purba,PER,0.42538482
+492,menke,NOR,0.6255011
+492,##u purbaya,ORG,0.55612874
+492,6 persen,PRC,0.9919659
+493,bank jakarta - jatim,ORG,0.87869656
+493,purba,PER,0.9630527
+493,rp 275 triliun,MON,0.9980603
+494,menkeu,NOR,0.6680818
+494,purbaya,PER,0.6838412
+494,pramono,PER,0.9087931
+494,bank himbara,ORG,0.9370323
+494,bum,NOR,0.46372885
+494,##d jakarta,ORG,0.47548717
+495,purbaya sidak,PER,0.69057333
+495,bank mandiri,ORG,0.9899977
+495,rp 200 triliun,MON,0.99791473
+496,warung kaki lima,LOC,0.8466014
+497,purba,PER,0.73292667
+498,purbaya ancam sidak bank,ORG,0.7360226
+498,rp 200 t,MON,0.99679947
+498,dollar,MON,0.9371699
+500,menkeu,NOR,0.56345254
+500,dollar,MON,0.8548234
+500,wni,ORG,0.5559249
+501,purbaya,PER,0.82465696
+501,telepon kring pajak,PRD,0.8755095
+501,core,PRD,0.7409322
+501,##x,PRD,0.4815065
+502,rocky gerung,PER,0.8691411
+502,purbaya,PER,0.7278436
+502,jokowi,PER,0.9272545
+503,sby,PER,0.99181926
+503,jokowi,PER,0.9939855
+503,20 tahun,QTY,0.9408531
+504,##keu,NOR,0.55244184
+504,purbaya,PER,0.7628703
+504,17,CRD,0.93926775
+504,8,CRD,0.6770885
+505,17,CRD,0.74816275
+505,8,CRD,0.86427844
+505,menkeu,NOR,0.7388752
+505,purba,PER,0.28683642
+505,lps,ORG,0.5894636
+506,menkeu purba,NOR,0.6234226
+506,##ya,ORG,0.34248388
+506,sri mulyani,PER,0.991739
+507,purbaya,PER,0.90648043
+507,prabowo,PER,0.99116665
+507,##keu,NOR,0.6052823
+507,sri mulyani,PER,0.99382824
+508,purba,PER,0.93841183
+508,apbn,LAW,0.86946654
+508,kereta cepat,PRD,0.92549556
+509,purba,PER,0.9356074
+510,purba,PER,0.96024454
+511,pemerintah,NOR,0.92397517
+511,rp 9. 138 triliun,MON,0.997857
+512,purbaya,PER,0.8331145
+513,pemerintah,NOR,0.9176712
+513,rp 9. 138 triliun,MON,0.9974092
+513,purba,PER,0.9428538
+514,apbn,LAW,0.50644445
+514,##ki pesantren,ORG,0.48141974
+515,purba,PER,0.8513164
+515,daerah,ORG,0.680997
+515,ojk,ORG,0.87004
+516,ri,GPE,0.6250476
+516,6 %,PRC,0.9898231
+517,purbaya,ORG,0.514531
+517,jami,PER,0.49306434
+517,##n,ORG,0.67545867
+517,apbn 2026,LAW,0.8588056
+518,dpr,NOR,0.98550713
+518,pemda,NOR,0.9337265
+519,satgas blbi,ORG,0.7656114
+520,men,NOR,0.5578163
+520,##keu purba,ORG,0.66871864
+520,rp 15 t,MON,0.99411446
+520,btn,ORG,0.9350835
+521,prabowo,PER,0.99703443
+522,202,PER,0.32102922
+522,##9,CRD,0.41485673
+523,12 %,PRC,0.98704875
+524,purbaya,PER,0.8524163
+524,rp 200 t,MON,0.9954727
+524,bank bumn,ORG,0.938477
+525,##n,PRD,0.7595699
+525,purba,PER,0.87391686
+525,rp 15 t,MON,0.9947963
+526,bp,NOR,0.31942543
+526,##js,LAW,0.35218555
+526,purba,PER,0.99099356
+527,purba,PER,0.87638944
+527,rp 15 t,MON,0.996311
+527,rp 25 t,MON,0.9954128
+527,btn,ORG,0.68046874
+528,gubernur,NOR,0.68184626
+529,purba,PER,0.5022365
+529,sebulan,QTY,0.66306734
+529,ih,PER,0.8265089
+529,##s,ORG,0.24925585
+530,bahlil,REG,0.7581777
+530,bbm,PRD,0.95868677
+530,listrik,PRD,0.5994014
+531,purba,PER,0.9730047
+531,gu,PER,0.8547888
+533,purba,PER,0.924359
+533,pasar modal,ORG,0.5979067
+534,purba,PER,0.8483142
+535,purbaya,PER,0.7497083
+536,6 %,PRC,0.9867346
+537,sebulan,QTY,0.45596987
+537,purba,PER,0.7895547
+538,purba,PER,0.89771396
+538,bpd,NOR,0.6267643
+538,ojk,ORG,0.7855622
+539,purba,PER,0.9857787
+539,bp,NOR,0.62631017
+539,##js,LAW,0.30315125
+539,kesehatan,NOR,0.3097338
+539,2026,CRD,0.37183177
+540,purba,PER,0.664312
+540,seskab tedy,ORG,0.53003216
+540,ri,GPE,0.34215027
+541,purbaya,PER,0.85467553
+541,bp,NOR,0.5467837
+541,##js,PRD,0.23024547
+542,ri,GPE,0.49202287
+543,menke,NOR,0.57868946
+543,##ll,PRD,0.59567714
+544,bos,ORG,0.5895053
+544,semp,PER,0.6076551
+544,purba,PER,0.42457694
+545,lps,ORG,0.9461659
+545,anggito abimanyu,PER,0.85585934
+545,menke,NOR,0.55668336
+545,##u,ORG,0.4087786
+545,purba,PER,0.7788318
+547,purbaya wanti,PER,0.91155267
+547,bank bumn,ORG,0.65604526
+547,rp 200 t,MON,0.99494106
+547,dolar as,MON,0.909058
+548,menke,NOR,0.5965812
+548,##u purba,ORG,0.5032227
+548,pt kertas leces,ORG,0.9728762
+549,purba,PER,0.8265234
+549,rp 7 t,MON,0.99567705
+550,purba,PER,0.6313266
+550,2,CRD,0.66261846
+551,bank dunia,ORG,0.982744
+551,ri,NOR,0.47800565
+551,purba,PER,0.98506945
+552,menkeu,NOR,0.6447832
+552,purba,PER,0.34148163
+552,##ya,ORG,0.5239697
+552,ojk,ORG,0.845211
+552,ppat,ORG,0.520137
+553,prabowo,PER,0.9936986
+553,anggito abimanyu,PER,0.91759783
+553,lps,ORG,0.83904886
+553,purba,PER,0.9426847
+554,gubernur sulsel,NOR,0.98520094
+554,menkeu purba,NOR,0.7215604
+556,purba,PER,0.9513793
+556,anggito abimanyu,PER,0.9774778
+556,ketua,NOR,0.6322192
+556,dewan komisioner lps,ORG,0.65262365
+557,purba,PER,0.8779237
+557,bursa geg,ORG,0.528198
+557,saham goreng,PRD,0.8194378
+558,das,PER,0.66284144
+558,purbaya,PER,0.87816226
+558,prasetyo,PER,0.97317415
+558,tito,PER,0.9768142
+558,dpr,NOR,0.98746234
+559,men,NOR,0.5801622
+559,##keu purba,ORG,0.5221425
+560,menkeu,NOR,0.65929693
+560,purba,PER,0.70136243
+560,26,CRD,0.9160388
+560,direktorat jenderal pajak,NOR,0.62056965
+561,26,CRD,0.81628364
+561,purba,PER,0.94861114
+562,anggito,PER,0.9187044
+562,purba,PER,0.92839783
+563,pramono,PER,0.74657106
+564,mendagri,NOR,0.94353807
+564,purba,PER,0.56714576
+565,gubernur,NOR,0.5542244
+565,kantor purbaya,ORG,0.61836666
+566,##sg,PRD,0.4246764
+566,the moon,EVT,0.36166814
+567,purba,PER,0.6708798
+567,lps,ORG,0.849851
+568,purba,PER,0.87804854
+568,rp 275 t,MON,0.9805059
+568,bi,ORG,0.8469313
+570,purbaya,PER,0.90299815
+570,balai kota jakarta,LOC,0.49328923
+571,pertamina,ORG,0.974643
+571,kilang minyak,PRD,0.49564466
+573,gubernur,NOR,0.61572784
+573,menkeu,NOR,0.5135837
+573,purba,PER,0.48522878
+574,purba,PER,0.9666171
+574,26,CRD,0.85861
+575,gubernur,NOR,0.70719784
+575,purbaya,PER,0.7968782
+576,gubernur,NOR,0.47360855
+576,purba,PER,0.93819535
+577,gubernur,NOR,0.5106809
+578,pertamina,ORG,0.8533631
+579,purba,PER,0.9271434
+579,202,DAT,0.84254575
+579,##6,CRD,0.37122995
+579,sri mulyani,PER,0.9869749
+580,gubernur aceh,NOR,0.96531475
+581,kantor,LOC,0.37679696
+581,purba,ORG,0.45094118
+582,kantor purbaya,LOC,0.7486782
+582,bobby nasution,PER,0.98170704
+583,purba,PER,0.5009542
+583,rp 200 t,MON,0.99512833
+584,purba,PER,0.7205214
+584,99 %,PRC,0.9556082
+584,muslim,REG,0.69322884
+584,ri,GPE,0.94093347
+584,china,GPE,0.95146483
+585,purba,PER,0.58198225
+585,rp 200 t,MON,0.9864645
+586,ojk,ORG,0.89902484
+586,sc,LOC,0.51046634
+586,##bd,ORG,0.5245233
+586,bank jakarta,ORG,0.9043978
+587,bank mandiri,ORG,0.9893466
+587,purba,PER,0.65621346
+588,purbaya ogah,PER,0.9451349
+588,menteri,NOR,0.56465065
+588,apbn,LAW,0.8556348
+588,3 %,PRC,0.97293663
+589,purbaya,PER,0.91993594
+589,rp 1. 000,MON,0.9972795
+589,dedi mulyadi,PER,0.98249173
+590,bank jakarta &,ORG,0.95074123
+590,bank jatim,ORG,0.76909876
+591,purba,PER,0.39743218
+591,dki,GPE,0.9343686
+591,scbd,LOC,0.7279484
+592,purba,PER,0.8491871
+592,pramono,PER,0.7631095
+592,rp 20 t,MON,0.9950293
+593,bobby nasution,PER,0.9950784
+593,kantor menteri purba,LOC,0.5518417
+593,##ya,ORG,0.6844479
+594,pramono,PER,0.9458561
+594,rp 200 t,MON,0.9928716
+594,bank,ORG,0.65960944
+594,bumd dki,NOR,0.54988223
+595,purba,PER,0.5459473
+595,sidak bank mandiri,ORG,0.78133774
+597,ayam sambel ijo,PRD,0.49487203
+597,warung kaki lima,LOC,0.77185535
+598,purba,PER,0.9813968
+598,rp 55 t,MON,0.9947469
+599,bank bumn,ORG,0.5475644
+599,rp 200 t,MON,0.99557614
+599,dolar as,MON,0.93571913
+600,luhut,PER,0.89977884
+600,purba,PER,0.952449
+600,##g,PRD,0.4025827
+601,purba,PER,0.8425034
+601,10 bulan,QTY,0.9807802
+601,prabowo,PER,0.98009974
+602,purbaya,PER,0.8491771
+602,dik,NOR,0.5178166
+602,##te bank bumn,ORG,0.64383507
+602,bunga deposito valas,PRD,0.7754449
+602,4 %,PRC,0.9761237
+603,purba,PER,0.50261277
+604,luhut,PER,0.8841274
+604,mbg,PRD,0.50083864
+605,purba,PER,0.96854085
+606,luhut,PER,0.9538017
+606,purba,PER,0.8948466
+607,basuki,PER,0.9893054
+607,purba,PER,0.673545
+608,purba,PER,0.91575533
+608,basuki,PER,0.993954
+609,purba,PER,0.8345376
+610,mens,NOR,0.5090313
+610,pemda,NOR,0.93540657
+612,menkeu purbaya,ORG,0.55077773
+612,2,CRD,0.5092373
+612,3 bulan,QTY,0.4512993
+612,indonesia,GPE,0.92250943
+613,luhut,PER,0.83609515
+613,mbg,ORG,0.44971418
+613,purba,PER,0.96642345
+614,menkeu,NOR,0.82434916
+614,australia,ORG,0.48896372
+614,puji,PER,0.7738108
+614,kang,PER,0.5777509
+614,##aroo bond,PER,0.329586
+615,purba,PER,0.40133402
+616,purbaya,PER,0.68386734
+616,basuki,PER,0.994224
+616,ik,ORG,0.2619396
+616,kemensetneg,NOR,0.81063926
+617,pemerintah,NOR,0.96440613
+618,purba,PER,0.89084935
+618,oktober,DAT,0.9856836
+619,purba,PER,0.73488414
+620,purba,PER,0.97867566
+620,##g,PRD,0.35473973
+621,men,NOR,0.62220097
+621,ri,GPE,0.43572593
+622,menkeu purba,NOR,0.77412426
+622,basuki,PER,0.99338174
+624,purbaya,PER,0.83009005
+625,men,NOR,0.7389959
+625,##keu purbaya,ORG,0.6176919
+626,rokok,PRD,0.43284947
+626,2026,CRD,0.36389247
+627,purbaya,PER,0.65713084
+627,sebulan,QTY,0.32124126
+629,purba,PER,0.9335432
+629,lpg 3,PRD,0.6590684
+629,kg,QTY,0.3898324
+630,airlangga,PER,0.97828203
+630,purbaya,PER,0.87711227
+630,yassierli,PER,0.96999013
+630,kantor,LOC,0.5129779
+630,danantara,ORG,0.5986252
+631,purba,PER,0.85671675
+631,rokok,PRD,0.6215509
+631,menak,PER,0.68574256
+632,rokok,PRD,0.48717567
+633,lpg 3,PRD,0.66541684
+633,kg,QTY,0.48938665
+634,bbm,PRD,0.9428926
+634,purbaya,PER,0.71691763
+635,ray dalio,PER,0.9781324
+635,purba,PER,0.91359895
+635,tik,EVT,0.25727648
+635,##to,ORG,0.3149052
+636,purba,PER,0.90404975
+637,lpg 3kg,PRD,0.87365085
+638,bahlil,PER,0.4981967
+638,lpg 3 kg,PRD,0.46450362
+640,purbaya sidak,PER,0.71054035
+640,kantor bni,ORG,0.83016616
+642,kemenperin,NOR,0.9161384
+642,happy purbaya,PER,0.9123815
+643,3,CRD,0.9458233
+643,202,DAT,0.5388436
+643,##8,CRD,0.52131706
+644,asosiasi e - commerce happy purbaya,ORG,0.96510834
+645,bahlil tuding purba,PER,0.6364959
+645,lpg melon 3,PRD,0.79994535
+645,kg,QTY,0.4782008
+646,ketua komisi xi dpr,NOR,0.96999085
+646,purba,PER,0.97920996
+647,bahlil,PER,0.3131576
+647,lpg 3 kg,PRD,0.67851794
+647,purba,PER,0.5860382
+648,bahlil duga purba,PER,0.76711285
+648,lpg 3 kg,PRD,0.80793303
+649,menkeu,NOR,0.64542115
+649,purba,PER,0.6020107
+649,lpg 3 kg,PRD,0.59499204
+649,bahlil,PER,0.9216145
+650,menkeu,NOR,0.795499
+650,purbaya,PER,0.5091454
+650,surabaya,GPE,0.9961073
+651,men,NOR,0.5023395
+651,##keu purba,ORG,0.68746775
+651,2026,DAT,0.9215634
+652,purba,PER,0.884967
+652,lpg 3 kg,PRD,0.7031418
+652,bahlil,PER,0.86832404
+653,men,NOR,0.5979101
+653,##keu purbaya,ORG,0.6758796
+654,purbaya,PER,0.71979964
+655,bbm,PRD,0.9785719
+655,men,NOR,0.5203111
+655,##u purba,ORG,0.4510696
+655,rp 10 ribu,MON,0.9971006
+656,purba,PER,0.9307362
+656,202,QTY,0.33817816
+656,##6,CRD,0.23043677
+656,rokok,PRD,0.5287029
+657,purbaya,PER,0.84554774
+658,asosiasi e - commerce,ORG,0.79179853
+660,men,NOR,0.55882627
+660,##keu,ORG,0.51800036
+660,lpg 3 kg,PRD,0.8804302
+661,rp 200,MON,0.98712444
+661,pemerintah,NOR,0.84195787
+662,purbaya bantah,PER,0.93324596
+662,bank bumn,ORG,0.66998494
+662,bunga deposito valas,PRD,0.7604404
+662,4 %,PRC,0.9768376
+663,sri mulyani,PER,0.99162555
+663,purba,PER,0.816115
+663,kemenkeu,NOR,0.8683557
+664,menkeu,NOR,0.7172022
+664,purba,PER,0.4104124
+664,kerja,EVT,0.5773119
+664,dpr,NOR,0.96957135
+666,purba,PER,0.59745604
+666,ri,NOR,0.63682276
+666,minyak,PRD,0.72583497
+667,purba,PER,0.89717406
+667,bbm,PRD,0.900367
+668,purba,PER,0.697802
+668,lpg 3kg,PRD,0.88721544
+669,purba,PER,0.45856273
+669,bank bumn,ORG,0.7863414
+670,rokok,PRD,0.48630548
+670,kemenperin,NOR,0.79989976
+671,rokok,PRD,0.37145054
+671,petani,ORG,0.65290827
+673,purbaya,PER,0.75641215
+673,kemenkeu,NOR,0.90093046
+674,sri mulyani,PER,0.9793171
+675,purba,PER,0.83935595
+675,mb,LAW,0.20404348
+675,##g,ORG,0.23098125
+676,purba,PER,0.80924404
+677,purba,PER,0.74785304
+677,rupiah,MON,0.96975344
+677,dolar as,MON,0.9883511
+678,menteri,NOR,0.41560218
+678,purba,PER,0.48208922
+678,rokok,PRD,0.4429449
+678,2026,CRD,0.37798983
+679,prabowo,PER,0.9948666
+679,ahy,PER,0.7365295
+679,purba,PER,0.77397233
+679,3,CRD,0.31848678
+680,men,NOR,0.44749525
+680,##keu,ORG,0.57883763
+680,lpg 3,PRD,0.6244073
+680,kg,QTY,0.41845715
+682,men,NOR,0.6477103
+682,rokok,PRD,0.45649847
+683,##keu,ORG,0.5727086
+683,purba,PER,0.73046035
+683,##ya,ORG,0.5375578
+683,yudhi sadewa,PER,0.90513664
+683,sri mulyani,PER,0.99301696
+684,luhut,PER,0.88734514
+684,sri mulyani,PER,0.99207777
+684,purbaya,PER,0.95184416
+684,menteri keuangan,NOR,0.9280383
+685,purbaya yudhi sadewa,PER,0.8611104
+685,prabowo,PER,0.99769837
+686,menkeu,NOR,0.5385168
+686,cia,NOR,0.23256257
+687,menke,NOR,0.6610619
+687,cia,NOR,0.25618795
+688,luhut,PER,0.7396081
+688,purba,PER,0.67117023
+688,sri mulyani,PER,0.98396057
+689,menkeu,NOR,0.78570575
+689,purbaya,PER,0.7044229
+689,prabowo,PER,0.9938525
+689,kerja perdana,EVT,0.65979224
+689,dpr,NOR,0.96179605
+690,purbaya,PER,0.85861075
+691,andi arief,PER,0.9965749
+691,menkeu,NOR,0.75752324
+691,purba,PER,0.33461353
+691,empat,CRD,0.8603889
+692,menkeu,NOR,0.72888017
+692,purba,PER,0.5141179
+693,purba,PER,0.95714027
+693,##keu,NOR,0.55910325
+693,indonesia,GPE,0.859197
+694,purbaya yudhi sadewa,PER,0.8922801
+694,prabowo,PER,0.99789387
+695,purbaya,PER,0.89062357
+696,purbaya,PER,0.8879241
+696,sri mulyani,PER,0.97242624
+697,purbaya,PER,0.69572866
+697,2,QTY,0.8203766
+697,3 bulan,QTY,0.78069425
+697,indonesia,GPE,0.8837027
+698,purba,PER,0.4766759
+699,purba,PER,0.9250711
+700,purba,PER,0.9543387
+701,menke,NOR,0.58251464
+701,##u,ORG,0.45823547
+701,purba,PER,0.70878077
+702,menkeu,NOR,0.6604576
+702,purbaya,PER,0.5917785
+702,prabowo,PER,0.98921025
+702,17,CRD,0.8707793
+702,8,CRD,0.6734846
+703,ketua mui,NOR,0.9165772
+703,menkeu purba,NOR,0.6074189
+704,purbaya yudhi,PER,0.8109589
+704,sri mulyani,PER,0.9938324
+705,purbaya,PER,0.9535471
+705,kemenkeu,NOR,0.8639191
+705,prabowo,PER,0.9941268
+705,sri mulyani,PER,0.988118
+706,purbaya yudhi sadewa,PER,0.9719179
+706,istana jelang reshuffle,LOC,0.85993725
+707,purbaya yudhi sadewa,PER,0.9543738
+707,menteri keuangan,NOR,0.9616277
+707,sri mulyani,PER,0.9954731
+708,ulama jatim,ORG,0.6330383
+708,men,NOR,0.60555047
+708,##u,ORG,0.41950348
+708,purba,PER,0.399704
+709,purba,PER,0.84096307
+710,purba,PER,0.902754
+710,17,CRD,0.86312574
+710,8,CRD,0.7555866
+711,menkeu,NOR,0.6436147
+711,purba,PER,0.47540572
+711,apbn,LAW,0.7565498
+711,3 %,PRC,0.98699033
+712,purbaya yudhi sadewa,PER,0.9710679
+712,sri mulyani,PER,0.9899607
+712,menteri keuangan,NOR,0.9431977
+713,men,NOR,0.5102634
+713,purba,PER,0.6653848
+714,sri mulyani,PER,0.9940888
+714,purbaya,PER,0.9393935
+714,lps,ORG,0.83483106
+715,menkeu,NOR,0.65522
+715,17,CRD,0.930949
+715,8,CRD,0.88208544
+715,purba,PER,0.9893138
+716,menke,NOR,0.5682485
+716,##u,ORG,0.41790238
+716,8 %,PRC,0.9872495
+717,menkeu,NOR,0.76515967
+717,purbaya,PER,0.5340454
+717,17,CRD,0.9227469
+717,8,CRD,0.61607414
+718,purbaya yudhi sadewa,PER,0.9543738
+718,menteri keuangan,NOR,0.9616277
+718,sri mulyani,PER,0.9954731
+719,purba,PER,0.86131513
+719,sby,PER,0.991385
+719,prabowo,PER,0.986655
+720,demokrat,NOR,0.9840136
+720,men,NOR,0.48520213
+721,ihsg,ORG,0.4642831
+721,sri mulyani,PER,0.9784358
+721,purba,PER,0.41249326
+722,purbaya,PER,0.83069795
+722,krisis,EVT,0.53953207
+722,1997,DAT,0.96277416
+722,1998,DAT,0.4848664
+723,menkeu,NOR,0.6554597
+723,purba,ORG,0.30472177
+723,17,CRD,0.8616696
+723,8,CRD,0.8830385
+724,"3, 5 jam",QTY,0.9593592
+725,purbaya,PER,0.7173626
+726,ih,PRD,0.36865857
+726,15 tahun,QTY,0.98282564
+727,purbaya yudhi sadewa,PER,0.90619797
+727,sri mulyani,PER,0.9949359
+728,sri mulyani,PER,0.9915938
+728,menkeu,NOR,0.86500216
+728,purbaya,PER,0.7253909
+729,sri mulyani,PER,0.99602383
+729,menkeu,NOR,0.69412136
+729,purba,PER,0.8391248
+730,menkeu,NOR,0.8833878
+730,purba,PER,0.4246601
+731,kelak,PER,0.6270083
+731,##ar purbaya,PER,0.6043455
+731,menkeu,NOR,0.60681576
+732,menkeu,NOR,0.6415017
+733,purba,PER,0.66850907
+734,purbaya yudhi sadewa,PER,0.9543738
+734,menteri keuangan,NOR,0.9616277
+734,sri mulyani,PER,0.9954731
+735,menke,NOR,0.5077909
+735,##u,ORG,0.51911306
+735,purba,PER,0.6742917
+736,sri mulyani,PER,0.98786324
+736,purbaya,PER,0.76218736
+736,yudhi sadewa,PER,0.8799027
+737,purbaya yudhi sadewa,PER,0.984217
+737,menkeu,NOR,0.83631444
+737,sri mulyani,PER,0.9887951
+738,purba,PER,0.82316566
+738,yudhi sadewa,PER,0.9469813
+739,purbaya,PER,0.6973849
+739,sri mulyani,PER,0.9908417
+739,rapbn 2026,LAW,0.73508483
+740,menkeu,NOR,0.76039475
+740,dpr,NOR,0.98642933
+741,purba,PER,0.9738728
+741,8 %,PRC,0.98603153
+742,purbaya,PER,0.9291471
+742,##keu,NOR,0.5293222
+743,purbaya yudhi,PER,0.9646651
+743,dewan komisioner lps,ORG,0.5867931
+743,sri mulyani,PER,0.99596554
+744,kemenkeu,LOC,0.3162556
+744,menke,NOR,0.47481883
+744,##u,ORG,0.47875702
+744,purba,PER,0.40316278
+746,purba,PER,0.9446724
+746,menkeu,NOR,0.83874726
+746,indonesia,GPE,0.9599161
+748,purbaya,PER,0.86835563
+748,prabowo,PER,0.9901025
+748,rp 200 triliun,MON,0.9971128
+748,bank,ORG,0.5176262
+749,pr,NOR,0.69296753
+749,men,ORG,0.38442636
+749,##ke,NOR,0.57573473
+749,##u,ORG,0.5362241
+749,purba,PER,0.450187
+749,underground economy,PRD,0.6100305
+750,airlangga,PER,0.99003136
+750,bi,ORG,0.7457963
+750,hadir,PER,0.7955093
+750,menkeu,NOR,0.6990184
+750,purba,PER,0.8525957
+751,sri mulyani,PER,0.9787938
+751,purbaya yudhi sadewa,PER,0.90449554
+752,sri mulyani,PER,0.9013466
+752,purbaya yudhi sadewa,PER,0.8850698
+753,purdue university,ORG,0.8803048
+753,men,NOR,0.4471079
+753,##keu purbaya,ORG,0.5047024
+754,ferry,PER,0.99689686
+754,purba,PER,0.87492913
+754,##des merah putih,PRD,0.51322097
+755,sumitronomics,ORG,0.7203032
+756,purba,PER,0.8271823
+756,rocky,PER,0.97942
+756,6 %,PRC,0.98751545
+758,purba,PER,0.47339597
+758,menkeu,NOR,0.5970742
+759,sri mulyani,PER,0.98923224
+759,menkeu,NOR,0.85412645
+759,purbaya yudhi,PER,0.97304714
+760,sumitro,PRD,0.5258516
+760,##nom,ORG,0.4889622
+760,##ics,PRD,0.56556386
+760,8 %,PRC,0.9871243
+761,djarum,ORG,0.9806495
+761,gudang garam,ORG,0.9415076
+761,purba,PER,0.98270434
+763,plt bos lps,ORG,0.766829
+763,purba,PER,0.9858802
+764,anggito abimanyu,PER,0.9643853
+764,ketua lps,ORG,0.7676291
+764,purba,PER,0.96218777
+765,purbaya want,PER,0.83964235
+766,apbn,LAW,0.95677066
+766,prabowo,PER,0.99321026
+766,purba,PER,0.98742676
+767,menke,NOR,0.6639554
+767,##u,ORG,0.4817471
+767,purba,PER,0.8468722
+767,81,CRD,0.8270081
+767,"rp 5, 1 t",MON,0.9888735
+768,purbaya,PER,0.73617625
+768,rocky gerung,PER,0.6994137
+768,6 %,PRC,0.9859587
+769,bos bgn,ORG,0.68138105
+769,purba,PER,0.986166
+769,rp 28 triliun,MON,0.9978029
+770,84,CRD,0.7083621
+770,"rp 5, 1 t",MON,0.98946923
+771,##u,ORG,0.49728492
+771,purba,PER,0.68481535
+772,pns,ORG,0.5901304
+772,keputusan,LAW,0.45712835
+773,purba,PER,0.85172665
+774,kala,PER,0.58019394
+774,purba,ORG,0.37084076
+774,##ty,ORG,0.28641993
+775,prabowo,PER,0.9972344
+775,apbn,LAW,0.9142123
+776,rokok,PRD,0.42701942
+776,202,DAT,0.20927002
+776,##6,MON,0.4621913
+776,purba,PER,0.5891795
+777,anggito,PER,0.92964786
+777,ketua lps,ORG,0.747443
+777,purba,PER,0.9750158
+777,wamenkeu,ORG,0.84571886
+778,ketua banggar,NOR,0.5822457
+778,dpr,NOR,0.8343795
+778,##ke,NOR,0.3186138
+778,purba,PER,0.85074824
+779,purba,PER,0.93557805
+779,kepala bgn,ORG,0.8811303
+780,hot,PER,0.7964171
+780,##man,ORG,0.4348776
+780,paris,PER,0.49538806
+780,bunga deposit,PRD,0.5584469
+781,purbaya,PER,0.8722817
+781,amnesty,ORG,0.39808363
+782,menkeu,NOR,0.79125357
+782,dpr,NOR,0.98720855
+783,purbaya,PER,0.86800385
+783,17,CRD,0.96948785
+783,8,CRD,0.9808421
+784,dpr,NOR,0.98071563
+785,menkeu purba,NOR,0.66963404
+785,##ya,ORG,0.38423628
+785,17,CRD,0.9819074
+785,8,CRD,0.9895516
+786,menkeu purba,NOR,0.6424958
+786,##ya,ORG,0.40738618
+786,17,CRD,0.9070844
+786,8,CRD,0.9822689
+787,dpr,NOR,0.8172665
+787,purba,PER,0.8273661
+787,2,QTY,0.75406915
+788,3,CRD,0.8225814
+788,purba,PER,0.7854686
+788,sri mulyani,PER,0.99199444
+789,menke,NOR,0.74249256
+789,##u,ORG,0.48664248
+789,purba,PER,0.647151
+789,kemenkeu,NOR,0.76689464
+789,"rp 52, 016 t",MON,0.97443056
+789,202,CRD,0.5510362
+789,##6,MON,0.45440102
+790,purba,PER,0.5900892
+790,6 %,PRC,0.9851322
+791,tokoh,NOR,0.7448005
+791,nu jatim,NOR,0.5440342
+791,menkeu,NOR,0.747267
+791,purba,PER,0.40133905
+792,dpr,NOR,0.964736
+792,purbaya,PER,0.7420638
+792,prabowo,PER,0.99669987
+793,purba,PER,0.85963494
+793,prabowo,PER,0.98678243
+793,sri mulyani,PER,0.99315387
+794,menke,NOR,0.49743578
+794,##u,ORG,0.49271467
+794,purba,PER,0.28326204
+794,ri,GPE,0.8570738
+794,6 %,PRC,0.9886704
+795,8 %,PRC,0.9879019
+796,s1 teknik elektro,ORG,0.5252982
+796,s3,PRD,0.19524358
+796,menkeu,ORG,0.5858348
+796,purba,PER,0.7569402
+796,sri mulyani,PER,0.9864161
+797,menkeu,NOR,0.6314692
+797,purba,PER,0.5053773
+797,prabowo,PER,0.9958851
+797,rp 200 triliun,MON,0.9966938
+797,bank,ORG,0.5086497
+798,purba,PER,0.9483244
+798,med,LOC,0.33339426
+799,2 hari,QTY,0.6800238
+800,purba,PER,0.96504766
+801,purba,PER,0.83039445
+802,purbaya,PER,0.71854293
+803,menke,NOR,0.5910597
+803,##u purba,ORG,0.41794935
+803,sri mulyani,PER,0.99378777
+804,mek,PER,0.52427375
+804,##u,NOR,0.3087089
+805,purbaya,PER,0.7413169
+805,ketua lps,ORG,0.7291727
+805,menkeu,NOR,0.56667525
+806,ihsg,PRD,0.578676
+806,15 tahun,QTY,0.97716725
+807,menke,NOR,0.5715723
+807,##u,ORG,0.40879974
+807,purba,PER,0.47835132
+807,17,CRD,0.9144433
+807,8,CRD,0.9670747
+808,purbaya yudhi sadewa,PER,0.92872024
+808,keris,PRD,0.7440138
+809,purba,PER,0.95045173
+809,rp 200 t,MON,0.9935305
+810,purba,PER,0.48713613
+810,ri,GPE,0.45588624
+810,trump,PER,0.87286544
+810,cs,ORG,0.3215011
+811,sri mulyani,PER,0.99440795
+811,menkeu purba,NOR,0.75298685
+811,sby,PER,0.99092555
+811,jokowi,PER,0.99358267
+813,prabowo,PER,0.9953976
+813,sri mulyani,PER,0.99409556
+813,purba,PER,0.9803823
+814,purba,PER,0.94894034
+814,apbn,NOR,0.23903401
+814,mb,PRD,0.45415422
+814,kopdes merah putih,PRD,0.65116394
+815,komisi xi dpr,NOR,0.9739272
+815,menkeu,NOR,0.6752406
+815,purbaya,PER,0.48417184
+815,srim,PER,0.7690059
+816,perdana,EVT,0.53811026
+816,dpr,NOR,0.9670702
+816,purba,PER,0.9829653
+816,kemenkeu,NOR,0.6673865
+816,"rp 52, 016 t",MON,0.971303
+816,202,CRD,0.5325267
+816,##6,MON,0.48505887
+817,purba,PER,0.56869376
+817,coretax,LOC,0.62995154
+817,1 bulan,QTY,0.9555675
+818,sri mulyani,PER,0.98824435
+818,purba,PER,0.95876807
+818,ri,GPE,0.8498106
+819,menkeu,NOR,0.7806499
+819,baru purbaya,PER,0.7576925
+819,rp 30 m,MON,0.9969495
+819,rp 39 m,MON,0.99684054
+820,purba,PER,0.9177237
+822,waka komisi xi sambut,NOR,0.70599574
+822,menkeu,NOR,0.5742637
+822,purba,PER,0.37199962
+823,purbaya yudhi sadewa,PER,0.87498045
+823,sri mulyani,PER,0.9870979
+823,##keu,NOR,0.49072725
+824,wamenkeu,ORG,0.760861
+824,anggito,PER,0.924826
+824,ketua lps,ORG,0.5831596
+824,purba,PER,0.98260903
+825,prabowo,PER,0.9962011
+825,purbaya yudhi,PER,0.9771508
+825,##hil,PER,0.5815482
+825,anzar,PER,0.86329937
+826,200,CRD,0.81897193
+826,rp 60 t,MON,0.9874827
+827,prabowo,PER,0.9717226
+827,purba,PER,0.960651
+827,menteri keuangan,NOR,0.89461404
+828,wamenkeu,ORG,0.86510044
+828,anggito,PER,0.92495245
+828,ketua lps,ORG,0.68907803
+828,purbaya,PER,0.9049804
+829,purba,PER,0.8820572
+829,rp 39 m,MON,0.9941969
+829,mukhtarudin,PER,0.99057126
+829,rp 16 m,MON,0.9074187
+831,purbaya,PER,0.6597501
+831,tokopedia cs,ORG,0.77975774
+832,hotman paris,PER,0.63711303
+832,bunga deposit,PRD,0.7043593
+833,3 juta,CRD,0.94079375
+833,purba,PER,0.71900815
+833,10 %,PRC,0.98537886
+834,apbn,LAW,0.9213393
+834,"rp 321, 6 t",MON,0.97748315
+834,agustus,DAT,0.89680046
+835,"rp 7, 5 juta",MON,0.9982551
+835,purba,PER,0.9883836
+836,saham gudang garam,ORG,0.8860578
+836,sampoerna,ORG,0.78114027
+836,purba,PER,0.821395
+837,sultan hb x,PER,0.76501197
+837,menteri,NOR,0.50272113
+837,purba,PER,0.81764936
+837,##ya,PER,0.47894272
+837,cs,ORG,0.27850962
+838,purbaya,PER,0.66329163
+839,kpk,NOR,0.9851894
+839,menkeu,NOR,0.6188515
+839,purba,ORG,0.30451217
+839,rp 60 t,MON,0.9948186
+839,200,CRD,0.6209419
+840,"5, 12 %",PRC,0.99349403
+841,purba,PER,0.73915523
+841,bank,ORG,0.6815847
+841,rp 200 t,MON,0.9933533
+842,ferry,PER,0.9909009
+842,##des merah putih,PRD,0.49852452
+842,menke,NOR,0.7105551
+842,##u purba,ORG,0.47831547
+843,2026,DAT,0.8815171
+844,2,CRD,0.54828113
+845,anggito,PER,0.9290728
+845,ketua lps,ORG,0.8033944
+845,wamenkeu,ORG,0.74023086
+846,200,CRD,0.80658543
+846,rp 300 miliar,MON,0.99704075
+847,purba,PER,0.69316906
+847,200,CRD,0.80127895
+847,rp 60 t,MON,0.9896195
+848,bansos beras,PRD,0.90757966
+848,minyak,PRD,0.9454695
+849,anggito abimanyu,PER,0.9083994
+849,dirjen haji & umrah,NOR,0.73894256
+849,purba,PER,0.8940168
+849,lps,ORG,0.7692672
+850,purbaya,PER,0.83878773
+850,rp 200 t,MON,0.9931283
+851,200,CRD,0.84172225
+851,rp 60 t,MON,0.98803383
+852,anggito abimanyu,PER,0.88133687
+852,ugm,ORG,0.77050966
+852,purbaya yudha sadewa,PER,0.8193151
+852,lps,ORG,0.8598896
+853,apbn,LAW,0.92766345
+853,"rp 321, 6 t",MON,0.9725785
+853,agustus 2025,DAT,0.915601
+854,200,CRD,0.81470275
+854,rp 60 triliun,MON,0.9966844
+855,anggito,PER,0.96386206
+855,ketua lps,ORG,0.629342
+855,purbaya,PER,0.8019372
+855,prabowo,PER,0.99627566
+856,men,NOR,0.33476782
+856,##u,ORG,0.3693833
+856,purba,PER,0.43200827
+856,bahlil,PER,0.7004709
+857,core,ORG,0.25091547
+857,##ta,EVT,0.38703623
+857,1,QTY,0.5043655
+857,purba,PER,0.88431585
+859,menkeu,NOR,0.7507396
+859,rokok,PRD,0.41643953
+859,57 %,PRC,0.9704633
+859,firaun lu,PER,0.5675107
+860,57 persen,PRC,0.98243624
+860,firaun lu,PER,0.79929614
+861,imf,ORG,0.5613631
+861,ri,NOR,0.315722
+861,"4, 8 %",PRC,0.99330294
+862,anggito,PER,0.7457498
+862,lps,ORG,0.8749497
+863,purba,PER,0.9464145
+863,"5, 12 %",PRC,0.9918797
+864,ojk,ORG,0.70202684
+864,kemenkeu,NOR,0.66034573
+865,tax amnes,PRD,0.53726244
+865,##ty,EVT,0.34165695
+865,menkeu,NOR,0.7022385
+865,purba,PER,0.5717179
+866,dpr,NOR,0.99303883
+866,menkeu,NOR,0.71379524
+866,purbaya,PER,0.6697365
+867,bos pajak anc,ORG,0.47344294
+867,13,CRD,0.9293654
+868,tax amnesty jilid,LAW,0.39652798
+868,3,ORD,0.3194079
+868,menkeu,NOR,0.64757437
+868,purba,PER,0.6587437
+869,firaun lu,PER,0.49319857
+870,menkeu,NOR,0.68725324
+870,purba,PER,0.55056447
+870,tax amnesty jilid,EVT,0.74977124
+870,iii,ORD,0.35321185
+871,purba,PER,0.5882878
+871,kring pajak,PRD,0.66725326
+871,singg,PER,0.7754068
+872,pph sektor pariwisata,LAW,0.6349247
+873,bank jakarta,ORG,0.98943424
+873,rp 20 t,MON,0.98716
+873,pemerintah pusat,NOR,0.91844034
+874,bank jakarta,ORG,0.98370737
+874,bank jatim,ORG,0.9548888
+874,bj,PER,0.5079995
+874,##b,ORG,0.7520583
+874,pemerintah,NOR,0.8956301
+875,apbn,LAW,0.72292566
+875,2026,MON,0.5842867
+875,purba,PER,0.9025115
+876,men,NOR,0.6484647
+876,##keu purba,ORG,0.5107656
+876,cic,PRD,0.45300803
+876,##ip,ORG,0.40166909
+876,soto kudus,PRD,0.6578364
+876,gara,PRD,0.5589839
+877,prabowo,PER,0.99574596
+877,purba,PER,0.97518253
+877,##p proyek agrinas,PRD,0.45581526
+877,papua,GPE,0.99727196
+878,purbaya,PER,0.8688727
+878,telepon kring pajak,PRD,0.94024307
+878,core,ORG,0.349601
+878,##tax,PRD,0.5089982
+879,prabowo,PER,0.99587446
+879,purba,PER,0.673587
+879,kementerian,NOR,0.5815604
+880,rokok,PRD,0.37780222
+880,57 %,PRC,0.9842496
+881,telepon kring pajak,PRD,0.83776844
+881,coretax,ORG,0.566671
+881,purba,PER,0.5205006
+882,purbaya,PER,0.75336796
+882,tax amnesty jilid,LAW,0.51869774
+882,iii,ORD,0.48334923
+883,purba,PER,0.8273745
+883,telepon kring pajak,PRD,0.8101659
+883,core,ORG,0.4235245
+883,##tax,PRD,0.4639539
+884,gubernur,NOR,0.6295084
+884,mendagri,NOR,0.9305947
+885,anggito,PER,0.948648
+885,lps,ORG,0.70670235
+885,prabowo,PER,0.99746835
+885,wamenkeu,PRD,0.6049562
+886,rokok,PRD,0.31584802
+886,57 persen,PRC,0.9734638
+886,menkeu,NOR,0.7351496
+886,purba,PER,0.30935964
+887,purbaya,PER,0.80451435
+887,soeharto,PER,0.55979943
+888,purba,PER,0.5210757
+888,apbn,LAW,0.70220125
+889,ketua komisi xi dpr,NOR,0.9451631
+889,menkeu,NOR,0.8569443
+889,purba,PER,0.9127409
+890,kopdar,PRD,0.4255964
+891,purba,PER,0.876795
+891,rp 693 triliun,MON,0.9983493
+892,banggar dpr,NOR,0.64807826
+892,menkeu,NOR,0.92023116
+892,purba,PER,0.37489247
+892,rapbn 2026,LAW,0.8747618
+893,zulhas,PER,0.9796629
+893,2 jam,QTY,0.9284601
+894,purba,PER,0.83847654
+894,kib,PER,0.44540912
+895,purba,PER,0.71955436
+895,satgas blbi,ORG,0.8524454
+896,tarik dolar,PRD,0.44048917
+897,purba,PER,0.56111944
+898,uu keuangan negara,LAW,0.95941335
+899,menke,NOR,0.51994866
+899,##u,ORG,0.53845847
+899,purba,NOR,0.2978438
+899,kring pajak,ORG,0.60232466
+900,purbaya,PER,0.8133077
+900,rp 200 t,MON,0.9929285
+901,purbaya,PER,0.7751664
+901,kib,PER,0.9157944
+902,dirut bank,ORG,0.6597618
+903,dua,CRD,0.97933847
+903,purba,PER,0.9239121
+903,bank,ORG,0.53848714
+904,purbaya,PER,0.92016804
+904,menkeu,NOR,0.5908533
+904,tutut soeharto,PER,0.84066945
+905,djp,ORG,0.7513319
+905,200,CRD,0.89920026
+906,anwar hafid,PER,0.984472
+907,purba,PER,0.8669592
+907,rp 623 t,MON,0.99214303
+908,sultan hb x,PER,0.9705966
+909,purba,PER,0.871739
+910,rokok,PRD,0.513278
+910,202,DAT,0.3195723
+910,##6,CRD,0.559993
+912,menkeu,NOR,0.7742898
+912,purbaya,PER,0.6953053
+912,tutut,PER,0.71319777
+912,soeharto,PER,0.78532666
+912,ptun,ORG,0.9372302
+913,dpr,NOR,0.9847482
+913,bansos,PRD,0.7864167
+913,minyak goreng,PRD,0.7216844
+913,2 liter,QTY,0.6033059
+914,ptun,ORG,0.96772325
+914,menkeu purba,NOR,0.6022773
+914,bu tutut,PER,0.9449093
+915,bos bgn,ORG,0.79637975
+915,purba,PER,0.6836363
+916,mens,NOR,0.6424756
+916,menkeu,NOR,0.8254959
+916,ses,NOR,0.59731495
+916,das,PER,0.41215453
+916,##co,EVT,0.32009518
+916,dpr,NOR,0.98827654
+917,200,CRD,0.92365193
+918,pemprov sumut,NOR,0.93392676
+918,202,DAT,0.71183324
+918,##6,MON,0.9861248
+918,"rp 1, 1 t",MON,0.99134177
+919,bah,PER,0.42139688
+919,##lil,REG,0.19806135
+919,lpg 3 kg,PRD,0.7658385
+919,men,NOR,0.6898726
+919,##keu purba,ORG,0.5439338
+920,purba,PER,0.76490057
+920,prabowo,PER,0.99372274
+920,kementerian,NOR,0.85296
+921,sri mulyani,PER,0.97635883
+921,purbaya,PER,0.8016422
+922,purba,PER,0.9099591
+922,bi,ORG,0.96124333
+922,uu p2sk,LAW,0.96219677
+923,purba,PER,0.9045642
+923,kementerian,NOR,0.5870028
+924,cua,ORG,0.30764863
+925,gubsu,NOR,0.44068024
+925,bobby,PER,0.969872
+925,gubernur aceh mualem,NOR,0.9465172
+925,jakarta,GPE,0.9936593
+926,anggito abimanyu,PER,0.9731512
+926,wamenkeu,ORG,0.8590315
+926,lps,ORG,0.96205956
+927,rp 200 t,MON,0.99060684
+928,bri,ORG,0.89857507
+928,"rp 35, 75 t",MON,0.99631035
+928,pemerintah,NOR,0.71246135
+929,kemenkeu,NOR,0.82129
+929,world bank,ORG,0.96837485
+929,ri,GPE,0.5666569
+929,5 %,PRC,0.98412216
+930,lima,CRD,0.9488768
+930,rp 200 t,MON,0.9952295
+931,purba,PER,0.9122833
+932,pemerintah,NOR,0.96947217
+932,apbn,LAW,0.75650513
+932,##des merah putih,PRD,0.43635288
+933,menteri keuangan,NOR,0.903741
+933,purba,PER,0.98114
+934,menkeu,NOR,0.8781902
+934,purba,PER,0.624627
+934,kementerian,NOR,0.93579084
+934,belanja,NOR,0.9236087
+934,oktober,DAT,0.9833415
+935,lp,NOR,0.65036285
+935,##s,ORG,0.60679924
+935,presiden,NOR,0.74066645
+935,dpr,NOR,0.9525826
+935,ruu p2sk,LAW,0.9138002
+935,purba,PER,0.9843492
+936,purba,PER,0.9177909
+936,uu p2sk,LAW,0.9411033
+936,2 tahun,QTY,0.9524729
+937,purba,PER,0.97711617
+938,bobby nasution,PER,0.98636377
+938,jakarta,GPE,0.99190664
+939,purba,PER,0.8770913
+939,tim akselerasi,ORG,0.89444387
+939,prabowo,PER,0.9177923
+940,purbaya,PER,0.8096383
+941,purbaya singgung bank malas,ORG,0.81954765
+941,untung gede,PER,0.8457067
+942,purbaya,ORG,0.5193206
+942,bank,ORG,0.5243641
+942,rp 200 t,MON,0.9839404
+944,men,NOR,0.6721417
+944,##keu purba,ORG,0.5946528
+944,rp 200 t,MON,0.9948562
+944,bank himbara,ORG,0.98454684
+945,mariner eccles,ORG,0.82809347
+946,##eng,EVT,0.3272627
+946,purba,PER,0.44712368
+946,zulhas,PER,0.98347896
+947,purba,PER,0.8307845
+947,rp 200 t,MON,0.99148184
+947,bank,ORG,0.7227779
+948,rp 554 miliar,MON,0.9943837
+948,pemprov banten,NOR,0.9673083
+949,rp 200 t,MON,0.99244183
+949,himbara,PER,0.59822714
+949,purba,PER,0.84903425
+950,pramono,PER,0.96168154
+950,pj,PRD,0.39380962
+950,##p,PRD,0.4494504
+950,202,CRD,0.6700965
+950,##6,CRD,0.4352015
+951,prabowo,PER,0.9877515
+951,purbaya,PER,0.7186441
+951,zulhas,PER,0.97713643
+952,bank,ORG,0.36057034
+952,rp 7 t,MON,0.98738223
+952,rp 200 t,MON,0.9860174
+953,pemerintah,NOR,0.95087546
+953,8,CRD,0.8587138
+954,pemerintah,NOR,0.9107098
+955,isc,ORG,0.6959669
+955,12,CRD,0.9110074
+956,muzani,PER,0.96916443
+957,rp 200 triliun,MON,0.9972482
+957,bank bumn,ORG,0.78469634
+957,purba,PER,0.5644386
+958,pemerintah,NOR,0.96487737
+958,"rp 16, 23 t",MON,0.99248207
+958,apbn,LAW,0.5917619
+959,kemenperin,NOR,0.94500065
+959,keputusan pemerintah,LAW,0.5540989
+959,cukai rokok,LAW,0.7100391
+959,202,CRD,0.41168573
+959,##6,LAW,0.7084581
+960,men,NOR,0.6975515
+960,##keu,ORG,0.5782729
+960,purba,PER,0.3839865
+960,##ut bank,ORG,0.617844
+960,rp 200 triliun,MON,0.9973202
+961,5,CRD,0.8496191
+961,rp 200 t,MON,0.99595267
+962,bank bumn,ORG,0.6101526
+962,rp 200 t,MON,0.9956127
+963,purbaya,PER,0.89349884
+963,yudhi sadewa,PER,0.9101763
+963,men,NOR,0.54598284
+963,##u,ORG,0.40574354
+963,lps,ORG,0.91649234
+965,lps,ORG,0.88916326
+966,purba,PER,0.6896752
+966,bah,PER,0.5663097
+966,##lil,REG,0.38702455
+966,lpg 3 kg,PRD,0.7042532
+967,purbaya wanti,PER,0.84486616
+967,5,CRD,0.8821873
+967,rp 200 triliun,MON,0.99764186
+968,men,NOR,0.5842509
+968,og,PER,0.84007454
+969,purbaya,PER,0.81461495
+969,lps,ORG,0.9337692
+970,3 kg,QTY,0.5952923
+971,airlangga,PER,0.91791165
+971,rokok,PRD,0.47632617
+972,3 kg,QTY,0.681561
+973,sri mulyani,PER,0.98449093
+973,bali,GPE,0.6641471
+974,prabowo,PER,0.9980385
+974,dapur mbg,LOC,0.46210524
+975,purba,PER,0.70850575
+975,rp 200 t,MON,0.9885424
+976,202,DAT,0.32385793
+976,##6,CRD,0.16937712
+977,purba,PER,0.47023153
+977,6,CRD,0.898143
+977,rp200 t,MON,0.9837985
+978,prabowo,PER,0.9973219
+978,kerta,GPE,0.7139042
+978,##negara,ORG,0.40927586
+979,bea cukai,NOR,0.68825746
+979,rp 210 miliar,MON,0.9969223
+980,eddy soeparno,PER,0.99191827
+980,lpg 3 kg,PRD,0.59310186
+981,ulama jatim,NOR,0.690562
+982,menkeu purba,NOR,0.6523625
+982,##wa,ORG,0.7434569
+982,2026,DAT,0.9348994
+984,5,CRD,0.8725418
+984,rp 200 t,MON,0.98992777
+984,purba,PER,0.95545834
+984,sb,PER,0.36961162
+985,1. 000,CRD,0.9642172
+985,kopdes merah putih,PRD,0.807523
+985,minggu,DAT,0.6839083
+986,tembakau,PRD,0.4279785
+987,sri mulyani,PER,0.9938323
+987,itb,ORG,0.81354654
+988,jokowi,PER,0.9713381
+988,purba,PER,0.8624111
+989,menkeu,NOR,0.65485936
+989,sri mulyani,PER,0.9961095
+989,25 tahun,QTY,0.97929966
+990,menko perekonomian,NOR,0.5544335
+990,merah putih,EVT,0.3796729
+991,pemerintah,NOR,0.93945545
+992,menkeu,NOR,0.66837883
+992,sri mulyani,PER,0.99616504
+993,prabowo,PER,0.9973194
+993,badan penerimaan negara,ORG,0.47380757
+994,ih,PER,0.30733037
+994,##s,ORG,0.37728113
+994,prabowo,PER,0.9931845
+994,sri mulyani,PER,0.98690015
+995,menkeu,NOR,0.78789383
+995,17,CRD,0.9103993
+995,8,CRD,0.8927341
+996,sri mulyani,PER,0.98491436
+997,menteri keuangan indonesia,NOR,0.87819785
+998,sri mulyani,PER,0.99023634
+998,prabowo,PER,0.99589044
+999,prabowo,PER,0.9974716
+999,sri mulyani,PER,0.9870716
+1000,kemensos,ORG,0.75298434
+1000,rp 74 t,MON,0.995231
+1000,sekolah rakyat,ORG,0.72117
+1000,bansos,ORG,0.54038155
+1001,sri mulyani,PER,0.9926743
+1002,jokowi,PER,0.98753554
+1002,menkeu,NOR,0.57781106
+1002,purba,PER,0.82890105
+1002,bagus,PER,0.6973823
+1003,5,CRD,0.56161875
+1003,##hu,NOR,0.6322042
+1003,prabowo,PER,0.9961971
+1004,prabowo,PER,0.9945911
+1004,suara,ORG,0.6028072
+1004,panglima,NOR,0.26059973
+1004,kapolri,NOR,0.8305345
+1005,lps,ORG,0.77385074
+1005,wamenkop,ORG,0.6475463
+1005,ferry,PER,0.79616463
+1006,sri mulyani,PER,0.9891138
+1006,kemenkeu,EVT,0.5403402
+1007,pertamina,ORG,0.9544
+1007,kilang,PRD,0.70174843
+1008,menag,NOR,0.80831313
+1008,10,CRD,0.82089335
+1008,prabowo,PER,0.9933119
+1009,jokowi,PER,0.9885318
+1009,purba,PER,0.44271064
+1009,sri mulyani,PER,0.99187493
+1010,rp 980 t,MON,0.99536574
+1010,2029,MON,0.799332
+1011,mobil,PRD,0.88500655
+1011,sri mulyani,PER,0.9798291
+1012,prabowo sapa,PER,0.7273893
+1012,lubang buaya,LOC,0.8522054
+1013,200,CRD,0.6186344
+1013,rp 60 triliun,MON,0.99564266
+1014,ih,PRD,0.34841648
+1014,##s,ORG,0.48044443
+1014,##g,PRD,0.3617218
+1014,7. 684,CRD,0.9560896
+1015,sri mulyani,PER,0.996574
+1015,men,NOR,0.569526
+1016,menkeu,NOR,0.7656825
+1016,bgn,ORG,0.65412945
+1016,rp 268 t,MON,0.9938093
+1017,jokowi,PER,0.99645543
+1017,sri mulyani,PER,0.97538596
+1018,apbn 2026,LAW,0.75808674
+1018,dpr,NOR,0.983688
+1018,8,CRD,0.8805426
+1019,6,CRD,0.80686575
+1019,itb,ORG,0.87464523
+1019,menteri keuangan,NOR,0.79672337
+1020,##g,PRD,0.41730535
+1020,menkeu,NOR,0.9006837
+1020,bgn,ORG,0.8473772
+1021,ri,NOR,0.42312124
+1021,sri mulyani,PER,0.99266505
+1022,res,NOR,0.44284236
+1022,##ffle kabinet,NOR,0.45051515
+1022,prabowo,PER,0.9574702
+1022,september 2025,DAT,0.895548
+1022,5,CRD,0.95626944
+1023,prabowo,PER,0.9904636
+1023,sri mulyani,PER,0.9926281
+1023,budi arie,PER,0.98728156
+1024,sri mulyani,PER,0.9950531
+1024,kemenkeu,NOR,0.7704682
+1024,sertijab,PER,0.66828394
+1024,love,WOA,0.50034595
+1025,anggota,NOR,0.54935354
+1025,dpr,NOR,0.6164879
+1026,8,CRD,0.74776596
+1026,apbn 2026,LAW,0.68073773
+1027,sri mulyani,PER,0.9858028
+1028,bos bi,ORG,0.8534987
+1028,dolar as,MON,0.9797728
+1029,pemerintah,NOR,0.98370093
+1029,satgas,NOR,0.4905599
+1030,mobil,PRD,0.6490574
+1030,sri mulyani,PER,0.99215823
+1030,menteri keuangan,NOR,0.969136
+1031,didik madiyono,PER,0.991935
+1031,dk lps,ORG,0.61131257
+1032,sri mulyani,PER,0.99591833
+1032,menkeu,NOR,0.6085883
+1033,prabowo,PER,0.9969902
+1033,kabinet,NOR,0.48058745
+1034,4,CRD,0.8848453
+1034,1,CRD,0.7956681
+1034,prabowo,PER,0.98202723
+1034,gibran,PER,0.9751277
+1035,prabowo,PER,0.9958234
+1035,suara,ORG,0.5312156
+1035,panglima tni,NOR,0.6740049
+1035,kapolri,NOR,0.9186417
+1036,apbn 202,LAW,0.6109163
+1036,##6,MON,0.9283941
+1036,rp 335 triliun,MON,0.99443483
+1037,hari kesaktian pancasila,EVT,0.7775577
+1037,prabowo,PER,0.9963601
+1037,gibran,PER,0.9421233
+1037,sumur lubang buaya,LOC,0.84476584
+1038,prabowo,PER,0.9774354
+1038,upacara hari kesaktian pancasila,EVT,0.94381654
+1039,prabowo,PER,0.99670655
+1039,25 ribu,CRD,0.93463105
+1039,cileungsi bogor,GPE,0.75577706
+1040,uu apbn 2026,LAW,0.9800651
+1040,rp 335 t,MON,0.9708951
+1041,erick thohir,PER,0.9924428
+1043,sri mulyani,PER,0.99539214
+1044,sri mulyani,PER,0.992662
+1045,sri mulyani,PER,0.9943047
+1046,sri mulyani,PER,0.9792587
+1047,men,NOR,0.5230043
+1047,ibu sri,PER,0.691396
+1048,sri mulyani,PER,0.9944138
+1050,prabowo,PER,0.9932822
+1050,men,NOR,0.5958814
+1050,sri mulyani,PER,0.99583846
+1051,sri mulyani,PER,0.9932597
+1051,prabowo,PER,0.9913901
+1052,2,QTY,0.69653517
+1052,rp 4 t,MON,0.99260956
+1052,sri mulyani,PER,0.9851218
+1053,prabowo,PER,0.9856391
+1053,sri mulyani,PER,0.99404675
+1054,rupiah,MON,0.7645898
+1054,sri mulyani,PER,0.98697203
+1055,bgn,ORG,0.76279557
+1055,rp 71 triliun,MON,0.9974815
+1056,sri mulyani,PER,0.96725434
+1056,kantor,NOR,0.29006034
+1056,kemen,LOC,0.40019473
+1056,##keu,NOR,0.456519
+1057,prabowo,PER,0.99713045
+1058,uu apbn 2026,LAW,0.9618829
+1058,"rp 769, 1 t",MON,0.91639537
+1059,4,CRD,0.7373819
+1059,1,CRD,0.5720773
+1059,prabowo,PER,0.9951126
+1060,rupiah,MON,0.95731556
+1060,dolar as,MON,0.98406154
+1061,prabowo,PER,0.9969503
+1061,26 ribu,CRD,0.90551233
+1061,bogor,GPE,0.99574476
+1063,genjot belanja,ORG,0.5052104
+1064,upacara kesaktian pancasila,EVT,0.9314727
+1064,muzani,PER,0.8905467
+1064,pancasila,WOA,0.2022737
+1064,puan,PER,0.62643975
+1066,rupiah,MON,0.9576932
+1066,dolar as,MON,0.9887949
+1067,jokowi,PER,0.99004585
+1067,menke,NOR,0.5108923
+1067,##u,ORG,0.39179844
+1067,purba,PER,0.76500565
+1067,indeks harga,PRD,0.5271288
+1068,pemerintah,NOR,0.97991395
+1069,reformasi,NOR,0.3505993
+1069,tkdn,ORG,0.6048615
+1070,ri,ORG,0.40890986
+1070,"rp 1 - 2, 5 m",MON,0.9301027
+1071,budi gunawan,PER,0.9947276
+1071,menko polkam,NOR,0.81228995
+1071,ad,NOR,0.4596609
+1072,menpora,NOR,0.73049843
+1072,dit,PER,0.9097247
+1072,##o ariotedjo,PER,0.8053624
+1075,kepala bp haji,NOR,0.601313
+1076,rp 200 triliun,MON,0.9963009
+1076,dirjen kemenkeu,NOR,0.94484794
+1077,sri mulyani,PER,0.9703279
+1078,prabowo,PER,0.98809856
+1078,4,CRD,0.8768386
+1078,budi gunawan,PER,0.99169844
+1078,sri mulyani,PER,0.99284124
+1079,bangga,NOR,0.8676898
+1079,##r,NOR,0.52332824
+1079,dpr desak,NOR,0.64604235
+1079,menkeu,NOR,0.56968135
+1080,jokowi,PER,0.981027
+1080,sri mulyani,PER,0.9933302
+1080,men,NOR,0.49326426
+1080,bagus,PER,0.6581476
+1081,menpora,NOR,0.9044575
+1081,erick thohir,PER,0.98603565
+1082,pph 21,LAW,0.6172063
+1083,rp 200 triliun,MON,0.9972803
+1083,6,CRD,0.9464135
+1084,purba,PER,0.6218394
+1084,rp 200 t,MON,0.9932389
+1084,bni,ORG,0.98330426
+1084,bri,ORG,0.96144944
+1084,mandiri,ORG,0.93341106
+1084,btn,ORG,0.7429395
+1084,bs,PER,0.360767
+1085,pemerintah,NOR,0.9750074
+1085,"rp 6, 5 t",MON,0.99301136
+1085,bansos beras,PRD,0.6454429
+1085,10 kg,QTY,0.8498144
+1085,minyak goreng,PRD,0.91518307
+1085,2 liter,QTY,0.872882
+1086,purba,PER,0.3335374
+1086,menkeu,NOR,0.80841637
+1087,sri mulyani,PER,0.9954996
+1087,men,NOR,0.68233335
+1088,ih,PER,0.4228453
+1088,menkeu,NOR,0.6171572
+1088,kadin,NOR,0.69463134
+1089,sri mulyani,PER,0.9932936
+1090,prabowo,PER,0.99561983
+1090,airlangga,PER,0.97224164
+1090,juli,DAT,0.9757441
+1091,sri mulyani,PER,0.9891522
+1091,indonesia,GPE,0.97603464
+1092,sri mulyani,PER,0.99491054
+1092,rupiah,MON,0.9032939
+1093,dito ariotedjo,PER,0.883266
+1093,budi gunawan,PER,0.9951028
+1094,istana,LOC,0.481742
+1094,bantah,ORG,0.45349386
+1094,budi,PER,0.96458334
+1094,gunawan,ORG,0.70754975
+1095,prabowo,PER,0.9929289
+1096,5,CRD,0.8647558
+1096,prabowo,PER,0.9934974
+1096,sri mulyani,PER,0.99392295
+1096,budi gunawan,PER,0.9941402
+1097,prabowo,PER,0.9955444
+1098,prabowo,PER,0.99139106
+1098,menko polhukam,NOR,0.8401207
+1098,menpora,NOR,0.90806115
+1099,prabowo,PER,0.9933509
+1099,gus irfan,PER,0.9880007
+1099,menteri haji,NOR,0.7084851
+1099,dah,PER,0.8859945
+1100,ferry juliantono,PER,0.99486923
+1100,menteri koperasi,NOR,0.9296094
+1100,budi arie,PER,0.95082474
+1101,4,CRD,0.851236
+1101,1,CRD,0.31209424
+1101,prabowo,PER,0.9952108
+1102,karding,PER,0.85594547
+1102,mukhtarudin,PER,0.98885
+1102,menteri p2,NOR,0.49263677
+1102,##mi,ORG,0.6202935
+1103,kedua,ORD,0.9566301
+1103,bg,PER,0.8285271
+1103,dito ariotedjo,PER,0.93697464
+1104,prabowo,PER,0.9974195
+1105,sri mulyani,PER,0.99356574
+1105,prabowo,PER,0.9911809
+1106,ih,PRD,0.45032954
+1106,##s,ORG,0.42362094
+1106,"1, 28 %",PRC,0.9915834
+1106,sri mulyani,PER,0.9909943
+1107,prabowo,PER,0.99267745
+1107,menkeu,NOR,0.8019741
+1107,sri mulyani,PER,0.9925299
+1108,prabowo,PER,0.9817062
+1108,budie arie,PER,0.86692125
+1108,sri mulyani,PER,0.9890359
+1109,prabowo,PER,0.99121034
+1109,menko polkam,NOR,0.9082663
+1109,menkeu,NOR,0.87393934
+1110,budi arie,PER,0.99333847
+1111,prabowo,PER,0.99756634
+1112,airlangga,PER,0.98165154
+1113,dpr,NOR,0.9837226
+1113,pemerintah,NOR,0.95095
+1113,minyak,PRD,0.957564
+1113,2 liter,QTY,0.8523524
+1113,bansos pangan,PRD,0.4381319
+1114,menteri keuangan,NOR,0.8889287
+1114,sri mulyani,PER,0.99254555
+1115,purba,PER,0.7283743
+1115,rp 200 triliun,MON,0.9948213
+1115,enam,CRD,0.95104635
+1116,dolar as,MON,0.9856446
+1116,rp 16. 800,MON,0.9960665
+1116,men,NOR,0.5876615
+1117,men,NOR,0.6474037
+1118,purba,PER,0.9343638
+1118,rp 200 t,MON,0.9957467
+1118,bank,ORG,0.96561575
+1118,bni,ORG,0.94641554
+1119,mendagri,NOR,0.9781263
+1119,pemda buru,NOR,0.86205304
+1119,buru,NOR,0.3477921
+1120,net sell,ORG,0.8089773
+1120,"rp 2, 1 t",MON,0.99630755
+1120,bca,ORG,0.8790032
+1121,abdul kadir karding,PER,0.98622006
+1121,menteri p2,NOR,0.6277471
+1121,##mi,ORG,0.64340824
+1121,mukhtarudin,PER,0.9915871
+1122,abdul kadir karding,PER,0.8205161
+1122,menteri p2,NOR,0.6806433
+1122,##mi,ORG,0.64860386
+1123,sri mulyani,PER,0.9946632
+1123,kemen,LOC,0.32476383
+1123,##keu,NOR,0.44151866
+1124,saham bank,ORG,0.4478036
+1124,prabowo,PER,0.9915487
+1124,sri mulyani,PER,0.9916342
+1125,prabowo,PER,0.9923348
+1125,5,CRD,0.82394373
+1125,pan,NOR,0.9881522
+1126,nasdem,NOR,0.9767991
+1126,prabowo,PER,0.99003863
+1127,budi arie,PER,0.9900507
+1127,ferry juliantono,PER,0.9926691
+1127,uu koperasi nasional,LAW,0.9420505
+1128,prabowo,PER,0.988166
+1128,aria bima,PER,0.98692966
+1128,pdip,NOR,0.92695826
+1129,gus irfan,PER,0.992468
+1129,haji,NOR,0.5532026
+1129,umrah,NOR,0.5345167
+1129,dahnil anzar simanjun,PER,0.96437573
+1130,4,CRD,0.84450406
+1130,1,CRD,0.5914972
+1130,prabowo,PER,0.98648816
+1131,4,CRD,0.85628104
+1131,1,CRD,0.7375877
+1131,prabowo,PER,0.995387
+1132,pemerintah,NOR,0.94649583
+1133,prabowo,PER,0.99680054
+1133,men,NOR,0.5518482
+1133,##u,ORG,0.34910384
+1133,dir,NOR,0.5684866
+1133,##ut pertamina,ORG,0.71292037
+1133,istana,LOC,0.6237542
+1135,rp 335 t,MON,0.99002314
+1135,apbn 202,LAW,0.7315164
+1135,##6,MON,0.8738686
+1135,rp 223 t,MON,0.9867932
+1136,paripurna dpr,NOR,0.9457959
+1136,rapbn 2026,LAW,0.78156006
+1136,negara,LAW,0.5357037
+1136,"rp 3. 842, 7 t",MON,0.9779061
+1137,children,ORG,0.521212
+1137,with hummer,WOA,0.33085832
+1138,soeharto,PER,0.899076
+1138,men,NOR,0.6479029
+1138,bl,ORG,0.31419882
+1139,2025,DAT,0.91154486
+1140,wam,NOR,0.6333647
+1140,##enkeu,ORG,0.6451412
+1140,anggito abimanyu,PER,0.95158666
+1140,ketua lps,ORG,0.7618874
+1141,wapres,NOR,0.62284005
+1141,gibran,PER,0.92102337
+1141,5,CRD,0.73761886
+1141,kabinet,NOR,0.40147376
+1142,menkop,NOR,0.5352557
+1142,koperasi boleh kelola tambang,ORG,0.7273564
+1142,2. 500 hektare,QTY,0.99095
+1143,sri mulyani,PER,0.9938124
+1143,kemenkeu,NOR,0.8728986
+1144,sri mulyani,PER,0.99625283
+1145,zulhas,PER,0.98719037
+1145,prabowo,PER,0.98813325
+1146,5,ORD,0.485688
+1146,prabowo,PER,0.99048364
+1146,kedua,ORD,0.96362287
+1147,sri mulyani,PER,0.98577166
+1147,kemen,NOR,0.38603544
+1148,sri mulyani,PER,0.9959009
+1148,kemenkeu,NOR,0.62086135
+1149,kabinet,NOR,0.44061294
+1149,prabowo,PER,0.9970951
+1149,2,CRD,0.95876795
+1150,2,CRD,0.873694
+1151,prabowo,PER,0.9969908
+1151,sri mulyani,PER,0.99291056
+1152,menteri haji,NOR,0.53815585
+1152,um,NOR,0.42177954
+1152,m irfan yusuf,PER,0.97918916
+1152,mi,PRD,0.59918815
+1152,karbu,PRD,0.5607556
+1153,kadin,ORG,0.46024817
+1153,sri mulyani,PER,0.9949198
+1154,res,NOR,0.5068066
+1154,##ffle,NOR,0.51751953
+1154,prabowo,PER,0.99400145
+1154,5,CRD,0.7103407
+1154,budi gunawan,PER,0.9949868
+1154,sri mulyani,PER,0.99080235
+1155,pdip,NOR,0.9815694
+1155,prabowo,PER,0.99375653
+1156,menkeu,NOR,0.7693711
+1157,bos,ORG,0.57654524
+1157,bgn,ORG,0.73293304
+1157,mb,PRD,0.25502267
+1158,rp 89 t,MON,0.99511814
+1158,rp 200 t,MON,0.94087505
+1159,anggito abimanyu,PER,0.9474635
+1159,wamenkeu,ORG,0.75982803
+1159,lps,ORG,0.87817645
+1160,um surabaya,ORG,0.8111484
+1161,anggito abimanyu,PER,0.9616125
+1161,wamenkeu,ORG,0.6354253
+1161,lps,ORG,0.90394294
+1162,mendagri,NOR,0.96637046
+1162,pemda,NOR,0.943616
+1163,sea games,EVT,0.98428833
+1163,2 bulan,QTY,0.93715525
+1163,rp 10 miliar,MON,0.995687
+1164,bs,ORG,0.63069016
+1164,rp 10 t,MON,0.99632645
+1164,rp 200 t,MON,0.99633527
+1165,bank swasta,ORG,0.7413203
+1165,rp 200 t,MON,0.99626493
+1165,him,PER,0.55996907
+1165,##bara,ORG,0.5560408
+1166,anggito,PER,0.94305354
+1166,lps,ORG,0.756624
+1166,wamenkeu,NOR,0.5344078
+1166,presiden,NOR,0.7966486
+1167,lps,ORG,0.954846
+1167,anggito abimanyu,PER,0.90033406
+1167,rp 18 m,MON,0.9974983
+1168,pemerintah,NOR,0.966062
+1169,sri mulyani,PER,0.9873507
+1169,kopi,PRD,0.9463076
+1170,bg,PER,0.9099296
+1170,menko polkam,NOR,0.77932775
+1171,budi arie,PER,0.98923993
+1171,dpr,NOR,0.9639639
+1172,sri mulyani,PER,0.9953797
+1172,menteri keuangan,NOR,0.9519359
+1173,rupiah,MON,0.7956159
+1173,9 september 2025,DAT,0.9866504
+1173,1 dolar,MON,0.977296
+1173,rupiah,MON,0.88610023
+1174,prabowo,PER,0.9855848
+1174,budi arie,PER,0.9819102
+1174,sri mulyani,PER,0.98847866
+1175,pameran seni sby,EVT,0.876632
+1175,fadli zon,PER,0.99371594
+1176,bangga,NOR,0.8788563
+1176,##r,NOR,0.48603126
+1176,dpr,NOR,0.6517416
+1176,rapbn,LAW,0.6682372
+1176,202,CRD,0.40797153
+1176,##6,PRD,0.3946912
+1176,"rp 50, 3 t",MON,0.9935462
+1177,banggar dpr,NOR,0.6300645
+1177,menkeu,NOR,0.74976176
+1177,rapbn 202,LAW,0.65318066
+1177,##6,MON,0.60350716
+1177,negara,LAW,0.56510496
+1177,"rp 3. 842, 7",MON,0.991938
+1178,men,NOR,0.84371674
+1178,himbara,PER,0.8532914
+1178,rp 200 t,MON,0.98402005
+1178,ketua banggar dpr,NOR,0.83186406
+1179,prabowo,PER,0.9955558
+1179,kantor airlangga,LOC,0.8571571
+1180,prabowo,PER,0.99158186
+1180,2025,DAT,0.92487305
+1180,3,CRD,0.91377133
+1181,kementerian,NOR,0.87686867
+1182,bos,ORG,0.7879484
+1182,bi,ORG,0.5567262
+1182,pemerintah,NOR,0.9500727
+1182,rp 200 t,MON,0.99385196
+1183,ppp,NOR,0.83554333
+1183,##k,ORG,0.56449944
+1183,kop,NOR,0.40924686
+1183,##des,ORG,0.465098
+1183,rp 3 m,MON,0.9963923
+1184,rp 3 m,MON,0.9965353
+1184,rp 200 t,MON,0.9950762
+1185,anindya bakrie,PER,0.8940544
+1185,5,CRD,0.8877376
+1185,rp 200 t,MON,0.9946213
+1185,bagus,PER,0.9571014
+1187,tax,LAW,0.4260855
+1187,amnes,PRD,0.5115054
+1187,##ty,ORG,0.40492696
+1188,men,NOR,0.6437758
+1188,##keu purba,ORG,0.5798068
+1188,rp 200 t,MON,0.9941885
+1188,6,CRD,0.9457764
+1189,gudang garam,ORG,0.90608597
+1189,menke,NOR,0.44699085
+1189,purba,PER,0.91567546
+1190,kementerian bumn,NOR,0.96597934
+1191,##keu,ORG,0.6856486
+1191,purba,PER,0.40552855
+1192,uu p2sk,LAW,0.8805935
+1192,ojk,ORG,0.8031219
+1193,ojk,ORG,0.7033273
+1193,rp 200 t,MON,0.9852399
+1193,pemerintah,NOR,0.6451252
+1194,ri,GPE,0.75214124
+1194,6 %,PRC,0.9774362
+1195,pertamina,ORG,0.879932
+1195,kilang minyak,PRD,0.56886244
+1196,ketua komisi xi dpr,NOR,0.9714651
+1196,rp 200 t,MON,0.9939007
+1196,bi,ORG,0.93986857
+1197,soeharto,PER,0.7223114
+1198,purba,PER,0.9656781
+1198,lps,ORG,0.8907682
+1198,men,NOR,0.6510642
+1198,##keu,ORG,0.4480012
+1199,tutut,PER,0.64012957
+1199,soeharto,PER,0.6582328
+1199,menteri keuangan,NOR,0.96746707
+1199,ptun,ORG,0.8739349
+1200,menteri keuangan,NOR,0.97834575
+1200,tutut soeharto,PER,0.9075203
+1200,kemenkeu,NOR,0.9164098
+1201,bos danantara,ORG,0.875456
+1201,bank bumn,ORG,0.88463765
+1201,rp 200 t,MON,0.99328357
+1202,pimpinan komisi i dpr,NOR,0.7567184
+1202,djamari chaniago,PER,0.9870206
+1202,menko polkam,NOR,0.88845414
+1203,rp 200 t,MON,0.9864215
+1203,6,CRD,0.9490476
+1203,purba,PER,0.93362725
+1204,ekonomi,EVT,0.40533268
+1204,2025,DAT,0.710952
+1205,5,CRD,0.8035102
+1205,bumn,ORG,0.7516414
+1205,rp 200 t,MON,0.99536675
+1206,bangga,NOR,0.8759919
+1206,##r,NOR,0.6461489
+1206,dpr ri,NOR,0.79107434
+1207,haji ri,LOC,0.21874468
+1207,makkah,GPE,0.9635112
+1208,bl,ORG,0.24440235
+1208,tut,PER,0.7066335
+1208,soeharto,PER,0.82521665
+1208,men,NOR,0.66052353
+1209,menkeu,NOR,0.62995577
+1209,purbaya,PER,0.65038455
+1209,rp 200 t,MON,0.992894
+1209,6,CRD,0.9447804
+1210,purbaya,PER,0.85572785
+1210,6,CRD,0.9707845
+1210,rp 200 t,MON,0.99431115
+1211,pemerintah,NOR,0.8536958
+1212,8,CRD,0.5882121
+1212,2025,PRD,0.42941684
+1212,prabowo,PER,0.9751449
+1213,prabowo,PER,0.9921555
+1213,sarah sadiqa,PER,0.9808727
+1213,hendy,PER,0.94647646
+1213,kepala lkpp,ORG,0.78446347
+1214,kabinet,NOR,0.65470666
+1214,merah,ORG,0.46506047
+1214,prabowo,PER,0.9963897
+1214,gibran,PER,0.9745883
+1216,kabinet,NOR,0.591302
+1216,prabowo,PER,0.99536926
+1216,gibran,PER,0.95227605
+1217,djamari chaniago,PER,0.9881846
+1217,menko polkam,NOR,0.94626194
+1217,erick thohir,PER,0.913894
+1217,menpora,NOR,0.7450301
+1218,prabowo,PER,0.9915216
+1218,djamari chaniago,PER,0.978093
+1218,erick thohir,PER,0.9906681
+1219,erick thohir,PER,0.99385387
+1219,menpora,NOR,0.9362707
+1219,djamari chaniago,PER,0.9793438
+1219,menko polkam,NOR,0.9315093
+1220,prabowo,PER,0.99148893
+1220,men,NOR,0.609226
+1220,kapolri,NOR,0.9744241
+1221,mahfud md,PER,0.98385197
+1221,menko polkam,NOR,0.70837563
+1221,pimpinan komisi i dpr,NOR,0.9097644
+1222,djamari chaniago,PER,0.98922145
+1222,menko polkam,NOR,0.9307707
+1223,prabowo,PER,0.9801437
+1223,menko polkam,NOR,0.86608416
+1223,menpora,NOR,0.70162666
+1224,menko polkam,NOR,0.95469236
+1224,menpora,NOR,0.9387284
+1224,prabowo,PER,0.99457943
+1225,menko polkam,NOR,0.7044195
+1225,menpora,NOR,0.81617415
+1226,pimpinan komisi i dpr,NOR,0.93380255
+1226,djamari chaniago,PER,0.98555154
+1226,menko polkam,NOR,0.8644826
+1227,prabowo,PER,0.99392563
+1227,men,NOR,0.73098505
+1227,polkam,NOR,0.8643553
+1227,menpora,NOR,0.6417084
+1228,200,MON,0.35021433
+1228,ri,GPE,0.636013
+1229,zulhas,PER,0.98238695
+1229,rp 200 t,MON,0.99547786
+1229,bank himbara,ORG,0.9749255
+1230,20 ribu,CRD,0.8872086
+1230,bank bumn,ORG,0.5250393
+1231,erick thohir,PER,0.99093074
+1231,menpora,NOR,0.8949603
+1231,menteri bumn,NOR,0.95709693
+1232,erick thohir,PER,0.9919967
+1232,menpora,NOR,0.9217664
+1232,menteri bumn,NOR,0.9459038
+1233,##des merah putih,PRD,0.68175393
+1233,rp 3 m,MON,0.9966108
+1233,rp 200 t,MON,0.99506253
+1234,prabowo,PER,0.9936434
+1234,11,CRD,0.9654673
+1234,menko polkam,NOR,0.9534213
+1234,djamari chaniago,PER,0.9868662
+1234,menpora,NOR,0.9676235
+1234,erick thohir,PER,0.9911464
+1235,2,ORD,0.5887545
+1235,erick thohir,PER,0.9916503
+1235,menpora,NOR,0.8079767
+1235,djamari chaniago,PER,0.9868932
+1235,menko polkam,NOR,0.91882247
+1236,11,CRD,0.92116696
+1236,prabowo subianto,PER,0.995082
+1237,11,CRD,0.8876753
+1237,prabowo,PER,0.99184215
+1237,djamari chaniago,PER,0.9871651
+1237,erick thohir,PER,0.9932535
+1238,11,CRD,0.90740657
+1238,prabowo,PER,0.9971199
+1238,2,CRD,0.93208134
+1238,kepala,NOR,0.41440794
+1238,lkpp,ORG,0.434335
+1239,ojol,ORG,0.4232676
+1239,50 %,PRC,0.9863492
+1239,jk,ORG,0.3801325
+1239,jk,ORG,0.39452127
+1240,utak,PER,0.91471654
+1240,ati,PER,0.50905037
+1240,kabinet,PER,0.33376372
+1240,prabowo,PER,0.8688868
+1240,ketiga,ORD,0.90949994
+1241,8,CRD,0.80959624
+1241,4,CRD,0.8311809
+1241,5,CRD,0.79923576
+1242,himbara,PER,0.2773387
+1243,bri,ORG,0.7830292
+1243,rp 55 triliun,MON,0.9975972
+1243,pemerintah,NOR,0.9746523
+1243,pemerintah,NOR,0.47993043
+1244,zul,ORG,0.34422606
+1244,##has,PER,0.67005223
+1244,desa,ORG,0.4992799
+1244,rp 200 t,MON,0.99390745
+1244,##des merah putih,PRD,0.7228832
+1245,angga raka,PER,0.9684266
+1245,jakarta,GPE,0.986698
+1245,kepala bkp,NOR,0.6801898
+1246,lebaran bisnis,EVT,0.74476135
+1246,fle,EVT,0.43037614
+1246,##i,DAT,0.3225358
+1246,2025,DAT,0.50313365
+1247,pemerintah,NOR,0.9699634
+1247,8,CRD,0.8313771
+1248,11,CRD,0.8784399
+1248,prabowo,PER,0.9788213
+1248,istana negara,LOC,0.5953675
+1249,men,NOR,0.86255556
+1249,polkam,NOR,0.80339354
+1249,menpora,NOR,0.88048506
+1249,prabowo,PER,0.99680376
+1250,2,CRD,0.963873
+1250,menko polkam,NOR,0.94437337
+1250,djamari chaniago,PER,0.9930043
+1250,mahfud md,PER,0.99066687
+1251,prabowo,PER,0.9952524
+1251,##kam,NOR,0.476991
+1251,istana negara,LOC,0.9152514
+1252,rosan,PER,0.96767485
+1252,rp 200 t,MON,0.995858
+1252,himbara,GPE,0.6839359
+1253,bahlil,REG,0.5905942
+1253,prabowo,PER,0.9975794
+1254,kemenkeu,NOR,0.6410429
+1254,"rp 10 t, bs",MON,0.7919769
+1255,prabowo,PER,0.9957754
+1256,basuki,PER,0.9974789
+1256,dua,CRD,0.9465751
+1256,rp 19 t,MON,0.9937497
+1256,ikn,ORG,0.68989
+1257,prabowo,PER,0.9738438
+1257,djamari chaniago,PER,0.98381364
+1257,menko polkam,NOR,0.926002
+1257,erick thohir,PER,0.9937411
+1257,menpora,NOR,0.891653
+1258,bg,PER,0.8440605
+1258,sri mulyani,PER,0.99094754
+1258,prabowo,PER,0.9976336
+1259,rp 200 triliun,MON,0.9956598
+1259,menkeu,NOR,0.59647936
+1259,5,CRD,0.9261951
+1259,3,CRD,0.833875
+1260,pertamina,ORG,0.839403
+1261,pemerintah,NOR,0.92783386
+1261,8,CRD,0.58646685
+1261,4,CRD,0.723254
+1261,5,CRD,0.8022481
+1261,2025,DAT,0.40782115
+1262,kop,ORG,0.48651728
+1262,##des merah putih,PRD,0.523249
+1262,bank,ORG,0.64873993
+1263,prabowo,PER,0.99747795
+1264,prabowo,PER,0.9944788
+1265,5,CRD,0.7013989
+1265,res,NOR,0.4689912
+1265,prabowo,PER,0.9959447
+1266,rp 200 t,MON,0.99142903
+1266,bank,ORG,0.5782262
+1266,6 bulan,QTY,0.8746463
+1267,##des merah putih,PRD,0.60319585
+1267,him,PER,0.5049477
+1267,##bara,ORG,0.32789186
+1268,rokok,PRD,0.39278772
+1269,menkeu,NOR,0.6776125
+1269,purbaya,PER,0.67525727
+1269,prabowo,PER,0.99330807
+1269,rp 200 t,MON,0.9929288
+1270,menke,NOR,0.5295838
+1270,##u,ORG,0.48710236
+1270,purba,PER,0.7643899
+1270,empat,CRD,0.96179616
+1271,5,CRD,0.9522559
+1271,rp 200 triliun,MON,0.9966142
+1272,pemerintah,NOR,0.9811039
+1273,purbaya,PER,0.71920705
+1273,indonesia,GPE,0.7446004
+1274,tim khusus,ORG,0.6653989
+1274,genjot program prioritas,ORG,0.900153
+1275,ketua dpd,NOR,0.7601377
+1275,pemda,NOR,0.79510874
+1277,purbaya,PER,0.78956974
+1277,prabowo,PER,0.9948154
+1277,rp 200 t,MON,0.99439096
+1278,airlangga,PER,0.7835099
+1278,rp 200 triliun,MON,0.9974463
+1279,him,PRD,0.29662368
+1279,##bara,ORG,0.38982493
+1280,menkeu purba,NOR,0.64349174
+1280,cia,NOR,0.2407534
+1281,pemerintah,NOR,0.9838509
+1281,8,CRD,0.48937157
+1281,4,CRD,0.49868402
+1281,ojol,ORG,0.86125684
+1282,men,NOR,0.5350076
+1282,rp 200 triliun,MON,0.99726874
+1283,6,CRD,0.9634489
+1283,rp 200 t,MON,0.9857002
+1283,pemerintah,NOR,0.9420465
+1285,airlangga,PER,0.95550513
+1285,rp 200 t,MON,0.9929041
+1285,menteri keuangan,NOR,0.92688656
+1286,bank mandiri,ORG,0.9892275
+1286,pemerintah,NOR,0.9440023
+1286,rp 200 t,MON,0.99336076
+1287,prabowo,PER,0.9973623
+1287,menko polkam,NOR,0.90571237
+1287,menpora,NOR,0.8739871
+1288,men,NOR,0.41339076
+1288,ferry,PER,0.8397477
+1288,koperasi,ORG,0.49954015
+1288,8 %,PRC,0.9859151
+1289,menke,NOR,0.72418934
+1289,rp 200 t,MON,0.99253064
+1289,pemerintah,NOR,0.94344425
+1290,bahlil,REG,0.5940547
+1290,babel,GPE,0.9704287
+1291,dpr,NOR,0.9865118
+1291,kemenkeu,NOR,0.73288435
+1291,2026,MON,0.54779094
+1291,rp 52 triliun,MON,0.9510339
+1292,kemenkeu,NOR,0.89815515
+1292,rp 52 t,MON,0.9935417
+1292,2026,MON,0.8775103
+1293,menpora,NOR,0.9084691
+1293,menko polkam,NOR,0.86755747
+1293,prabowo,PER,0.9965205
+1294,2,EVT,0.39370376
+1294,menteri olahraga taiwan,NOR,0.97764635
+1294,indonesia,GPE,0.9645372
+1295,kemenkeu,NOR,0.9122262
+1295,2026 rp 52 t,MON,0.9364332
+1295,dpr,NOR,0.98448044
+1296,kemenkeu,NOR,0.8025279
+1297,bobby,PER,0.99650097
